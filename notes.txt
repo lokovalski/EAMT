@@ -1,0 +1,4 @@
+Katie Meeting Notes 11/19:
+
+- Cascading errors: what if NER is really bad?
+- Figure out accuracy in NER (if F1 is above 0.8 then that's fine, otherwise crash it)
