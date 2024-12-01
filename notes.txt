@@ -1,4 +1,28 @@
-Katie Meeting Notes 11/19:
+Lola Work Notes 11/30:
 
+STEP 1: CLEAN DATA/CREATE SOURCE OF TRUTH -- COMPLETE
+Raw data being used: 'data/italian.jsonl','data/spanish.jsonl', 'data/mintaka,json'
+- italian.jsonl and spanish.jsonl from SEMEVAL tasks
+- mintaka.json from wikidata/mintaka dataset
+
+Creates:
+- 'data/spanish_updated.jsonl': fixes semeval mislabelling of all spanish entries as italian
+- 'data/Q_data.json': Entity code extracted from mintaka (i.e. ["Q1153188": {"en": "Mount Lucania",...}])
+        - key: entities
+        - value: dictionary of translation in english, spanish, and italian
+- 'spanish_w_labels.json': Contains English question, Spanish question, entity in english, entity in spanish
+        - i.e. {"id": "2723bb1b", "source_locale": "es", "target_locale": "en", "source": 
+        "Which actor was the star of Titanic and was born in Los Angeles, California?", "target": 
+        "\u00bfQu\u00e9 actor protagoniz\u00f3 Titanic y naci\u00f3 en Los \u00c1ngeles, California?",
+         "entities": {"Q65": {"es": "Los \u00c1ngeles", "en": "Los Angeles"}}, "from": "mintaka"}
+- 'italian_w_labels.json': Same as spanish but in italian
+
+STEP 2: NER AND ACURACY -- IN PROGRESS 
+- Use tomaarsen/span-marker-mbert-base-multinerd model to find the non english entity in tranlated questions
+  and compare to source of truth in 'spanish_w_labels.json' and 'italian_w_labels.json'
+
+
+------------------------------------------------------------------------------------------
+Katie Meeting Notes 11/19:
 - Cascading errors: what if NER is really bad?
 - Figure out accuracy in NER (if F1 is above 0.8 then that's fine, otherwise crash it)
