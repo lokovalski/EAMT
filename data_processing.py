@@ -130,4 +130,4 @@ def update_source_locale(jsonl_file, new_locale, output_file):
 if __name__ == "__main__": 
     #get_subjects_by_Q_json("data/mintaka.json", "Q_data.json")
     #update_source_locale("data/spanish.jsonl", "es", "data/spanish_updated.jsonl")
-    process_jsonl_and_json("data/spanish_updated.jsonl", "Q_data.json", "spanish_w_lables.json", include_missing = False)
+    process_jsonl_and_json("/Users/lolakovalski/Desktop/School/csci375/EAMT/data/spanish_updated.jsonl", "/Users/lolakovalski/Desktop/School/csci375/EAMT/data/Q_data.json", "/Users/lolakovalski/Desktop/School/csci375/EAMT/data/spanish_w_labels.json", include_missing = False)
