@@ -1,3 +1,16 @@
+Lola Work Notes 12/2:
+
+TODO: 
+- Split data into test,train in main 
+- Update ner_processing.py with functions
+- Fix masking to mask based on hugging face model predictions
+
+Noticing some issues with the semeval data. They include fewer entities than the hugging face model identifies. 
+- Treating the semeval data as truth but model predictions might be better
+
+Performance issue: model takes a while to make a prediciton. Any way to parallelize? 
+
+------------------------------------------------------------------------------------------
 Lola Work Notes 11/30:
 
 STEP 1: CLEAN DATA/CREATE SOURCE OF TRUTH -- COMPLETE

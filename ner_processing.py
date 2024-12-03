@@ -1,18 +1,30 @@
-def load_ner_model():
-    """
-    Loads the pretrained NER model.
+from span_marker import SpanMarkerModel
+from tqdm import tqdm
+import time
+import torch
+import json
+
+def sanity_check(filepath):
+    '''
+    Compares identified named entities from semeval data to entities identified by hugging face model.
+    Intended to showcase model's strong performance, using precision rather than recall because 
+    model includes entities that semeval omits for an unknown reason.
+
+    Args: 
+        filepath (str): Input file to process
     Returns:
-        model: The loaded NER model.
-    """
-    pass
+        precision (int): 
+    '''
+    entities = identify_named_entities(filepath)
 
 
-def identify_named_entities(text):
+def identify_named_entities(filepath):
     """
-    Identifies named entities in the given text.
+    Identifies named entities in the given text using pretrained hugging face model
     Args:
-        text (str): Input text to process.
+        filepath (str): Input file to process.
     Returns:
         entities (list of dict): List of identified entities with their categories.
     """
-    pass
+    model = SpanMarkerModel.from_pretrained("tomaarsen/span-marker-mbert-base-multinerd", clean_up_tokenization_spaces = True)
+    
