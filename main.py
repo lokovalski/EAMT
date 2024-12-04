@@ -13,17 +13,26 @@ def main():
     es_datapath = os.path.abspath('data/spanish_w_labels.json')
     it_datapath = os.path.abspath('data/italian_w_labels.json')
 
+    print("Loading data... \n")
     #split data into train and test sets
     es_train, it_train = split(es_datapath, "spanish", 0.1)[0], split(it_datapath, "italian", 0.1)[0]
 
-'''
-    # Step 2: Perform Named Entity Recognition (NER)
-    print("Loading NER model...")
-    ner_model = load_ner_model()
-    
-    print("Identifying named entities...")
-    entities = [identify_named_entities(text) for text in source_texts]
+    nerRes = {"es": None,"it": None}
 
+    # Step 2: Perform Named Entity Recognition (NER)
+    for language in ['es', 'it']:
+        print("Identifying named entities {}... \n".format(language))
+        file = es_train if language == 'es' else it_train
+
+        nerRes[language] = identify_named_entities(file, language)
+        input = {"entities_labeled": nerRes['target_entities_labeled'], "entities_predicted": nerRes['target_entities_predicted']}
+
+        precision, recall, F1 = sanity_check(input)
+        print("Accuracy of SpanMarker for Multilingual Named Entity Recognition {}\n".format(language))
+        print("Precision: {}".format(precision))
+        print("Recall: {}".format(recall))
+        print("F1: {}".format(F1))
+'''
     # Step 3: Mask Named Entities
     print("Masking entities...")
     masked_texts = []
