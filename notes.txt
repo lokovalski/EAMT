@@ -1,8 +1,38 @@
+Katie MTG Notes
+- Draft email to semeval people about data issues, small labeling problems 
+
+TODOS:
+Modify split funciton in main.py
+- 80 10 10 split
+Add model threshold of 0.7-0.8 score of predictions 
+- only keep masked entities with score over that threshold
+- raw number after preprocessing, number remaining post model
+What to do with masking? 
+- Convert to natural language?
+- Might try reintegrating the translated entity prior to translation?
+What is the baseline?
+- zero shot send through translation system
+- Report BLUE scores
+- Sample 20 and do manual analysis --> compare to end to end model
+- Fine tune model based on substitution or masking
+
+stuff to address in final report:
+- Dataset quality bad, concern about contamination and overfitting
+- Want to hedge and say numbers are overinflated
+- Test set is really small, concerned about conclusions 
+
+------------------------------------------------------------------------------------------
+Lola Work Notes 12/4
+
+Finished ner_processing.py and updated main.py accordingly
+- have not tested but should prob
+
+------------------------------------------------------------------------------------------
 Lola Work Notes 12/2:
 
 TODO: 
 - [COMPLETE] Split data into test,train in main 
-- [IN PROGRESS] Update ner_processing.py with functions
+- [COMPLETE] Update ner_processing.py with functions
 - Fix masking to mask based on hugging face model predictions
 
 Noticing some issues with the semeval data. They include fewer entities than the hugging face model identifies. 

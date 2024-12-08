@@ -1,4 +1,5 @@
 import json 
+import os
 
 def get_subjects_by_Q_json(input_file, output_file):
     """
@@ -130,4 +131,15 @@ def update_source_locale(jsonl_file, new_locale, output_file):
 if __name__ == "__main__": 
     #get_subjects_by_Q_json("data/mintaka.json", "Q_data.json")
     #update_source_locale("data/spanish.jsonl", "es", "data/spanish_updated.jsonl")
-    process_jsonl_and_json("/Users/lolakovalski/Desktop/School/csci375/EAMT/data/spanish_updated.jsonl", "/Users/lolakovalski/Desktop/School/csci375/EAMT/data/Q_data.json", "/Users/lolakovalski/Desktop/School/csci375/EAMT/data/spanish_w_labels.json", include_missing = False)
+    #process_jsonl_and_json("/Users/lolakovalski/Desktop/School/csci375/EAMT/data/spanish_updated.jsonl", "/Users/lolakovalski/Desktop/School/csci375/EAMT/data/Q_data.json", "/Users/lolakovalski/Desktop/School/csci375/EAMT/data/spanish_w_labels.json", include_missing = False)
+    filelist = [os.path.abspath('data/spanish_w_labels.json'), os.path.abspath('data/italian_w_labels.json')]
+    for filepath in filelist:
+        with open(filepath, 'r+') as file:
+            lines = file.readlines()  # Read all lines into a list
+            file.seek(0)  # Move the file pointer to the beginning
+            file.truncate()  # Clear the file contents
+            
+            for line in lines:
+                data = json.loads(line.strip())  # Parse the JSON line
+                data['source_locale'], data['target_locale'] = data['target_locale'], data['source_locale']  # Swap the values
+                file.write(json.dumps(data) + '\n')  # Write the updated line back to the file
