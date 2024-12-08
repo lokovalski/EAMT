@@ -1,186 +1,10 @@
 [
     {
-        "id": "a2dcfa7e",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What is the 11th Pok\u00e9mon in the Pokedex?",
-        "target": "Qual \u00e8 l'undicesimo Pokemon nel Pokedex?",
-        "entities": {
-            "Q864": {
-                "it": "Pok\u00e9mon",
-                "en": "Pok\u00e9mon"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "e844b8e7",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Did George Lucas direct Star Wars: The Force Awakens?",
-        "target": "George Lucas ha diretto Star Wars: Il risveglio della Forza?",
-        "entities": {
-            "Q6074": {
-                "it": "Star Wars: Il risveglio della Forza",
-                "en": "Star Wars Episode VII: The Force Awakens"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "a0fc682a",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Did the French Revolution take place in 1302?",
-        "target": "La Rivoluzione Francese ha avuto luogo nel 1302?",
-        "entities": {
-            "Q6534": {
-                "it": "rivoluzione francese",
-                "en": "French Revolution"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "27da89b1",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who killed millions of his own people and was born to a poor family in Gori in the Russian Empire?",
-        "target": "Chi ha ucciso milioni di persone tra la propria gente ed era nato in una famiglia povera nel Gori nell'impero russo?",
-        "entities": {
-            "Q34266": {
-                "it": "Impero russo",
-                "en": "Russian Empire"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "9a46a2e8",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who conquered Egypt in 332 BC?",
-        "target": "Chi conquist\u00f2 Egitto nel 332 a.C.?",
-        "entities": {
-            "Q79": {
-                "it": "Egitto",
-                "en": "Egypt"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "80d5b7ae",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Is Burj Khalifa the tallest building in China?",
-        "target": "Il Burj Khalifa \u00e8 l'edificio pi\u00f9 alto della Cina?",
-        "entities": {
-            "Q148": {
-                "it": "Cina",
-                "en": "People's Republic of China"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "be381f7f",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Is the government of Australia a constitutional monarchy?",
-        "target": "Il governo dell'Australia \u00e8 una monarchia costituzionale?",
-        "entities": {
-            "Q41614": {
-                "it": "monarchia costituzionale",
-                "en": "constitutional monarchy"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "771e9326",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which Lord of the Rings trilogy book is the longest?",
-        "target": "Qual \u00e8 il libro pi\u00f9 lungo della trilogia de Il Signore degli Anelli?",
-        "entities": {
-            "Q15228": {
-                "it": "Il Signore degli Anelli",
-                "en": "The Lord of the Rings"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "43acecc1",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who became the president of Germany on 1 July 1994?",
-        "target": "Chi divenne il presidente della Germania il 1 luglio 1994?",
-        "entities": {
-            "Q183": {
-                "it": "Germania",
-                "en": "Germany"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "5ecc32bd",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "How many years did Augustus serve as emperor of Rome?",
-        "target": "Per quanti anni Augusto \u00e8 stato imperatore di Roma?",
-        "entities": {
-            "Q1405": {
-                "it": "Augusto",
-                "en": "Augustus"
-            },
-            "Q220": {
-                "it": "Roma",
-                "en": "Rome"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "0465ea62",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which war lasted longer, the Korean War or the Spanish American War?",
-        "target": "Quale guerra \u00e8 stata pi\u00f9 lunga, la guerra di Corea o la guerra ispano-americana?",
-        "entities": {
-            "Q8663": {
-                "it": "guerra di Corea",
-                "en": "Korean War"
-            },
-            "Q12583": {
-                "it": "guerra ispano-americana",
-                "en": "Spanish\u2013American War"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "46da09a5",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Is the Philippines a democratic country?",
-        "target": "Le Filippine sono un Paese democratico?",
-        "entities": {
-            "Q928": {
-                "it": "Filippine",
-                "en": "Philippines"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "473c9d3e",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which Goosebumps book is the longest?",
-        "target": "Quale libro di Piccoli brividi \u00e8 il pi\u00f9 lungo?",
+        "id": "86fb5e94",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "How old is the author of the Goosebumps series?",
+        "target": "Quanti anni ha l'autore della serie Piccoli Brividi?",
         "entities": {
             "Q3260367": {
                 "it": "Piccoli brividi",
@@ -190,12 +14,350 @@
         "from": "mintaka"
     },
     {
-        "id": "344d5b5d",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which war lasted longer, US Civil War or World War II?",
-        "target": "Quale guerra \u00e8 durata pi\u00f9 a lungo, la Guerra Civile americana o la Seconda Guerra Mondiale?",
+        "id": "14b9185d",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which of the three largest islands in the Mediterranean Sea is not part of Italy?",
+        "target": "Quale delle tre isole pi\u00f9 grandi del Mediterraneo non \u00e8 italiana?",
         "entities": {
+            "Q38": {
+                "it": "Italia",
+                "en": "Italy"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "ff37d660",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What house did Severus Snape belong to?",
+        "target": "Qual \u00e8 la casa di Severus Piton?",
+        "entities": {
+            "Q176772": {
+                "it": "Severus Piton",
+                "en": "Severus Snape"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "ff9a84d2",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who is the current president of Japan?",
+        "target": "Chi \u00e8 l'attuale presidente del Giappone?",
+        "entities": {
+            "Q17": {
+                "it": "Giappone",
+                "en": "Japan"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "c9f42ee8",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What date was the actress born who played Scarlett in \"Gone with the Wind\"?",
+        "target": "Qual \u00e8 la data di nascita dell'attrice che imperson\u00f2 Rossella in \"Via col vento\"?",
+        "entities": {
+            "Q2875": {
+                "it": "Via col vento",
+                "en": "Gone with the Wind"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "05dd0471",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who is president of Peru?",
+        "target": "Chi \u00e8 il Presidente del Per\u00f9?",
+        "entities": {
+            "Q419": {
+                "it": "Per\u00f9",
+                "en": "Peru"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "10f0085c",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Did Queen Elizabeth I have the longest reign in the UK?",
+        "target": "La Regina Elisabetta I ha regnato pi\u00f9 a lungo di tutti nel Regno Unito?",
+        "entities": {
+            "Q145": {
+                "it": "Regno Unito",
+                "en": "United Kingdom"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "f01e2309",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which dynasty built the Great Wall of China?",
+        "target": "Quale dinastia fece costruire la Grande Muraglia Cinese?",
+        "entities": {
+            "Q12501": {
+                "it": "Grande muraglia cinese",
+                "en": "Great Wall of China"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "7487d160",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was the oldest person when they started their reign over the United Kingdom?",
+        "target": "Chi \u00e8 la persona pi\u00f9 anziana ad aver iniziato il proprio regno sul Regno Unito?",
+        "entities": {
+            "Q145": {
+                "it": "Regno Unito",
+                "en": "United Kingdom"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "4fd117b2",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Is the Yangtze or Yellow River longer?",
+        "target": "\u00c8 pi\u00f9 lungo il Fiume Azzurro o il Fiume Giallo?",
+        "entities": {
+            "Q7355": {
+                "it": "Fiume Giallo",
+                "en": "Yellow River"
+            },
+            "Q5413": {
+                "it": "Fiume Azzurro",
+                "en": "Yangtze"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "f99594ce",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which main series Pok\u00e9mon game were you not able to transfer every Pok\u00e9mon to?",
+        "target": "In quante principale gioco della serie Pokemon tu non sei stato in grado di trasferire ciascun Pokemon?",
+        "entities": {
+            "Q864": {
+                "it": "Pok\u00e9mon",
+                "en": "Pok\u00e9mon"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "b69991e0",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who directed the movie that is based on the second book of The Lord of the Rings series?",
+        "target": "Chi ha diretto il film basato sul secondo libro della saga Il Signore degli Anelli?",
+        "entities": {
+            "Q15228": {
+                "it": "Il Signore degli Anelli",
+                "en": "The Lord of the Rings"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "78fe9980",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which volcanoes in Hawaii are not extinct?",
+        "target": "Quali vulcani hawaiani non sono spenti?",
+        "entities": {
+            "Q782": {
+                "it": "Hawaii",
+                "en": "Hawaii"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "eef2eca2",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Is Berlin the capital of Germany?",
+        "target": "La capitale della Germania \u00e8 Berlino?",
+        "entities": {
+            "Q183": {
+                "it": "Germania",
+                "en": "Germany"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "20511234",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What is the political party of President Cyril Ramaphosa of South Africa?",
+        "target": "Qual \u00e8 il partito politico del presidente Cyril Ramaphosa del Sud Africa?",
+        "entities": {
+            "Q258": {
+                "it": "Sudafrica",
+                "en": "South Africa"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "145f7241",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who are some characters in the Lord of Rings books but not the movies?",
+        "target": "Chi sono i personaggi de \"Il signore degli anelli\" che compaiono nei libri ma non nei film?",
+        "entities": {
+            "Q15228": {
+                "it": "Il Signore degli Anelli",
+                "en": "The Lord of the Rings"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "5edaa144",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which mountain in Brazil is smaller: Pedra da Mina or Monte Caburai?",
+        "target": "Quale monte in Brasile \u00e8 pi\u00f9 basso: Pedra da Mina o Monte Caburai?",
+        "entities": {
+            "Q155": {
+                "it": "Brasile",
+                "en": "Brazil"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "41128178",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which volcano in the Philippines is not taller than 311 meters?",
+        "target": "Quale vulcano nelle Filippine non supera i 311 metri di altezza?",
+        "entities": {
+            "Q928": {
+                "it": "Filippine",
+                "en": "Philippines"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "5aa3fb08",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Yoshihide Suga serves as what political position in the government of Japan?",
+        "target": "Quale carica politica ricopr\u00ec Yoshihide Suga nel governo del Giappone?",
+        "entities": {
+            "Q17": {
+                "it": "Giappone",
+                "en": "Japan"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "61e19f4e",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What was the first book in the Wheel of Time series?",
+        "target": "Qual \u00e8 stato il primo libro della collana La Ruota del Tempo?",
+        "entities": {
+            "Q4470": {
+                "it": "La Ruota del Tempo",
+                "en": "The Wheel of Time"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "80ebdb26",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was the first African-American to direct a major motion picture?",
+        "target": "Chi \u00e8 stato il primo afro-americano a dirigere un importante lungometraggio?",
+        "entities": {
+            "Q49085": {
+                "it": "afroamericano",
+                "en": "African Americans"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "a735999b",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was the director of The Goodfellas and attended school at New York University's School of Film?",
+        "target": "Chi \u00e8 stato il regista di Quei bravi ragazzi che ha frequentato la scuola di cinema di New York?",
+        "entities": {
+            "Q42047": {
+                "it": "Quei bravi ragazzi",
+                "en": "Goodfellas"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "f46a2a65",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which country has a larger population, Germany or Italy?",
+        "target": "Quale Paese ha maggiore popolazione, Germania o Italia?",
+        "entities": {
+            "Q183": {
+                "it": "Germania",
+                "en": "Germany"
+            },
+            "Q38": {
+                "it": "Italia",
+                "en": "Italy"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "c2dd55fb",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Did Harry Potter and the Prisoner of Azkaban come out before Harry Potter and the Goblet of Fire?",
+        "target": "Harry Potter e il prigioniero di Azkaban \u00e8 uscito prima di Harry Potter e il calice di fuoco?",
+        "entities": {
+            "Q102225": {
+                "it": "Harry Potter e il calice di fuoco",
+                "en": "Harry Potter and the Goblet of Fire"
+            },
+            "Q102448": {
+                "it": "Harry Potter e il prigioniero di Azkaban",
+                "en": "Harry Potter and the Prisoner of Azkaban"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "9ba2150a",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What pivotal naval battle of World War II occurred six months after the Japanese attack on Pearl Harbor?",
+        "target": "Quale decisiva battaglia navale, durante la seconda guerra mondiale, si combatt\u00e8 sei mesi dopo l'attacco giapponese a Pearl Harbor?",
+        "entities": {
+            "Q17": {
+                "it": "Giappone",
+                "en": "Japan"
+            },
             "Q362": {
                 "it": "seconda guerra mondiale",
                 "en": "World War II"
@@ -204,9 +366,111 @@
         "from": "mintaka"
     },
     {
+        "id": "41aa2eef",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which lasted longer, the American Revolutionary War or the Civil War?",
+        "target": "Qual \u00e8 durata di pi\u00f9, la Guerra d'Indipendenza americana o la Guerra Civile?",
+        "entities": {
+            "Q40949": {
+                "it": "guerra d'indipendenza americana",
+                "en": "American Revolutionary War"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "bc3e6e32",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "When did the first Wheel of Time book come out?",
+        "target": "Quando \u00e8 uscito il primo libro La Ruota del Tempo?",
+        "entities": {
+            "Q4470": {
+                "it": "La Ruota del Tempo",
+                "en": "The Wheel of Time"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "e1fcf7f9",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "How many Super Bowl victories do the Green Bay Packers have?",
+        "target": "Quanti Super Bowl hanno vinto i Greenbay Packers?",
+        "entities": {
+            "Q213837": {
+                "it": "Green Bay Packers",
+                "en": "Green Bay Packers"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "55a25876",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "In Animal Crossing: New Horizons, who is the sister of the museum curator?",
+        "target": "Nel gioco Animal Crossing: New Horizon, chi \u00e8 la sorella del curatore museale?",
+        "entities": {
+            "Q64566657": {
+                "it": "Animal Crossing: New Horizons",
+                "en": "Animal Crossing: New Horizons"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "051bac35",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "How many senators have read \"Green eggs and ham\" on the senate floor?",
+        "target": "Quanti senatori hanno letto \"Prosciutto e uova verdi\" sul pavimento del Senato?",
+        "entities": {
+            "Q2759523": {
+                "it": "Prosciutto e uova verdi",
+                "en": "Green Eggs and Ham"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "b415a817",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What Tolkien novel is set in the Lord of the Ring Universe but not a part of the trilogy?",
+        "target": "Quale romanzo di Tolkien \u00e8 inserito nell'universo del Signore degli anelli ma non fa parte della Trilogia?",
+        "entities": {
+            "Q15228": {
+                "it": "Il Signore degli Anelli",
+                "en": "The Lord of the Rings"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "115379ae",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Is Mount Everest taller than Mount Elbrus?",
+        "target": "Il Monte Everest \u00e8 pi\u00f9 alto del Monte Elbrus?",
+        "entities": {
+            "Q513": {
+                "it": "Everest",
+                "en": "Mount Everest"
+            },
+            "Q43105": {
+                "it": "monte Elbrus",
+                "en": "Mount Elbrus"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
         "id": "33e38cd2",
-        "source_locale": "it",
-        "target_locale": "en",
+        "source_locale": "en",
+        "target_locale": "it",
         "source": "What is the capital of the country where the Andes mountain range is located?",
         "target": "Qual \u00e8 la capitale del paese dove si trova la catena montuosa delle Ande?",
         "entities": {
@@ -218,25 +482,53 @@
         "from": "mintaka"
     },
     {
-        "id": "51cadbae",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What is the capital of the country with the fifth largest land area in Europe?",
-        "target": "Qual \u00e8 la capitale del paese con la quinta superficie terrestre pi\u00f9 estesa d'Europa?",
+        "id": "a8808c07",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was the second female pharaoh of Egypt?",
+        "target": "Chi fu la seconda donna faraone d'Egitto?",
         "entities": {
-            "Q46": {
-                "it": "Europa",
-                "en": "Europe"
+            "Q79": {
+                "it": "Egitto",
+                "en": "Egypt"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "7d362cfd",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "How old is the director of Lord of the Rings?",
-        "target": "Quanti anni ha il regista de Il Signore degli Anelli?",
+        "id": "6d78dab9",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who is the leader in France?",
+        "target": "Chi governa la Francia?",
+        "entities": {
+            "Q142": {
+                "it": "Francia",
+                "en": "France"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "80d5b7ae",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Is Burj Khalifa the tallest building in China?",
+        "target": "Il Burj Khalifa \u00e8 l'edificio pi\u00f9 alto della Cina?",
+        "entities": {
+            "Q148": {
+                "it": "Cina",
+                "en": "People's Republic of China"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "3045bc57",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What year was the first Lord of the Rings movie?",
+        "target": "Di che anno \u00e8 il primo film de Il Signore Degli Anelli?",
         "entities": {
             "Q190214": {
                 "it": "Il Signore degli Anelli",
@@ -246,25 +538,89 @@
         "from": "mintaka"
     },
     {
-        "id": "d3a510c0",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Was Italy part of the Axis alliance in World War II?",
-        "target": "L'Italia fu parte dell'Asse dell'alleanza nella II Guerra Mondiale?",
+        "id": "f9abc504",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was the first king of Norway?",
+        "target": "Chi \u00e8 stato il primo Re di Norvegia?",
         "entities": {
-            "Q38": {
-                "it": "Italia",
-                "en": "Italy"
+            "Q20": {
+                "it": "Norvegia",
+                "en": "Norway"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "24cce19e",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who was the fifth emperor of Rome?",
-        "target": "Chi \u00e8 stato il quinto imperatore romano?",
+        "id": "f8ff6618",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What is the biggest city by population in China?",
+        "target": "Quale citt\u00e0 \u00e8 la pi\u00f9 grande per popolazione in Cina?",
+        "entities": {
+            "Q148": {
+                "it": "Cina",
+                "en": "People's Republic of China"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "ae649eaa",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Is the Yellow River longer than Yangtze?",
+        "target": "Il Fiume Giallo \u00e8 pi\u00f9 lungo del Fiume Azzurro?",
+        "entities": {
+            "Q7355": {
+                "it": "Fiume Giallo",
+                "en": "Yellow River"
+            },
+            "Q5413": {
+                "it": "Fiume Azzurro",
+                "en": "Yangtze"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "ebc9b970",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which native American language was used by the US Marines as a code language during World War II?",
+        "target": "Quale lingua nativa d'America fu utilizzata dai marines come lingua in codice durante la seconda guerra mondiale?",
+        "entities": {
+            "Q362": {
+                "it": "seconda guerra mondiale",
+                "en": "World War II"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "52b6f89c",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who won South Carolina's 2020 GOP Senate Primary?",
+        "target": "Chi ha vinto le primarie al senato del partito repubblicano in Carolina del Sud?",
+        "entities": {
+            "Q1456": {
+                "it": "Carolina del Sud",
+                "en": "South Carolina"
+            },
+            "Q29468": {
+                "it": "Partito Repubblicano",
+                "en": "Republican Party"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "dd13ab84",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who is supposed to have founded Rome?",
+        "target": "Chi si crede abbia fondato Roma?",
         "entities": {
             "Q220": {
                 "it": "Roma",
@@ -274,285 +630,11 @@
         "from": "mintaka"
     },
     {
-        "id": "2b6743e5",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "How many stars were on the original flag of the country that declared independence from Great Britain in 1776?",
-        "target": "Quante stelle c'erano nella bandiera originale del paese che dichiar\u00f2 l'indipendenza dalla Gran Bretagna nel 1776?",
-        "entities": {
-            "Q23666": {
-                "it": "Gran Bretagna",
-                "en": "Great Britain"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "e5b27973",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who was prime minister of the United Kingdom during most of World War II?",
-        "target": "Chi fu il primo ministro inglese per la maggior parte della Seconda Guerra Mondiale?",
-        "entities": {
-            "Q362": {
-                "it": "seconda guerra mondiale",
-                "en": "World War II"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "2c11c7d8",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which Chronicles of Narnia books have not been made into a movie distributed by Disney?",
-        "target": "Quali libri de \"Le cronache di Narnia\" non sono diventati film distribuiti dalla Disney?",
-        "entities": {
-            "Q483412": {
-                "it": "Le cronache di Narnia",
-                "en": "The Chronicles of Narnia"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "10ed57ed",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Did The Call of The Wild come out before 1932?",
-        "target": "Il Richiamo della Foresta \u00e8 uscito prima del 1932?",
-        "entities": {
-            "Q476871": {
-                "it": "Il richiamo della foresta",
-                "en": "The Call of the Wild"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "775b573b",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Did Allie remember Noah before she died in The Notebook?",
-        "target": "Prima di morire in \"Le pagine della nostra vita\", Allie si ricorda di Noah?",
-        "entities": {
-            "Q223374": {
-                "it": "Le pagine della nostra vita",
-                "en": "The Notebook"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "2fcbd091",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who was the wife of the French king during the attack in the French Revolution?",
-        "target": "Chi fu la moglie del Re di Francia durante l'attacco della rivoluzione francese?",
-        "entities": {
-            "Q6534": {
-                "it": "rivoluzione francese",
-                "en": "French Revolution"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "f9474f51",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What is the third longest river in the world and the longest in China?",
-        "target": "Qual \u00e8 il terzo fiume pi\u00f9 lungo al mondo nonch\u00e9 il pi\u00f9 lungo della Cina?",
-        "entities": {
-            "Q148": {
-                "it": "Cina",
-                "en": "People's Republic of China"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "1be92c3d",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which president was an army general in World War II?",
-        "target": "Quale presidente \u00e8 stato un generale dell'esercito nella seconda guerra mondiale?",
-        "entities": {
-            "Q362": {
-                "it": "seconda guerra mondiale",
-                "en": "World War II"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "dd945bc0",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which city is the capital of Mexico?",
-        "target": "Qual \u00e8 la capitale del Messico?",
-        "entities": {
-            "Q96": {
-                "it": "Messico",
-                "en": "Mexico"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "30d24795",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What nationality is J. K. Rowling?",
-        "target": "Di che nazionalit\u00e0 \u00e8 J.K. Rowling?",
-        "entities": {
-            "Q34660": {
-                "it": "J. K. Rowling",
-                "en": "J. K. Rowling"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "5396a5d4",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Is Harry Potter and the Goblet of Fire the first book in the series?",
-        "target": "Harry Potter e il calice di fuoco \u00e8 il primo libro della serie?",
-        "entities": {
-            "Q46751": {
-                "it": "Harry Potter e il calice di fuoco",
-                "en": "Harry Potter and the Goblet of Fire"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "f61d0df9",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What river flows through Sudan and Egypt and empties into the Mediterranean sea?",
-        "target": "Quale fiume attraversa il Sudan e l'Egitto e sfocia nel mar Mediterraneo?",
-        "entities": {
-            "Q4918": {
-                "it": "mar Mediterraneo",
-                "en": "Mediterranean Sea"
-            },
-            "Q79": {
-                "it": "Egitto",
-                "en": "Egypt"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "d93e6f0a",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "When did Street Fighter II come out in Japan on the Super Famicom?",
-        "target": "Quando \u00e8 uscito Street Fighter II in Giappone su Super Famicom?",
-        "entities": {
-            "Q17": {
-                "it": "Giappone",
-                "en": "Japan"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "47779544",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Was Alaska the most recent state to join the United States of America?",
-        "target": "L'Alaska fu l'ultimo stato a unirsi agli Stati Uniti d'America?",
-        "entities": {
-            "Q30": {
-                "it": "Stati Uniti d'America",
-                "en": "United States of America"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "765aba50",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which Lord of the Rings trilogy books do not feature Shelob the giant spider?",
-        "target": "In quali libri della trilogia del Signore degli Anelli non compare Shelob il ragno gigante?",
-        "entities": {
-            "Q15228": {
-                "it": "Il Signore degli Anelli",
-                "en": "The Lord of the Rings"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "0bc7a6d2",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "How many volcanoes are there in South Korea?",
-        "target": "Quanti sono i vulcani in Corea del Sud?",
-        "entities": {
-            "Q884": {
-                "it": "Corea del Sud",
-                "en": "South Korea"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "a2970b85",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which fruit/vegetable is very popular in Italy, and is associated closely with its cooking but is not native to it?",
-        "target": "Quale frutto/vegetale \u00e8 molto popolare in Italia e associato strettamente con la sua cucina, ma non \u00e8 originario del posto?",
-        "entities": {
-            "Q38": {
-                "it": "Italia",
-                "en": "Italy"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "6fe6ac94",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Are there more than three Pok\u00e9mon starters in Pok\u00e9mon Blue?",
-        "target": "In Pokemon Blue ci sono pi\u00f9 di tre Pokemon iniziali?",
-        "entities": {
-            "Q25536524": {
-                "it": "Pok\u00e9mon Blu",
-                "en": "Pok\u00e9mon Blue"
-            },
-            "Q864": {
-                "it": "Pok\u00e9mon",
-                "en": "Pok\u00e9mon"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "ac5a3a1c",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who was the first king of Spain?",
-        "target": "Chi fu il primo re di Spagna?",
-        "entities": {
-            "Q29": {
-                "it": "Spagna",
-                "en": "Spain"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "217a526d",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Is Washington, D.C. the capital of the United States?",
-        "target": "Washington D.C. \u00e8 la capitale degli Stati Uniti?",
+        "id": "d70baaf2",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Is Washington, D.C. located in the state of Washington?",
+        "target": "Washington D.C. si trova nello stato di Washington?",
         "entities": {
             "Q61": {
                 "it": "Washington",
@@ -562,299 +644,11 @@
         "from": "mintaka"
     },
     {
-        "id": "f2f45c4b",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Is the Elbe River longer than the Donau River?",
-        "target": "Il fiume Elba \u00e8 pi\u00f9 lungo del fiume Danubio?",
-        "entities": {
-            "Q1653": {
-                "it": "Danubio",
-                "en": "Danube"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "2cc1a1f6",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What is the largest city in the country where Mount Fuji is located?",
-        "target": "Qual \u00e8 la citt\u00e0 pi\u00f9 grande dello stato in cui si trova il monte Fuji?",
-        "entities": {
-            "Q39231": {
-                "it": "Monte Fuji",
-                "en": "Mount Fuji"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "e439a36f",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "How old is the actor who played Aragorn in Lord of the Rings?",
-        "target": "Quanti anni ha l'attore che ha interpretato Aragorn nel Signore degli Anelli?",
-        "entities": {
-            "Q190214": {
-                "it": "Il Signore degli Anelli",
-                "en": "The Lord of the Rings trilogy"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "31e10b2d",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which series has more books, Game of Thrones or Lord of the Rings?",
-        "target": "Quale serie ha pi\u00f9 libri, \"Il trono di spade\" o \"Il signore degli anelli\"?",
-        "entities": {
-            "Q15228": {
-                "it": "Il Signore degli Anelli",
-                "en": "The Lord of the Rings"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "f1a8b7de",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Is Yosemite Falls shorter than Angel Falls?",
-        "target": "Le Yosemite Falls sono pi\u00f9 basse del Salto Angel?",
-        "entities": {
-            "Q80299": {
-                "it": "Salto Angel",
-                "en": "Angel Falls"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "cf608f66",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which state has the state bird of the California Gull and is home to Great Salt Lake?",
-        "target": "Quale stato ha come uccello di stato il Gabbiano della California e comprende il Gran Lago Salato?",
-        "entities": {
-            "Q178741": {
-                "it": "Gran Lago Salato",
-                "en": "Great Salt Lake"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "7c46063e",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Did Stephen King write Creepshow or Firestarter first?",
-        "target": "Stephen King ha scritto prima L'Incendiaria o Creepshow?",
-        "entities": {
-            "Q828031": {
-                "it": "L'incendiaria",
-                "en": "Firestarter"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "9649a69a",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who was the first leader and founder of North Korea?",
-        "target": "Chi \u00e8 stato il primo leader e fondatore della Corea del Nord?",
-        "entities": {
-            "Q423": {
-                "it": "Corea del Nord",
-                "en": "North Korea"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "96a7a393",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "How old was the first ruler of Greece when he died?",
-        "target": "Quanti anni aveva il primo sovrano della Grecia quando mor\u00ec?",
-        "entities": {
-            "Q41": {
-                "it": "Grecia",
-                "en": "Greece"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "179480ad",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which was longer, the American Civil War or the Revolutionary War?",
-        "target": "\u00c8 durata di pi\u00f9 la Guerra Civile Americana o la Guerra d'Indipendenza Americana?",
-        "entities": {
-            "Q40949": {
-                "it": "guerra d'indipendenza americana",
-                "en": "American Revolutionary War"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "1619e4d6",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which is bigger, the Great Wall of China or the Pyramids?",
-        "target": "Qual \u00e8 pi\u00f9 grande, la Grande Muraglia Cinese o le Piramidi?",
-        "entities": {
-            "Q12501": {
-                "it": "Grande muraglia cinese",
-                "en": "Great Wall of China"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "0ac0ec15",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What party does the Prime Minister Shinzo Abe represent?",
-        "target": "Quale partito rappresenta il primo ministro Shinzo Abe?",
-        "entities": {
-            "Q132345": {
-                "it": "Shinz\u014d Abe",
-                "en": "Shinz\u014d Abe"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "352b0a5c",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which movie had more computer generated graphics, Avatar Or Cloudy With a Chance of Meatballs?",
-        "target": "Che film aveva pi\u00f9 computer-generated imagery, Avatar o Piovono polpette?",
-        "entities": {
-            "Q637169": {
-                "it": "Piovono polpette",
-                "en": "Cloudy with a Chance of Meatballs"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "ba928d66",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "In what year did the author of The Lion, the Witch and the Wardrobe die?",
-        "target": "In che anno \u00e8 morto l'autore de Il leone, la strega e l'armadio?",
-        "entities": {
-            "Q485093": {
-                "it": "Il leone, la strega e l'armadio",
-                "en": "The Lion, the Witch, and the Wardrobe"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "76027ffa",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which war lasted longer, Iraq War or Korean War?",
-        "target": "Quale guerra fu pi\u00f9 lunga, la Guerra in Iraq o la Guerra di Corea?",
-        "entities": {
-            "Q8663": {
-                "it": "guerra di Corea",
-                "en": "Korean War"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "79bee70f",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "How many different years did Marty McFly travel to in all of the Back to the Future movies?",
-        "target": "A quanti anni diversi \u00e8 andato Marty MacFly, in tutti i film di Ritorno al Futuro?",
-        "entities": {
-            "Q91540": {
-                "it": "Ritorno al futuro",
-                "en": "Back to the Future"
-            },
-            "Q2338941": {
-                "it": "Marty McFly",
-                "en": "Marty McFly"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "098fa6a9",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "How many principal pyramids are in Egypt?",
-        "target": "Quante piramidi principali ci sono in Egitto?",
-        "entities": {
-            "Q79": {
-                "it": "Egitto",
-                "en": "Egypt"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "ef7cbab8",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which empire lasted longer, Ottoman Empire or Roma Empire?",
-        "target": "Quale impero \u00e8 durato pi\u00f9 a lungo, l'Impero ottomano o l'Impero romano?",
-        "entities": {
-            "Q12560": {
-                "it": "Impero ottomano",
-                "en": "Ottoman Empire"
-            },
-            "Q2277": {
-                "it": "Impero romano",
-                "en": "Roman Empire"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "633af514",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who was the shortest reigning sultan of the Ottoman Empire?",
-        "target": "Qual \u00e8 stato il Sultano dell'Impero ottomano che ha regnato per meno tempo?",
-        "entities": {
-            "Q12560": {
-                "it": "Impero ottomano",
-                "en": "Ottoman Empire"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "b7ccd8f4",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which World War I offensive had the most casualties?",
-        "target": "Quale offensiva nella prima guerra mondiale ha fatto pi\u00f9 vittime?",
-        "entities": {
-            "Q361": {
-                "it": "prima guerra mondiale",
-                "en": "World War I"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "9342d585",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What is the net worth of the Canadian \"Yummy\" singer?",
-        "target": "Qual \u00e8 il patrimonio netto del cantante canadese di \"Yummy\"?",
+        "id": "6dab62f7",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What is the largest city in Canada not found outside Saskatchewan?",
+        "target": "Qual \u00e8 la citt\u00e0 pi\u00f9 grande del Saskatchewan canadese?",
         "entities": {
             "Q16": {
                 "it": "Canada",
@@ -864,127 +658,43 @@
         "from": "mintaka"
     },
     {
-        "id": "a35e080e",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Did more Americans die in World War II or the American Civil War?",
-        "target": "Sono morti pi\u00f9 americani nella Seconda Guerra Mondiale o nella Guerra civile americana?",
+        "id": "27820b49",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Did Ireland fight during the Second World War?",
+        "target": "L'Irlanda ha combattuto durante la Seconda Guerra Mondiale?",
         "entities": {
             "Q362": {
                 "it": "seconda guerra mondiale",
                 "en": "World War II"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "27acfd6a",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What is the fifth most populous country in Europe?",
-        "target": "Qual \u00e8 il quinto Paese pi\u00f9 popoloso d'Europa?",
-        "entities": {
-            "Q46": {
-                "it": "Europa",
-                "en": "Europe"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "4772c4fd",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who was not a member of the Allied Powers during World War II?",
-        "target": "Chi non era membro delle Forze Alleate durante la Seconda Guerra Mondiale?",
-        "entities": {
-            "Q362": {
-                "it": "seconda guerra mondiale",
-                "en": "World War II"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "cb89fc4c",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Where is the actor who played Captain Jack Sparrow from?",
-        "target": "Di dove \u00e8 originario l'attore che ha interpretato il capitano Jack Sparrow?",
-        "entities": {
-            "Q202857": {
-                "it": "Jack Sparrow",
-                "en": "Captain Jack Sparrow"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "8c9c8b24",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Is the Atlantic Ocean bigger than the Pacific Ocean?",
-        "target": "L\u2019oceano Atlantico \u00e8 pi\u00f9 grande dell\u2019oceano Pacifico?",
-        "entities": {
-            "Q97": {
-                "it": "oceano Atlantico",
-                "en": "Atlantic Ocean"
             },
-            "Q98": {
-                "it": "Oceano Pacifico",
-                "en": "Pacific Ocean"
+            "Q27": {
+                "it": "Irlanda",
+                "en": "Ireland"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "25a4e4b5",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which war lasted longer, War of 1812 or World War II?",
-        "target": "Quale guerra \u00e8 durata pi\u00f9 a lungo, la Guerra del 1812 o la Seconda Guerra Mondiale?",
+        "id": "cf161d04",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which book was published first, 1984 or Brave New World?",
+        "target": "Quale libro \u00e8 stato pubblicato per primo, \"1984\" o \"Il mondo nuovo\"?",
         "entities": {
-            "Q362": {
-                "it": "seconda guerra mondiale",
-                "en": "World War II"
+            "Q191949": {
+                "it": "Il mondo nuovo",
+                "en": "Brave New World"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "601f043d",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Was To Kill A Mockingbird published before 1950?",
-        "target": "Il libro Il buio oltre la siepe \u00e8 stato pubblicato prima del 1950?",
-        "entities": {
-            "Q212340": {
-                "it": "Il buio oltre la siepe",
-                "en": "To Kill a Mockingbird"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "f8038c17",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "How many principal areas of Wales have a population of less than 90,000?",
-        "target": "Quali zone principali del Galles hanno meno di 90.000 abitanti?",
-        "entities": {
-            "Q25": {
-                "it": "Galles",
-                "en": "Wales"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "4757d5ff",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which Back to the Future movie did not star Elisabeth Shue?",
-        "target": "In quale film di Ritorno al Futuro non recita Elisabeth Shue?",
+        "id": "44c30f4d",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What was the name of the third Back to the Future movie?",
+        "target": "Come si chiama il terzo film di Ritorno al Futuro?",
         "entities": {
             "Q91540": {
                 "it": "Ritorno al futuro",
@@ -994,11 +704,25 @@
         "from": "mintaka"
     },
     {
-        "id": "0b6f9174",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "How many colors are on the China flag?",
-        "target": "Quanti colori ci sono nella bandiera cinese?",
+        "id": "7f529979",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Did Ernest Hemingway write The Old Man and the Sea?",
+        "target": "Ernest Hemingway ha scritto Il vecchio e il mare?",
+        "entities": {
+            "Q26505": {
+                "it": "Il vecchio e il mare",
+                "en": "The Old Man and the Sea"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "e13e2305",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which oceans do not border China?",
+        "target": "Quali oceani non bagnano la Cina?",
         "entities": {
             "Q148": {
                 "it": "Cina",
@@ -1008,197 +732,137 @@
         "from": "mintaka"
     },
     {
-        "id": "b3993283",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Is Madrid the capital of Spain?",
-        "target": "Madrid \u00e8 la capitale della Spagna?",
+        "id": "37f55556",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Where was the author of The Hobbit born?",
+        "target": "Dove \u00e8 nato l'autore de \"Lo Hobbit\"?",
         "entities": {
-            "Q29": {
-                "it": "Spagna",
-                "en": "Spain"
+            "Q74287": {
+                "it": "Lo Hobbit",
+                "en": "The Hobbit"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "fc21bd85",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Is the Rhine River longer than the Danube River?",
-        "target": "Il fiume Reno \u00e8 pi\u00f9 lungo del Danubio?",
+        "id": "9b45b657",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "How many U.S. states border the Pacific Ocean?",
+        "target": "Quanti stati americani si affacciano sull'Oceano Pacifico?",
         "entities": {
-            "Q1653": {
-                "it": "Danubio",
-                "en": "Danube"
-            },
-            "Q584": {
-                "it": "Reno",
-                "en": "Rhine"
+            "Q98": {
+                "it": "Oceano Pacifico",
+                "en": "Pacific Ocean"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "e9bd0f40",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which Roman emperor had the longer rein, Caligula or Nero?",
-        "target": "Quale Imperatore romano regn\u00f2 pi\u00f9 a lungo, Caligola o Nerone?",
+        "id": "6f41e0ad",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Is Cuba the largest island in the Caribbean?",
+        "target": "Cuba \u00e8 la maggior isola dei Caraibi?",
         "entities": {
-            "Q1409": {
-                "it": "Caligola",
-                "en": "Caligula"
+            "Q664609": {
+                "it": "Caraibi",
+                "en": "Caribbean"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "2633b8aa",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Where was Genghis Khan born?",
-        "target": "Dove nacque Gengis Khan?",
+        "id": "cc815af7",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who designed The White House?",
+        "target": "Chi ha progettato la Casa Bianca?",
         "entities": {
-            "Q720": {
-                "it": "Gengis Khan",
-                "en": "Genghis Khan"
+            "Q35525": {
+                "it": "Casa Bianca",
+                "en": "White House"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "7932e9b8",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What was the longest battle of World War I?",
-        "target": "Qual \u00e8 stata la battaglia pi\u00f9 lunga della Prima Guerra Mondiale?",
+        "id": "661382fe",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which state has more electoral votes, South Carolina or North Carolina?",
+        "target": "Quale stato ha pi\u00f9 voti elettorali, Carolina del Sud o del Nord?",
         "entities": {
-            "Q361": {
-                "it": "prima guerra mondiale",
-                "en": "World War I"
+            "Q1456": {
+                "it": "Carolina del Sud",
+                "en": "South Carolina"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "fb628796",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What is the fifth largest lake in Europe?",
-        "target": "Qual \u00e8 il quinto lago pi\u00f9 grande d'Europa?",
+        "id": "e993d5ec",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which series has more books, Harry Potter or Lord of the Rings?",
+        "target": "Quale serie ha pi\u00f9 libri: \"Harry Potter\" o \"Il signore degli anelli\"?",
         "entities": {
-            "Q46": {
-                "it": "Europa",
-                "en": "Europe"
+            "Q15228": {
+                "it": "Il Signore degli Anelli",
+                "en": "The Lord of the Rings"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "79a71244",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "How many authors wrote books in the Wheel of Time series?",
-        "target": "Quanti autori hanno scritto nella serie di romanzi de La Ruota del Tempo?",
+        "id": "3bb14d10",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was the president of the US when the Korean War started?",
+        "target": "Chi era il presidente degli Stati Uniti quando scoppi\u00f2 la guerra di Corea?",
         "entities": {
-            "Q4470": {
-                "it": "La Ruota del Tempo",
-                "en": "The Wheel of Time"
+            "Q8663": {
+                "it": "guerra di Corea",
+                "en": "Korean War"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "661a6cf0",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who was the queen of France and also born an archduchess of Austria?",
-        "target": "Chi fu regina di Francia e anche arciduchessa d'Austria per nascita?",
+        "id": "98bdfdb7",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "In what franchise does Ebony Maw exist?",
+        "target": "In quale franchise \u00e8 presente Fauce d'Ebano?",
         "entities": {
-            "Q142": {
-                "it": "Francia",
-                "en": "France"
+            "Q20979240": {
+                "it": "Fauce d'Ebano",
+                "en": "Ebony Maw"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "4d2eaa74",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Was Harry Potter sorted into Gryffindor?",
-        "target": "Harry Potter viene smistato tra i Grifondoro?",
+        "id": "e293e18e",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What is the tallest building in the capital city of Italy?",
+        "target": "Quale \u00e8 l'edificio pi\u00f9 grande della capitale dell'Italia?",
         "entities": {
-            "Q842408": {
-                "it": "Grifondoro",
-                "en": "Gryffindor"
+            "Q38": {
+                "it": "Italia",
+                "en": "Italy"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "7ee0de9f",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Was King Henry VIII the King of France during his reign?",
-        "target": "Re ENrico VIII era Re di Francia durante il suo regno?",
-        "entities": {
-            "Q142": {
-                "it": "Francia",
-                "en": "France"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "d30052f7",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who was the son of the French queen assassinated in 1793?",
-        "target": "Chi era il figlio della regina di Francia assassinata nel 1793?",
-        "entities": {
-            "Q142": {
-                "it": "Francia",
-                "en": "France"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "1f04f2dd",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who was the first United States president to visit North Korea?",
-        "target": "Chi \u00e8 stato il primo Presidente degli Stati Uniti a visitare la Corea del Nord?",
-        "entities": {
-            "Q423": {
-                "it": "Corea del Nord",
-                "en": "North Korea"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "ea1ca99e",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which states border Mexico but not the Rio Grande?",
-        "target": "Quale stato confina con il Messico ma non tocca il Rio Grande?",
-        "entities": {
-            "Q96": {
-                "it": "Messico",
-                "en": "Mexico"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "19b478f0",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "When did WW II start?",
-        "target": "Quando inizi\u00f2 la Seconda Guerra Mondiale?",
+        "id": "520d285d",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "How many countries conformed \"The Big Three\" in WW II?",
+        "target": "Quali Paesi hanno costituito \"I Grandi Tre\" nella Seconda Guerra Mondiale?",
         "entities": {
             "Q362": {
                 "it": "seconda guerra mondiale",
@@ -1208,9 +872,451 @@
         "from": "mintaka"
     },
     {
+        "id": "1cb9a9a1",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which of the Goosebumps books released in 1992, does not have 132 pages?",
+        "target": "Quali libro di \"Piccoli Brividi\", pubblicato nel 1992, non ha 132 pagine?",
+        "entities": {
+            "Q3260367": {
+                "it": "Piccoli brividi",
+                "en": "Goosebumps"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "65d3db2e",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was the king of Jerusalem who could not move his limbs due to leprosy?",
+        "target": "Chi era il re di Gerusalemme che non poteva muovere le braccia per via della lebbra?",
+        "entities": {
+            "Q1218": {
+                "it": "Gerusalemme",
+                "en": "Jerusalem"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "3232b60a",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was a leader of the Progressive movement that proclaimed American entrance into World War I?",
+        "target": "Chi era il leader del Movimento Progressista che proclam\u00f2 l'entrata in guerra dell'America nella Prima Guerra Mondiale?",
+        "entities": {
+            "Q361": {
+                "it": "prima guerra mondiale",
+                "en": "World War I"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "0d9b5596",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Is Dr Wiley a character in the Megaman games?",
+        "target": "Dr Wiley \u00e8 un personaggio dei giochi di Megaman?",
+        "entities": {
+            "Q7565689": {
+                "it": "Mega Man",
+                "en": "Mega Man"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "67e572f1",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "How many United States presidents served in the American Civil War?",
+        "target": "Quanti Presidenti degli Stati Uniti hanno servito nella Guerra di Secessione Americana?",
+        "entities": {
+            "Q8676": {
+                "it": "guerra di secessione americana",
+                "en": "American Civil War"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "e0f8c56d",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What river flows through Russia and is the longest river in Europe?",
+        "target": "Quale fiume che attraversa la Russia \u00e8 il pi\u00f9 lungo d'Europa?",
+        "entities": {
+            "Q46": {
+                "it": "Europa",
+                "en": "Europe"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "7ae6f61f",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who directed the movie that was based on the first book of the Hobbit?",
+        "target": "Chi ha diretto il film basato sul primo libro de \"Lo Hobbit\"?",
+        "entities": {
+            "Q74287": {
+                "it": "Lo Hobbit",
+                "en": "The Hobbit"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "c0911157",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What is the second longest river in Europe?",
+        "target": "Qual \u00e8 il secondo fiume pi\u00f9 lungo in Europa?",
+        "entities": {
+            "Q46": {
+                "it": "Europa",
+                "en": "Europe"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "2d0c7738",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What three countries formed a Grand Alliance during WW II, and who could not agree on how the War should be fought?",
+        "target": "Quali tre nazioni hanno formato una Grande Alleanza durante la Seconda Guerra Mondiale non riuscirono ad essere in accordo su come la guerra sarebbe dovuta essere combattuta?",
+        "entities": {
+            "Q362": {
+                "it": "seconda guerra mondiale",
+                "en": "World War II"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "6726f18f",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "How many witches were there in the Wizard of Oz?",
+        "target": "Quante streghe ci sono nel romanzo il Mago di Oz?",
+        "entities": {
+            "Q193695": {
+                "it": "Il mago di Oz",
+                "en": "The Wizard of Oz"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "9c74edbc",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which Goosebumps book was released in 1992, but not before October?",
+        "target": "Quale libro di Piccoli brividi \u00e8 stato pubblicato nel 1992, ma non prima di ottobre?",
+        "entities": {
+            "Q3260367": {
+                "it": "Piccoli brividi",
+                "en": "Goosebumps"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "1b70e707",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which war lasted longer, the American Revolution or the French Revolution?",
+        "target": "Quale guerra dur\u00f2 di pi\u00f9, la rivoluzione americana o la francese?",
+        "entities": {
+            "Q192769": {
+                "it": "rivoluzione americana",
+                "en": "American Revolution"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "79b95484",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who wrote The Shining?",
+        "target": "Chi ha scritto Shining?",
+        "entities": {
+            "Q186341": {
+                "it": "Shining",
+                "en": "The Shining"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "54859c6c",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What game in the City Building series takes place in ancient Rome and was released after 2000?",
+        "target": "Quale gioco nella serie City Building \u00e8 ambientato nell'antica Roma e \u00e8 uscito dopo il 2000?",
+        "entities": {
+            "Q220": {
+                "it": "Roma",
+                "en": "Rome"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "2fc6de9d",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What is the full name of the Hobbit that accompanies Frodo in the Lord of the Rings?",
+        "target": "Qual \u00e8 il nome completo dello hobbit che accompagna Frodo nel Signore degli Anelli?",
+        "entities": {
+            "Q15228": {
+                "it": "Il Signore degli Anelli",
+                "en": "The Lord of the Rings"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "3084a49f",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "When was the director of The Sandlot born?",
+        "target": "Quando \u00e8 nato il regista di I ragazzi vincenti?",
+        "entities": {
+            "Q2369793": {
+                "it": "I ragazzi vincenti",
+                "en": "The Sandlot"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "593277bc",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "How many U.S. states border Mexico?",
+        "target": "Quanti stati americani confinano con il Messico?",
+        "entities": {
+            "Q96": {
+                "it": "Messico",
+                "en": "Mexico"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "d7aaa764",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was the 35th president of the USA?",
+        "target": "Chi fu il 35\u00b0 presidente degli Stati Uniti d'America?",
+        "entities": {
+            "Q30": {
+                "it": "Stati Uniti d'America",
+                "en": "United States of America"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "56bc050c",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who led Germany after Adolf Hitler?",
+        "target": "Chi ha governato la Germania dopo Adolf Hitler?",
+        "entities": {
+            "Q183": {
+                "it": "Germania",
+                "en": "Germany"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "6bcea5de",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What kind of political system does Japan have?",
+        "target": "Che tipo di sistema politico ha il Giappone?",
+        "entities": {
+            "Q17": {
+                "it": "Giappone",
+                "en": "Japan"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "668fb3b3",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which country was founded first, Ethiopia or Nigeria?",
+        "target": "Quale paese \u00e8 stato fondato per primo, Etiopia o Nigeria?",
+        "entities": {
+            "Q115": {
+                "it": "Etiopia",
+                "en": "Ethiopia"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "42cfa4ab",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which US president never lived in the White House?",
+        "target": "Quale Presidente degli Stati Uniti non ha mai vissuto nella Casa Bianca?",
+        "entities": {
+            "Q35525": {
+                "it": "Casa Bianca",
+                "en": "White House"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "1dc3ed72",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What is the name of the first Mario game released on the Nintendo Switch?",
+        "target": "Come si chiama il primo videogioco \"Mario\" uscito per Nintento Switch?",
+        "entities": {
+            "Q19610114": {
+                "it": "Nintendo Switch",
+                "en": "Nintendo Switch"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "80b8730a",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who is the current president of South Africa?",
+        "target": "Chi \u00e8 l'attuale presidente del Sud Africa?",
+        "entities": {
+            "Q258": {
+                "it": "Sudafrica",
+                "en": "South Africa"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "47bcf114",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Did Canada participate in World War II?",
+        "target": "Il Canada ha preso parte alla Seconda Guerra Mondiale?",
+        "entities": {
+            "Q362": {
+                "it": "seconda guerra mondiale",
+                "en": "World War II"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "bfc8c31b",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Is Rome more populated than Paris?",
+        "target": "Roma ha pi\u00f9 abitanti di Parigi?",
+        "entities": {
+            "Q90": {
+                "it": "Parigi",
+                "en": "Paris"
+            },
+            "Q220": {
+                "it": "Roma",
+                "en": "Rome"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "f3430429",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was the first African American president of the United States?",
+        "target": "Chi \u00e8 stato il primo Presidente afro-americano degli Stati Uniti?",
+        "entities": {
+            "Q49085": {
+                "it": "afroamericano",
+                "en": "African Americans"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "a3499bf7",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What book series has more books, Chronicles of Narnia or Lord of the Rings?",
+        "target": "Quale serie di libri ha pi\u00f9 volumi, Le cronache di Narnia o Il Signore degli anelli?",
+        "entities": {
+            "Q483412": {
+                "it": "Le cronache di Narnia",
+                "en": "The Chronicles of Narnia"
+            },
+            "Q15228": {
+                "it": "Il Signore degli Anelli",
+                "en": "The Lord of the Rings"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "e6d516e6",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which book in the Wheel of Time series was released in 1991?",
+        "target": "Quale libro della serie La Ruota del Tempo \u00e8 stato pubblicato nel 1991?",
+        "entities": {
+            "Q4470": {
+                "it": "La Ruota del Tempo",
+                "en": "The Wheel of Time"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "2d19c0c3",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What unit of currency is used in the country where the Eiffel Tower is?",
+        "target": "Qual \u00e8 la valuta usata nel paese della Torre Eiffel?",
+        "entities": {
+            "Q243": {
+                "it": "torre Eiffel",
+                "en": "Eiffel Tower"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "3b66ab40",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Did the United States fight against France to gain its independence in the Revolutionary War?",
+        "target": "Gli Stati Uniti hanno combattuto contro la Francia per rendersi indipendenti durante la Guerra d'Indipendenza?",
+        "entities": {
+            "Q142": {
+                "it": "Francia",
+                "en": "France"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
         "id": "1670507e",
-        "source_locale": "it",
-        "target_locale": "en",
+        "source_locale": "en",
+        "target_locale": "it",
         "source": "Which country suffered more military deaths during World War II, Germany or the Soviet Union?",
         "target": "Quale paese ha sofferto pi\u00f9 morti in combattimento durante la Seconda Guerra Mondiale, Germania o Unione Sovietica?",
         "entities": {
@@ -1230,183 +1336,11 @@
         "from": "mintaka"
     },
     {
-        "id": "983c8363",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Where did ancient Egypt begin?",
-        "target": "Quando \u00e8 cominciato l'antico Egitto?",
-        "entities": {
-            "Q79": {
-                "it": "Egitto",
-                "en": "Egypt"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "0c12ab9b",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which of the following leaders played prominent roles in both World War I and World War II?",
-        "target": "Chi dei seguenti leader ha svolto un ruolo decisivo sia nella prima che nella seconda guerra mondiale?",
-        "entities": {
-            "Q362": {
-                "it": "seconda guerra mondiale",
-                "en": "World War II"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "204f1126",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Did Japan participate in World War I?",
-        "target": "Il Giappone ha partecipato alla Prima Guerra Mondiale?",
-        "entities": {
-            "Q17": {
-                "it": "Giappone",
-                "en": "Japan"
-            },
-            "Q361": {
-                "it": "prima guerra mondiale",
-                "en": "World War I"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "e5ae859a",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who was the last king of France?",
-        "target": "Chi fu l'ultimo re di Francia?",
-        "entities": {
-            "Q142": {
-                "it": "Francia",
-                "en": "France"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "e2953651",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which country has a larger population, Bangladesh or Brazil?",
-        "target": "Quale paese ha la popolazione pi\u00f9 numerosa tra Bangladesh e Brasile?",
-        "entities": {
-            "Q155": {
-                "it": "Brasile",
-                "en": "Brazil"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "7ddd29ac",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "When was Mount Rushmore started?",
-        "target": "Quando fu iniziato il Monte Rushmore?",
-        "entities": {
-            "Q83497": {
-                "it": "Monte Rushmore",
-                "en": "Mount Rushmore"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "fc40f6f6",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who had the earlier reign as prime minister of Jamaica, Edward Seaga or Donald Sangster?",
-        "target": "Chi ha ricoperto per primo l'incarico di Primo Ministro della Giamaica, Edward Seaga o Donald Sangster?",
-        "entities": {
-            "Q766": {
-                "it": "Giamaica",
-                "en": "Jamaica"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "41aa2eef",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which lasted longer, the American Revolutionary War or the Civil War?",
-        "target": "Qual \u00e8 durata di pi\u00f9, la Guerra d'Indipendenza americana o la Guerra Civile?",
-        "entities": {
-            "Q40949": {
-                "it": "guerra d'indipendenza americana",
-                "en": "American Revolutionary War"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "e84476f3",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Was Abraham Lincoln the 16th president of the U.S.?",
-        "target": "Abramo Lincoln \u00e8 stato il 16\u00b0 presidente degli Stati Uniti d'America?",
-        "entities": {
-            "Q30": {
-                "it": "Stati Uniti d'America",
-                "en": "United States of America"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "e85bf7ac",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which Game of Thrones battle is the longest?",
-        "target": "Quale battaglia del Trono di spade \u00e8 la pi\u00f9 lunga?",
-        "entities": {
-            "Q23572": {
-                "it": "Il Trono di Spade",
-                "en": "Game of Thrones"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "8a29a0ba",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who was a military leader and took power in France in 1799?",
-        "target": "Chi fu comandante militare e sal\u00ec al potere in Francia nel 1799?",
-        "entities": {
-            "Q142": {
-                "it": "Francia",
-                "en": "France"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "f86d6d8e",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Was King George III the British monarch during the American Revolutionary War?",
-        "target": "Re Giorgio II \u00e8 stato Monarca Britannico durante la Guerra d'Indipendenza Americana?",
-        "entities": {
-            "Q40949": {
-                "it": "guerra d'indipendenza americana",
-                "en": "American Revolutionary War"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "8cfeddd7",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who wrote the third book of Lord of the Rings that's based on the last movie?",
-        "target": "Chi ha scritto il terzo libro del Signore degli Anelli basato sull'ultimo film?",
+        "id": "e2a44231",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Was The Lord of the Rings published before 1960?",
+        "target": "Il libro Il Signore degli anelli \u00e8 stato pubblicato prima del 1960?",
         "entities": {
             "Q15228": {
                 "it": "Il Signore degli Anelli",
@@ -1416,169 +1350,71 @@
         "from": "mintaka"
     },
     {
-        "id": "be3eb4ac",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "When did the author who wrote the Lord of Rings die?",
-        "target": "Quando mor\u00ec l'autore che scrisse il Signore degli Anelli?",
+        "id": "54b7c51f",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who is usually the monster that steals Princess Peach in the Mario Bros. series?",
+        "target": "Chi \u00e8 solitamente il mostro che rapisce la Principessa Peach nella serie \"Mario Bros.\"?",
         "entities": {
-            "Q15228": {
-                "it": "Il Signore degli Anelli",
-                "en": "The Lord of the Rings"
+            "Q507001": {
+                "it": "Principessa Peach",
+                "en": "Princess Peach"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "603bafa9",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who was the shortest serving prime minister of Canada?",
-        "target": "Chi \u00e8 stato il primo ministro Canadese a servire per meno tempo?",
+        "id": "1fc37e2f",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which mayors of New York City since 1994 have not been Democrats?",
+        "target": "Dal 1994 in poi, quali sindaci della citt\u00e0 di New York non sono stati democratici?",
         "entities": {
-            "Q16": {
-                "it": "Canada",
-                "en": "Canada"
+            "Q60": {
+                "it": "New York",
+                "en": "New York City"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "6f4228ce",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who is the head of Saudi Arabia?",
-        "target": "Chi governa l'Arabia Saudita?",
+        "id": "6735ddd5",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Is Mount Kilimanjaro located in Africa?",
+        "target": "Il Monte Kilimangiaro si trova in Africa?",
         "entities": {
-            "Q851": {
-                "it": "Arabia Saudita",
-                "en": "Saudi Arabia"
+            "Q7296": {
+                "it": "Kilimangiaro",
+                "en": "Mount Kilimanjaro"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "c3ee6a4a",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Is Denali taller than Mount Whitney?",
-        "target": "Il Monte Denali \u00e8 pi\u00f9 alto del Monte Whitney?",
+        "id": "b5a3eb32",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who led the first Roman invasion of Britain?",
+        "target": "Chi condusse la prima invasione romana della Gran Bretagna?",
         "entities": {
-            "Q235539": {
-                "it": "Monte Whitney",
-                "en": "Mount Whitney"
+            "Q23666": {
+                "it": "Gran Bretagna",
+                "en": "Great Britain"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "8d83c502",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which military alliance did not win World War II?",
-        "target": "Quale alleanza militare non ha vinto la Seconda Guerra Mondiale?",
+        "id": "c782d153",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Does Germany have a prime minister?",
+        "target": "La Germania ha un primo ministro?",
         "entities": {
-            "Q362": {
-                "it": "seconda guerra mondiale",
-                "en": "World War II"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "c5ae3177",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What is the third Lord of The Rings movie?",
-        "target": "Qual \u00e8 il terzo film Il Signore degli Anelli?",
-        "entities": {
-            "Q190214": {
-                "it": "Il Signore degli Anelli",
-                "en": "The Lord of the Rings trilogy"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "307ce37f",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which country is bigger in size, USA or China?",
-        "target": "Quale nazione \u00e8 pi\u00f9 grande, gli Stati Uniti o la Cina?",
-        "entities": {
-            "Q148": {
-                "it": "Cina",
-                "en": "People's Republic of China"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "7bc007c1",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which Carthaginian general invaded Italy in 218 BC, but did not conquer it?",
-        "target": "Quale generale cartaginese ha invaso l'Italia nel 218 a.C. ma non l'ha conquistata?",
-        "entities": {
-            "Q38": {
-                "it": "Italia",
-                "en": "Italy"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "dfb7e530",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What year was the author who wrote the Lord of the Rings series born?",
-        "target": "In che anno \u00e8 nato l'autore de Il signore degli anelli?",
-        "entities": {
-            "Q15228": {
-                "it": "Il Signore degli Anelli",
-                "en": "The Lord of the Rings"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "cbc2ab99",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Where is Paris?",
-        "target": "Dov'\u00e8 Parigi?",
-        "entities": {
-            "Q90": {
-                "it": "Parigi",
-                "en": "Paris"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "ff3b76df",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "How many countries participated in the 1896 Olympic Games in Athens?",
-        "target": "Quante nazioni hanno partecipato ai Giochi Olimpici del 1896 ad Atene?",
-        "entities": {
-            "Q1524": {
-                "it": "Atene",
-                "en": "Athens"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "e0510724",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which country has won more world cups, Brazil or Germany?",
-        "target": "Quale paese ha vinto pi\u00f9 coppe del mondo, il Brasile o la Germania?",
-        "entities": {
-            "Q155": {
-                "it": "Brasile",
-                "en": "Brazil"
+            "Q14212": {
+                "it": "primo ministro",
+                "en": "prime minister"
             },
             "Q183": {
                 "it": "Germania",
@@ -1588,23 +1424,121 @@
         "from": "mintaka"
     },
     {
-        "id": "e407f128",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which pitcher has the most strikeouts?",
-        "target": "Quale lanciatore ha realizzato pi\u00f9 strikeout?",
+        "id": "179480ad",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which was longer, the American Civil War or the Revolutionary War?",
+        "target": "\u00c8 durata di pi\u00f9 la Guerra Civile Americana o la Guerra d'Indipendenza Americana?",
         "entities": {
-            "Q1048902": {
-                "it": "lanciatore",
-                "en": "pitcher"
+            "Q40949": {
+                "it": "guerra d'indipendenza americana",
+                "en": "American Revolutionary War"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "9e7ac30f",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Was Caligula assassinated?",
+        "target": "Caligola \u00e8 stato assassinato?",
+        "entities": {
+            "Q1409": {
+                "it": "Caligola",
+                "en": "Caligula"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "789cf0fa",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which Lord of the Rings movies did not feature Gandalf the Grey?",
+        "target": "In quale film de Il Signore degli Anelli non appare Gandalf?",
+        "entities": {
+            "Q190214": {
+                "it": "Il Signore degli Anelli",
+                "en": "The Lord of the Rings trilogy"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "0bc9b304",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was the first ruler of Greece?",
+        "target": "Chi \u00e8 stato il primo governatore della Grecia?",
+        "entities": {
+            "Q41": {
+                "it": "Grecia",
+                "en": "Greece"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "b89f4687",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which country is bigger: Russia or Germany?",
+        "target": "Quale Paese \u00e8 pi\u00f9 grande: Russia o Germania?",
+        "entities": {
+            "Q183": {
+                "it": "Germania",
+                "en": "Germany"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "95b987e3",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which former member of NSYNC is not straight?",
+        "target": "Quale precedente membro degli N Sync non \u00e8 etero?",
+        "entities": {
+            "Q154454": {
+                "it": "NSYNC",
+                "en": "NSYNC"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "bc4e469b",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which movie had a bigger budget, Lord of The Rings or Ghostbusters?",
+        "target": "Che film ha avuto un budget pi\u00f9 alto, Il Signore degli Anelli o Ghostbusters?",
+        "entities": {
+            "Q190214": {
+                "it": "Il Signore degli Anelli",
+                "en": "The Lord of the Rings trilogy"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "9a82fbf0",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which Lord of the Rings book did not have less than two movies per title?",
+        "target": "Quale libro de \"Il signore degli anelli\" non ha avuto meno di due film per titolo?",
+        "entities": {
+            "Q15228": {
+                "it": "Il Signore degli Anelli",
+                "en": "The Lord of the Rings"
             }
         },
         "from": "mintaka"
     },
     {
         "id": "df709bc9",
-        "source_locale": "it",
-        "target_locale": "en",
+        "source_locale": "en",
+        "target_locale": "it",
         "source": "Is the Missouri River the longest river in the United States?",
         "target": "Il fiume Missouri \u00e8 il pi\u00f9 lungo degli Stati Uniti?",
         "entities": {
@@ -1616,559 +1550,11 @@
         "from": "mintaka"
     },
     {
-        "id": "2bcb037b",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who built the Suez Canal?",
-        "target": "Chi costru\u00ec il canale di Suez?",
-        "entities": {
-            "Q899": {
-                "it": "canale di Suez",
-                "en": "Suez Canal"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "0f8e2686",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "How many Supreme Leaders has North Korea had?",
-        "target": "Quanti leader supremi ha avuto la Corea del Nord?",
-        "entities": {
-            "Q423": {
-                "it": "Corea del Nord",
-                "en": "North Korea"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "746f48bc",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What was the imperial capital of Japan?",
-        "target": "Qual era la capitale imperiale del Giappone?",
-        "entities": {
-            "Q17": {
-                "it": "Giappone",
-                "en": "Japan"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "8324d43a",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What is the capital of the country where the White House is located?",
-        "target": "Qual \u00e8 la capitale del paese dove ha sede la Casa Bianca?",
-        "entities": {
-            "Q35525": {
-                "it": "Casa Bianca",
-                "en": "White House"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "e1fcf7f9",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "How many Super Bowl victories do the Green Bay Packers have?",
-        "target": "Quanti Super Bowl hanno vinto i Greenbay Packers?",
-        "entities": {
-            "Q213837": {
-                "it": "Green Bay Packers",
-                "en": "Green Bay Packers"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "c918f2dd",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who was the third Pope?",
-        "target": "Chi era il terzo Papa?",
-        "entities": {
-            "Q19546": {
-                "it": "papa",
-                "en": "pope"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "115379ae",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Is Mount Everest taller than Mount Elbrus?",
-        "target": "Il Monte Everest \u00e8 pi\u00f9 alto del Monte Elbrus?",
-        "entities": {
-            "Q513": {
-                "it": "Everest",
-                "en": "Mount Everest"
-            },
-            "Q43105": {
-                "it": "monte Elbrus",
-                "en": "Mount Elbrus"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "f04e86df",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "When is USA Independence Day?",
-        "target": "Quando \u00e8 il giorno dell'indipendenza americana?",
-        "entities": {
-            "Q86591": {
-                "it": "Giorno dell'Indipendenza",
-                "en": "Independence Day"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "d0c5ccfa",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which movie took place at a hotel and starred Jack Nicholson?",
-        "target": "Quale film con Jack Nicholoson \u00e8 ambientato in un hotel?",
-        "entities": {
-            "Q39792": {
-                "it": "Jack Nicholson",
-                "en": "Jack Nicholson"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "28f1de76",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Did The English Patient win an Oscar for Best Picture?",
-        "target": "Il paziente inglese ha vinto l'Oscar per il miglior film?",
-        "entities": {
-            "Q63026": {
-                "it": "Il paziente inglese",
-                "en": "The English Patient"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "aa73a891",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which book in The Chronicles of Narnia series is the longest by word count?",
-        "target": "Quale libro della serie Le Cronache di Narnia \u00e8 il pi\u00f9 lungo per numero di parole?",
-        "entities": {
-            "Q483412": {
-                "it": "Le cronache di Narnia",
-                "en": "The Chronicles of Narnia"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "79b95484",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who wrote The Shining?",
-        "target": "Chi ha scritto Shining?",
-        "entities": {
-            "Q186341": {
-                "it": "Shining",
-                "en": "The Shining"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "f91b20e7",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which war had the most US deaths, Korean War or Vietnam War?",
-        "target": "In quale guerra sono morti pi\u00f9 Americani, la Guerra di Corea o la Guerra del Vietnam?",
-        "entities": {
-            "Q8663": {
-                "it": "guerra di Corea",
-                "en": "Korean War"
-            },
-            "Q8740": {
-                "it": "guerra del Vietnam",
-                "en": "Vietnam War"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "e527e00b",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who was the first female pharaoh of Egypt?",
-        "target": "Chi \u00e8 stato il primo faraone donna d'Egitto?",
-        "entities": {
-            "Q79": {
-                "it": "Egitto",
-                "en": "Egypt"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "ff2fd46f",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who was the last true pharaoh of Egypt?",
-        "target": "Chi fu l'ultimo vero faraone d'Egitto?",
-        "entities": {
-            "Q79": {
-                "it": "Egitto",
-                "en": "Egypt"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "2b3c4ae3",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which lasted longer, World War II or American Civil War?",
-        "target": "\u00c8 durata di pi\u00f9 la Seconda Guerra Mondiale o la Guerra Civile Americana?",
-        "entities": {
-            "Q362": {
-                "it": "seconda guerra mondiale",
-                "en": "World War II"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "95d9e9a2",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "When did Germany invade Poland?",
-        "target": "Quando la Germania ha invaso la Polonia?",
-        "entities": {
-            "Q183": {
-                "it": "Germania",
-                "en": "Germany"
-            },
-            "Q36": {
-                "it": "Polonia",
-                "en": "Poland"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "d4fec8d7",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which governors of West Virginia since 1990 have not been Democrat?",
-        "target": "Quale governatore della Virginia Occidentale non \u00e8 stato democratico dal 1990?",
-        "entities": {
-            "Q1371": {
-                "it": "Virginia Occidentale",
-                "en": "West Virginia"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "a4728c8c",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What is the smallest country in Europe by population?",
-        "target": "Qual \u00e8 la nazione pi\u00f9 piccola d'Europa per numero di abitanti?",
-        "entities": {
-            "Q46": {
-                "it": "Europa",
-                "en": "Europe"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "67e572f1",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "How many United States presidents served in the American Civil War?",
-        "target": "Quanti Presidenti degli Stati Uniti hanno servito nella Guerra di Secessione Americana?",
-        "entities": {
-            "Q8676": {
-                "it": "guerra di secessione americana",
-                "en": "American Civil War"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "6b2d6b91",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What state is home to Mount Rushmore?",
-        "target": "In quale stato si trova il Monte Rushmore?",
-        "entities": {
-            "Q83497": {
-                "it": "Monte Rushmore",
-                "en": "Mount Rushmore"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "26bf2bae",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which stratovolcano in the Philippines has not erupted after its 1991 eruption?",
-        "target": "Quale stratovulcano delle Filippine non \u00e8 attivo dall'eruzione del 1991?",
-        "entities": {
-            "Q928": {
-                "it": "Filippine",
-                "en": "Philippines"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "a6466af0",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "In what city is the White House located?",
-        "target": "In quale citt\u00e0 si trova la Casa Bianca?",
-        "entities": {
-            "Q35525": {
-                "it": "Casa Bianca",
-                "en": "White House"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "4e23d73b",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which Lord of the Rings movie cost the least money to make?",
-        "target": "La produzione di quale film de Il Signore degli anelli \u00e8 costata di meno?",
-        "entities": {
-            "Q190214": {
-                "it": "Il Signore degli Anelli",
-                "en": "The Lord of the Rings trilogy"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "8030d298",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who wrote the Pride and Prejudice?",
-        "target": "Chi ha scritto Orgoglio e pregiudizio?",
-        "entities": {
-            "Q170583": {
-                "it": "Orgoglio e pregiudizio",
-                "en": "Pride and Prejudice"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "29627369",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which book in the A Song of Ice and Fire series was written in the same year as the last Atlanta Olympics?",
-        "target": "Quale libro della serie \"Cronache del ghiaccio e del fuoco\" \u00e8 stato scritto nello stesso anno delle olimpiadi di Atlanta?",
-        "entities": {
-            "Q45875": {
-                "it": "Cronache del ghiaccio e del fuoco",
-                "en": "A Song of Ice and Fire"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "007b7543",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who was the first African American governor and a Democrat?",
-        "target": "Chi \u00e8 stato il primo governatore afro-americano democratico?",
-        "entities": {
-            "Q49085": {
-                "it": "afroamericano",
-                "en": "African Americans"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "d892a105",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Did Pacman come before Ms. Pac-Man?",
-        "target": "Pacman \u00e8 venuto prima di Ms. Pacman?",
-        "entities": {
-            "Q2141683": {
-                "it": "Ms. Pac-Man",
-                "en": "Ms. Pac-Man"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "0bf364c9",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "How many seas surround Japan?",
-        "target": "Quanti mari circondano il Giappone?",
-        "entities": {
-            "Q17": {
-                "it": "Giappone",
-                "en": "Japan"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "6dab62f7",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What is the largest city in Canada not found outside Saskatchewan?",
-        "target": "Qual \u00e8 la citt\u00e0 pi\u00f9 grande del Saskatchewan canadese?",
-        "entities": {
-            "Q16": {
-                "it": "Canada",
-                "en": "Canada"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "828b02f0",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which Republican did Barack Obama defeat to win a second term in 2012?",
-        "target": "Quale repubblicano fu battuto da Barak Obama quando ha vinto il secondo mandato nel 2020?",
-        "entities": {
-            "Q76": {
-                "it": "Barack Obama",
-                "en": "Barack Obama"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "d258138c",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Is there a rainforest in North America?",
-        "target": "C'\u00e8 qualche foresta pluviale in America del Nord?",
-        "entities": {
-            "Q49": {
-                "it": "America del Nord",
-                "en": "North America"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "f181ab1c",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "How many times did the leader of the Rough Riders, during the Spanish American War, run for president?",
-        "target": "Quante volte il leader dei Rough Riders, durante la guerra ispano-americana, \u00e8 stato candidato alla presidenza?",
-        "entities": {
-            "Q12583": {
-                "it": "guerra ispano-americana",
-                "en": "Spanish\u2013American War"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "59366b9c",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Is the Danube River the longest river in Europe?",
-        "target": "\u00c8 il Danubio il fiume pi\u00f9 lungo d'Europa?",
-        "entities": {
-            "Q1653": {
-                "it": "Danubio",
-                "en": "Danube"
-            },
-            "Q46": {
-                "it": "Europa",
-                "en": "Europe"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "cdd8ff3a",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which country has a larger population, Canada or Mexico?",
-        "target": "Quale Paese conta pi\u00f9 abitanti: Canada o Messico?",
-        "entities": {
-            "Q96": {
-                "it": "Messico",
-                "en": "Mexico"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "a36ce8d9",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What is the size of Rio de Janeiro in Brazil?",
-        "target": "Quanto \u00e8 grande Rio de Janeiro in Brasile?",
-        "entities": {
-            "Q155": {
-                "it": "Brasile",
-                "en": "Brazil"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "e0caff1a",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who was a wife of King Alexander III Macedon and the cousin of Amyntas IV?",
-        "target": "Chi \u00e8 stata una moglie di Alessandro Magno e cugina di Aminta IV?",
-        "entities": {
-            "Q8409": {
-                "it": "Alessandro Magno",
-                "en": "Alexander the Great"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "ccd9cdff",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What is the longest river in Mexico?",
-        "target": "Qual \u00e8 il fiume pi\u00f9 lungo del Messico?",
-        "entities": {
-            "Q96": {
-                "it": "Messico",
-                "en": "Mexico"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "05128a46",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which capital city is located on the southern shores of the Firth of Forth in the United Kingdom?",
-        "target": "Qual \u00e8 la capitale che si trova sulle coste meridionali del Firth of Forth nel Regno Unito?",
+        "id": "a547d5d7",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What is the only country that borders the United Kingdom and is an independent country?",
+        "target": "Qual \u00e8 l'unica nazione che confina con il Regno Unito ed \u00e8 una nazione indipendente?",
         "entities": {
             "Q145": {
                 "it": "Regno Unito",
@@ -2178,57 +1564,109 @@
         "from": "mintaka"
     },
     {
-        "id": "f4f2a37c",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "How many books are in the Wheel of Time series?",
-        "target": "Quanti sono i libri della serie \"La Ruota del Tempo\"?",
+        "id": "05741287",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which Fire type Pokemon could not be caught in the wild in Pokemon Yellow?",
+        "target": "Quale Pokemon di tipo fuoco non poteva essere catturato nel bosco in Pokemon giallo?",
         "entities": {
-            "Q4470": {
-                "it": "La Ruota del Tempo",
-                "en": "The Wheel of Time"
+            "Q1988120": {
+                "it": "Pok\u00e9mon Giallo",
+                "en": "Pok\u00e9mon Yellow"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "720db644",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which country has more lakes, Brazil or Canada?",
-        "target": "Quale Paese ha pi\u00f9 laghi, il Brasile o il Canada?",
+        "id": "51a1a924",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was the first president of the United States of America?",
+        "target": "Chi \u00e8 stato il primo presidente degli Stati Uniti d'America?",
         "entities": {
-            "Q155": {
-                "it": "Brasile",
-                "en": "Brazil"
+            "Q30": {
+                "it": "Stati Uniti d'America",
+                "en": "United States of America"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "3590dd4e",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Did France help the Americans defeat the British during the American Revolution?",
-        "target": "La Francia ha aiutato gli Americani a sconfiggere gli Inglesi durante la Rivoluzione Americana?",
+        "id": "5396a5d4",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Is Harry Potter and the Goblet of Fire the first book in the series?",
+        "target": "Harry Potter e il calice di fuoco \u00e8 il primo libro della serie?",
         "entities": {
-            "Q192769": {
-                "it": "rivoluzione americana",
-                "en": "American Revolution"
-            },
-            "Q142": {
-                "it": "Francia",
-                "en": "France"
+            "Q46751": {
+                "it": "Harry Potter e il calice di fuoco",
+                "en": "Harry Potter and the Goblet of Fire"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "145f7241",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who are some characters in the Lord of Rings books but not the movies?",
-        "target": "Chi sono i personaggi de \"Il signore degli anelli\" che compaiono nei libri ma non nei film?",
+        "id": "0bbbdb96",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which South American country that is the closest to Antarctica is also the longest country in the continent?",
+        "target": "Quale Paese dell'America del Sud \u00e8 il pi\u00f9 vicino all'Antartide ed \u00e8 anche il pi\u00f9 lungo del continente?",
+        "entities": {
+            "Q51": {
+                "it": "Antartide",
+                "en": "Antarctica"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "96377948",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was the second president of the United States?",
+        "target": "Chi fu il secondo presidente degli Stati Uniti d'America?",
+        "entities": {
+            "Q30": {
+                "it": "Stati Uniti d'America",
+                "en": "United States of America"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "c5d31018",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What is the name of the fourth zone in the third Sonic the Hedgehog game?",
+        "target": "Come si chiama la quarta zona nel terzo gioco della serie Sonic?",
+        "entities": {
+            "Q1046812": {
+                "it": "Sonic",
+                "en": "Sonic the Hedgehog"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "c3b7af46",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was West Virginia's longest serving senator?",
+        "target": "Chi \u00e8 stato il senatore pi\u00f9 longevo della Virginia Occidentale?",
+        "entities": {
+            "Q1371": {
+                "it": "Virginia Occidentale",
+                "en": "West Virginia"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "d10371c5",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which Lord of the Rings book does not feature the Shire as a setting?",
+        "target": "In quale libro de \"Il signore degli anelli\", tra le ambientazioni non c'\u00e9 Shire?",
         "entities": {
             "Q15228": {
                 "it": "Il Signore degli Anelli",
@@ -2238,259 +1676,23 @@
         "from": "mintaka"
     },
     {
-        "id": "6cdf80c2",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What river flows through the entirety of Egypt and is also the longest river in the world?",
-        "target": "Quale fiume scorre attraverso l'intero Egitto ed \u00e8 anche il pi\u00f9 lungo del mondo?",
+        "id": "f800746d",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "How many Lord of the Rings movies was Gandalf the White in?",
+        "target": "In quanti film de Il Signore degli Anelli compare Gandalf?",
         "entities": {
-            "Q79": {
-                "it": "Egitto",
-                "en": "Egypt"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "d20b57cc",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which country won more gold medals at the 2000 Summer Olympics, Italy or Romania?",
-        "target": "Quale Paese ha vinto pi\u00f9 medaglie d'oro alle Olimpiadi estive del 2000, Italia o Romania?",
-        "entities": {
-            "Q38": {
-                "it": "Italia",
-                "en": "Italy"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "9ff5ee42",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who directed the movie that was based on the third book of Lord of the Rings?",
-        "target": "Chi \u00e8 il regista del film tratto dal terzo libro de Il Signore degli Anelli?",
-        "entities": {
-            "Q15228": {
+            "Q190214": {
                 "it": "Il Signore degli Anelli",
-                "en": "The Lord of the Rings"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "47e37ab8",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What is the estimated population of Europe's most northern capital city?",
-        "target": "Qual \u00e8 la popolazione stimata della capitale pi\u00f9 nord-occidentale d'Europa?",
-        "entities": {
-            "Q46": {
-                "it": "Europa",
-                "en": "Europe"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "3f227ccc",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What is the 12th Pok\u00e9mon in the Pokedex?",
-        "target": "Qual \u00e8 il dodicesimo Pokemon nel Pokedex?",
-        "entities": {
-            "Q864": {
-                "it": "Pok\u00e9mon",
-                "en": "Pok\u00e9mon"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "d31fa2e2",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What year did World War I start?",
-        "target": "In quale anno inizi\u00f2 la Prima Guerra Mondiale?",
-        "entities": {
-            "Q361": {
-                "it": "prima guerra mondiale",
-                "en": "World War I"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "3d40cb24",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Does South Carolina have a larger population than North Carolina?",
-        "target": "La Carolina del Sud ha pi\u00f9 abitanti della Carolina del Nord?",
-        "entities": {
-            "Q1456": {
-                "it": "Carolina del Sud",
-                "en": "South Carolina"
-            },
-            "Q1454": {
-                "it": "Carolina del Nord",
-                "en": "North Carolina"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "01b43273",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who was the last female monarch of Japan?",
-        "target": "Chi \u00e8 stato l'ultimo monarca donna del Giappone?",
-        "entities": {
-            "Q17": {
-                "it": "Giappone",
-                "en": "Japan"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "6857e7a4",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which book in the Lord of the Rings series was published in 1954?",
-        "target": "Quale libro della serie de Il signore degli anelli \u00e8 uscito nel 1954?",
-        "entities": {
-            "Q15228": {
-                "it": "Il Signore degli Anelli",
-                "en": "The Lord of the Rings"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "d27a5028",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which country has a larger population, Brazil or Peru?",
-        "target": "Quale Paese ha maggiore popolazione, Brasile o Per\u00f9?",
-        "entities": {
-            "Q419": {
-                "it": "Per\u00f9",
-                "en": "Peru"
-            },
-            "Q155": {
-                "it": "Brasile",
-                "en": "Brazil"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "7dd2b609",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What is the largest national park in the state (based on acres) that features the Newport Bridge?",
-        "target": "Quale \u00e8 il parco nazionale pi\u00f9 esteso (basato sugli acri) che include il Newport Bridge?",
-        "entities": {
-            "Q81292": {
-                "it": "acro",
-                "en": "acre"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "dc2e80b8",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which Roman emperor constructed a wall across Great Britain in the second century AD?",
-        "target": "Quale imperatore romano costru\u00ec una muraglia attraverso la Gran Bretagna, nel secondo secolo d.C.?",
-        "entities": {
-            "Q23666": {
-                "it": "Gran Bretagna",
-                "en": "Great Britain"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "7c1c447c",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Has Jay-Z ever made a song with Beyonc\u00e9?",
-        "target": "Jay Z ha mai inciso una canzone con Beyonc\u00e9?",
-        "entities": {
-            "Q62766": {
-                "it": "Jay-Z",
-                "en": "Jay-Z"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "f5b6d44c",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Did the US enter the Vietnam War in 1965?",
-        "target": "Gli Stati Uniti sono entrati nella guerra del Vietnam nel 1965?",
-        "entities": {
-            "Q8740": {
-                "it": "guerra del Vietnam",
-                "en": "Vietnam War"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "c1c941ec",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which pharaoh of Egypt was the youngest?",
-        "target": "Chi fu il pi\u00f9 giovane faraone d'Egitto?",
-        "entities": {
-            "Q79": {
-                "it": "Egitto",
-                "en": "Egypt"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "13677ece",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who became a chancellor of Germany and was a painter from the Austro-Hungarian Empire?",
-        "target": "Chi \u00e8 diventata cancelliere in Germania e era un pittore dell'impero Austro-Ungarico?",
-        "entities": {
-            "Q183": {
-                "it": "Germania",
-                "en": "Germany"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "c51668a2",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which war had more fatalities, World War I or the American Civil War?",
-        "target": "Quale guerra ha avuto pi\u00f9 morti, Prima Guerra Mondiale o Guerra di Secessione Americana?",
-        "entities": {
-            "Q8676": {
-                "it": "guerra di secessione americana",
-                "en": "American Civil War"
-            },
-            "Q361": {
-                "it": "prima guerra mondiale",
-                "en": "World War I"
+                "en": "The Lord of the Rings trilogy"
             }
         },
         "from": "mintaka"
     },
     {
         "id": "7b8bc91c",
-        "source_locale": "it",
-        "target_locale": "en",
+        "source_locale": "en",
+        "target_locale": "it",
         "source": "Did George R.R. Martin finish ASOIAF as of 2021?",
         "target": "George R.R. Martin ha terminato Le Cronache del ghiaccio e del fuoco nel 2021?",
         "entities": {
@@ -2502,67 +1704,11 @@
         "from": "mintaka"
     },
     {
-        "id": "07cc7c15",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who starred in the movie based on Fear and Loathing in Las Vegas?",
-        "target": "Chi ha recitato nel film basato su \"Paura e disgusto a Las Vegas\"?",
-        "entities": {
-            "Q772435": {
-                "it": "Paura e disgusto a Las Vegas",
-                "en": "Fear and Loathing in Las Vegas"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "1a84be06",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which The Lord of the Rings book was not published in 1954?",
-        "target": "Quale libro de Il signore degli anelli non \u00e8 stato pubblicato nel 1954?",
-        "entities": {
-            "Q15228": {
-                "it": "Il Signore degli Anelli",
-                "en": "The Lord of the Rings"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "80322d1b",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who was the first pharaoh of Egypt?",
-        "target": "Chi \u00e8 stato il primo Faraone d'Egitto?",
-        "entities": {
-            "Q79": {
-                "it": "Egitto",
-                "en": "Egypt"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "d65817de",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which series has more books, Lord of the Rings or Game of Thrones?",
-        "target": "Quale serie ha un numero maggiore di libri, \"Il signore degli anelli\" o \"Il trono di spade\"?",
-        "entities": {
-            "Q15228": {
-                "it": "Il Signore degli Anelli",
-                "en": "The Lord of the Rings"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "97d738cb",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who is the WW II era Soviet leader that was born to a poor family in Gori?",
-        "target": "Chi nella seconda guerra mondiale era un lider sovietico ed era nato in una famiglia povera a Gori?",
+        "id": "dab5d428",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "In what year did the United States enter WW II?",
+        "target": "In quale anno gli Stati Uniti entrarono nella seconda guerra mondiale?",
         "entities": {
             "Q362": {
                 "it": "seconda guerra mondiale",
@@ -2572,25 +1718,95 @@
         "from": "mintaka"
     },
     {
-        "id": "903c35f6",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What is the population of Mexico City, Mexico?",
-        "target": "Qual \u00e8 la popolazione della Citt\u00e0 del Messico, in Messico?",
+        "id": "7aa25fe3",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What man was a dictator who was responsible for a genocide that killed millions of people and was the leader of an Axis Power during World War II?",
+        "target": "Quale uomo fu il dittatore responsabile di un genocidio che uccise milioni di persone e leader dell'Asse durante la Seconda Guerra Mondiale?",
         "entities": {
-            "Q1489": {
-                "it": "Citt\u00e0 del Messico",
-                "en": "Mexico City"
+            "Q362": {
+                "it": "seconda guerra mondiale",
+                "en": "World War II"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "f5424ae8",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who won more medals, the United States or China in the 2008 Summer Olympics?",
-        "target": "Chi ha vinto pi\u00f9 medaglie, gli USA o la Cina alle Olimpiadi estive del 2008?",
+        "id": "2ecf2719",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which book in the A Song of Ice And Fire series was released in 2005?",
+        "target": "Quale libro de \"Cronache del ghiaccio e del fuoco\" \u00e8 stato pubblicato nel 2005?",
+        "entities": {
+            "Q45875": {
+                "it": "Cronache del ghiaccio e del fuoco",
+                "en": "A Song of Ice and Fire"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "d29e2b61",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which Chronicles of Narnia book was not written before 1955?",
+        "target": "Quale libro delle Cronache di Narnia non \u00e8 stato scritto prima del 1995?",
+        "entities": {
+            "Q483412": {
+                "it": "Le cronache di Narnia",
+                "en": "The Chronicles of Narnia"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "d0c5ccfa",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which movie took place at a hotel and starred Jack Nicholson?",
+        "target": "Quale film con Jack Nicholoson \u00e8 ambientato in un hotel?",
+        "entities": {
+            "Q39792": {
+                "it": "Jack Nicholson",
+                "en": "Jack Nicholson"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "f07e3564",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What landmark in Rome was said to have seated more than 15,000 fans all vying for blood?",
+        "target": "Quale punto di riferimento a Roma \u00e8 stato raccontato di aver accolto a sedere pi\u00f9 di 50,000 fans tutti in lizza per il sangue?",
+        "entities": {
+            "Q220": {
+                "it": "Roma",
+                "en": "Rome"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "475661d9",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What is the size of London?",
+        "target": "Quanto \u00e8 grande Londra?",
+        "entities": {
+            "Q84": {
+                "it": "Londra",
+                "en": "London"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "9a91d95d",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which Chinese dynasty is known as the Golden Age for Poetry?",
+        "target": "Quale dinastia cinese \u00e8 conosciuta come l'et\u00e0 d'oro della poesia?",
         "entities": {
             "Q148": {
                 "it": "Cina",
@@ -2600,25 +1816,387 @@
         "from": "mintaka"
     },
     {
-        "id": "e66650dc",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who wrote Pride and Prejudice?",
-        "target": "Chi scrisse Orgoglio e Pregiudizio?",
+        "id": "6328c5af",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What year was Beyonc\u00e9's first solo album released?",
+        "target": "In quale anno \u00e8 stato lanciato il primo album solista di Beyonce?",
         "entities": {
-            "Q170583": {
-                "it": "Orgoglio e pregiudizio",
-                "en": "Pride and Prejudice"
+            "Q36153": {
+                "it": "Beyonc\u00e9",
+                "en": "Beyonc\u00e9"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "a9360d2a",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which country has a larger land area, Canada or Brazil?",
-        "target": "Quale Paese ha un territorio pi\u00f9 vasto: Canada o Brasile?",
+        "id": "9244090d",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was older when he became the president of the United States of America, Bill Clinton or Barack Obama?",
+        "target": "Chi era pi\u00f9 vecchio quando \u00e8 diventato il Presidente degli Stati Uniti d'America, Bill Clinton o Barack Obama?",
+        "entities": {
+            "Q30": {
+                "it": "Stati Uniti d'America",
+                "en": "United States of America"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "1552abe2",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who wrote the Grapes of Wrath?",
+        "target": "Chi ha scritto Furore?",
+        "entities": {
+            "Q215983": {
+                "it": "Furore",
+                "en": "The Grapes of Wrath"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "51cadbae",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What is the capital of the country with the fifth largest land area in Europe?",
+        "target": "Qual \u00e8 la capitale del paese con la quinta superficie terrestre pi\u00f9 estesa d'Europa?",
+        "entities": {
+            "Q46": {
+                "it": "Europa",
+                "en": "Europe"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "2d7d56f9",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which Mass Effect game does not include Commander Shepard as the main character?",
+        "target": "Quale gioco della serie Mass Effect non include il Comandante Shepard come personaggio principale?",
+        "entities": {
+            "Q3683919": {
+                "it": "Comandante Shepard",
+                "en": "Commander Shepard"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "9896653c",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Did the United Kingdom fight a war against a South American country in the 1990s?",
+        "target": "Il Regno Unito ha combattuto una guerra contro un nazione Sud Americana negli anni 90?",
+        "entities": {
+            "Q145": {
+                "it": "Regno Unito",
+                "en": "United Kingdom"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "5f7ee9d3",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which nation lost World War II, Germany or the United States?",
+        "target": "Quale nazione ha perso la Seconda Guerra Mondiale, Germania o Stati Uniti?",
+        "entities": {
+            "Q183": {
+                "it": "Germania",
+                "en": "Germany"
+            },
+            "Q362": {
+                "it": "seconda guerra mondiale",
+                "en": "World War II"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "4d1fccdd",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which series has more books, The Chronicles of Narnia or Twilight?",
+        "target": "Quale saga \u00e8 composta da pi\u00f9 libri, Le cronache di Narnia o Twilight?",
+        "entities": {
+            "Q483412": {
+                "it": "Le cronache di Narnia",
+                "en": "The Chronicles of Narnia"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "d7012a77",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "How many The Chronicles of Narnia movies are there?",
+        "target": "Quanti film Le cronache di Narnia ci sono?",
+        "entities": {
+            "Q483412": {
+                "it": "Le cronache di Narnia",
+                "en": "The Chronicles of Narnia"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "4ff2bfb7",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which of the Lord of the Rings books is the shortest?",
+        "target": "Qual \u00e8 il libro pi\u00f9 breve de Il Signore degli Anelli?",
+        "entities": {
+            "Q15228": {
+                "it": "Il Signore degli Anelli",
+                "en": "The Lord of the Rings"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "a97ae9d4",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who built the pyramids in Mexico?",
+        "target": "Chi ha costruito le piramidi in Messico?",
+        "entities": {
+            "Q96": {
+                "it": "Messico",
+                "en": "Mexico"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "fb15deb3",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which Blackpink members were not from South Korea?",
+        "target": "Quali componenti delle Blackpink non vengono dalla Corea del Sud?",
+        "entities": {
+            "Q884": {
+                "it": "Corea del Sud",
+                "en": "South Korea"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "9c568088",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What series has more books, The Chronicles of Narnia or Diary of a Wimpy Kid?",
+        "target": "Quale serie ha pi\u00f9 libri, Le cronache di Narnia o Diario di una schiappa?",
+        "entities": {
+            "Q1339580": {
+                "it": "Diario di una schiappa",
+                "en": "Diary of a Wimpy Kid"
+            },
+            "Q483412": {
+                "it": "Le cronache di Narnia",
+                "en": "The Chronicles of Narnia"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "7398bf1f",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "In how many games has Princess Peach been the only playable character?",
+        "target": "In quanti giochi la Principessa Peach \u00e8 stata l'unico personaggio giocabile?",
+        "entities": {
+            "Q507001": {
+                "it": "Principessa Peach",
+                "en": "Princess Peach"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "3adafb4c",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which contiguous state that borders the Pacific Ocean does not have a northern state on its border?",
+        "target": "Quale stato bagnato dall'Oceano Pacifico non confina con uno stato settentrionale?",
+        "entities": {
+            "Q98": {
+                "it": "Oceano Pacifico",
+                "en": "Pacific Ocean"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "77b12cdf",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was the sixth emperor of Rome?",
+        "target": "Chi era il sesto imperatore di Roma?",
+        "entities": {
+            "Q220": {
+                "it": "Roma",
+                "en": "Rome"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "e983e565",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "How many states does the Mississippi River run though or along the border of?",
+        "target": "Il fiume Mississipi si estende tra o comunque tocca quanti stati?",
+        "entities": {
+            "Q1497": {
+                "it": "Mississippi",
+                "en": "Mississippi River"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "cb66e96b",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Did England and France ever have a war with each other?",
+        "target": "L'Inghilterra e la Francia sono mai state in guerra tra loro?",
+        "entities": {
+            "Q142": {
+                "it": "Francia",
+                "en": "France"
+            },
+            "Q21": {
+                "it": "Inghilterra",
+                "en": "England"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "e7568709",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "In what year was the architect who made the Eiffel Tower born?",
+        "target": "In quale anno \u00e8 nato l'architetto che fece la Torre Eiffel?",
+        "entities": {
+            "Q243": {
+                "it": "torre Eiffel",
+                "en": "Eiffel Tower"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "80662a4b",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was the last king of England?",
+        "target": "Chi fu l'ultimo re di Inghilterra?",
+        "entities": {
+            "Q21": {
+                "it": "Inghilterra",
+                "en": "England"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "befc7eea",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What NC governors since 2012 have not been Republican?",
+        "target": "Dal 2012 quali governatori della Carolina del Nord NON sono stati repubblicani?",
+        "entities": {
+            "Q1454": {
+                "it": "Carolina del Nord",
+                "en": "North Carolina"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "27c444ef",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "How many countries made up the principal Allies during World War II?",
+        "target": "Quanti paesi facevano parte dei principali alleati durante la Seconda Guerra Mondiale?",
+        "entities": {
+            "Q362": {
+                "it": "seconda guerra mondiale",
+                "en": "World War II"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "fbf5039b",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What is the first album by Irish rock band U2?",
+        "target": "Qual \u00e8 il primo album della band rock irlandese U2?",
+        "entities": {
+            "Q27": {
+                "it": "Irlanda",
+                "en": "Ireland"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "5033b17a",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was Alexander the Great's first wife?",
+        "target": "Chi fu la prima moglie di Alessandro Magno?",
+        "entities": {
+            "Q8409": {
+                "it": "Alessandro Magno",
+                "en": "Alexander the Great"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "9a4e5526",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which former Dallas Cowboy quarterback used to play football at UCLA in college?",
+        "target": "Quale ex-quarterback dei Dallas Cowboy giocava a football all'Universit\u00e0 della California, quando era al college?",
+        "entities": {
+            "Q174710": {
+                "it": "Universit\u00e0 della California",
+                "en": "University of California, Los Angeles"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "a7bb5df3",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What Pok\u00e9mon game has Charizard as a starter Pok\u00e9mon?",
+        "target": "Quale gioco dei Pokemon ha Charizard come pokemon iniziale?",
+        "entities": {
+            "Q864": {
+                "it": "Pok\u00e9mon",
+                "en": "Pok\u00e9mon"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "28d6ebbc",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Is Brazil larger than Argentina?",
+        "target": "Il Brasile \u00e8 pi\u00f9 grande dell'Argentina?",
         "entities": {
             "Q155": {
                 "it": "Brasile",
@@ -2628,37 +2206,523 @@
         "from": "mintaka"
     },
     {
-        "id": "8c6e2fc7",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who is older, Paul McCartney or Keith Richards?",
-        "target": "Chi \u00e8 pi\u00f9 grande, Paul Mc Cartney o Keith Richards?",
+        "id": "ab8a6a63",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "The first African American child to attend a white school did so in what year?",
+        "target": "In che anno il primo bambino afroamericano frequent\u00f2 una scuola per bianchi?",
         "entities": {
-            "Q2599": {
-                "it": "Paul McCartney",
-                "en": "Paul McCartney"
+            "Q49085": {
+                "it": "afroamericano",
+                "en": "African Americans"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "c93ecf51",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "How many countries fought in The Hundred Years War?",
-        "target": "Quante nazioni hanno combattuto nella Guerra dei Cent'anni?",
+        "id": "0d3e8130",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was the 19th president of the United States of America?",
+        "target": "Chi \u00e8 stato il 19\u00b0 presidente degli Stati Uniti d'America?",
         "entities": {
-            "Q12551": {
-                "it": "guerra dei cent'anni",
-                "en": "Hundred Years' War"
+            "Q30": {
+                "it": "Stati Uniti d'America",
+                "en": "United States of America"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "2f7ea70b",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which Doja Cat record was nominated for a Record of the Year Grammy but did not win?",
+        "target": "Quale brano di Doja Cat \u00e8 stato candidato al Grammy Award alla registrazione dell'anno senza vincere?",
+        "entities": {
+            "Q843219": {
+                "it": "Grammy Award alla registrazione dell'anno",
+                "en": "Grammy Award for Record of the Year"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "5cbd4e80",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Is Wyoming the least densely populated state in the United States of America?",
+        "target": "Wyoming \u00e8 lo stato meno densamente popolato degli Stati Uniti d'America?",
+        "entities": {
+            "Q30": {
+                "it": "Stati Uniti d'America",
+                "en": "United States of America"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "eb1f25ab",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was the longest surviving child of King Louis XVI of France?",
+        "target": "Chi \u00e8 stato il figlio di re Luigi XVI di Francia che \u00e8 vissuto pi\u00f9 a lungo?",
+        "entities": {
+            "Q7732": {
+                "it": "Luigi XVI di Francia",
+                "en": "Louis XVI of France"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "e0b30737",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who has been the oldest vice president to step foot in the White House?",
+        "target": "Chi \u00e8 stato il vicepresidente pi\u00f9 anziano ad entrare alla Casa Bianca?",
+        "entities": {
+            "Q35525": {
+                "it": "Casa Bianca",
+                "en": "White House"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "05128a46",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which capital city is located on the southern shores of the Firth of Forth in the United Kingdom?",
+        "target": "Qual \u00e8 la capitale che si trova sulle coste meridionali del Firth of Forth nel Regno Unito?",
+        "entities": {
+            "Q145": {
+                "it": "Regno Unito",
+                "en": "United Kingdom"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "dd27fa7e",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Was Sonic's primary nemesis Dr. Ivo Robotnik originally known as Dr. Eggman in Japan?",
+        "target": "Il nemico principale di Sonic Dr. Ivo Robotnik era originariamente conosciuto come Dr. Eggman in Giappone?",
+        "entities": {
+            "Q1046812": {
+                "it": "Sonic",
+                "en": "Sonic the Hedgehog"
+            },
+            "Q17": {
+                "it": "Giappone",
+                "en": "Japan"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "830c55ff",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which Canadian province does not contain more than 0.1% of the country's population?",
+        "target": "Quale provincia canadese non contiene pi\u00f9 dell'1% della popolazione nazionale?",
+        "entities": {
+            "Q16": {
+                "it": "Canada",
+                "en": "Canada"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "a88d72fd",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Does Italy share a border with France?",
+        "target": "L'Italia confina con la Francia?",
+        "entities": {
+            "Q142": {
+                "it": "Francia",
+                "en": "France"
+            },
+            "Q38": {
+                "it": "Italia",
+                "en": "Italy"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "4540a215",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who is the president of Italy?",
+        "target": "Chi \u00e8 il presidente italiano?",
+        "entities": {
+            "Q38": {
+                "it": "Italia",
+                "en": "Italy"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "529a08c0",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Is the Yellow River the longest river in Asia?",
+        "target": "Il Fiume Giallo \u00e8 il pi\u00f9 lungo dell'Asia?",
+        "entities": {
+            "Q7355": {
+                "it": "Fiume Giallo",
+                "en": "Yellow River"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "1d7c9a02",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What is the population of the state where Mount Rushmore is?",
+        "target": "Qual \u00e8 la popolazione dello stato in cui si trova il Monte Rushmore?",
+        "entities": {
+            "Q83497": {
+                "it": "Monte Rushmore",
+                "en": "Mount Rushmore"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "4e989288",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "How many movies were made from the Lord of the Rings book series?",
+        "target": "Quanti film sono stati tratti dalla serie di libri Il Signore degli Anelli?",
+        "entities": {
+            "Q15228": {
+                "it": "Il Signore degli Anelli",
+                "en": "The Lord of the Rings"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "9afa8edd",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was in charge of Great Britain during World War 2?",
+        "target": "Chi era in carica in Gran Bretagna durante la Seconda Guerra Mondiale?",
+        "entities": {
+            "Q362": {
+                "it": "seconda guerra mondiale",
+                "en": "World War II"
+            },
+            "Q23666": {
+                "it": "Gran Bretagna",
+                "en": "Great Britain"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "14d27e5e",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "How many U.S. states share a border with Mexico?",
+        "target": "Quanti stati USA confinano con il Messico?",
+        "entities": {
+            "Q96": {
+                "it": "Messico",
+                "en": "Mexico"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "e5aa3547",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which king of England had the most marriages?",
+        "target": "Quale Re di Inghilterra ha avuto pi\u00f9 matrimoni?",
+        "entities": {
+            "Q21": {
+                "it": "Inghilterra",
+                "en": "England"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "540d0d47",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What role did Heath Ledger play in the 2008 movie, The Dark Knight?",
+        "target": "Quale ruolo ha impersonato Heath Ledger nel film \"Il cavaliere oscuro\" del 2008?",
+        "entities": {
+            "Q163872": {
+                "it": "Il cavaliere oscuro",
+                "en": "The Dark Knight"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "7897a1b6",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "When was Beyonc\u00e9's last album released?",
+        "target": "Quando \u00e8 uscito l'ultimo album di Beyonce?",
+        "entities": {
+            "Q36153": {
+                "it": "Beyonc\u00e9",
+                "en": "Beyonc\u00e9"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "1be2a0a9",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Did Marcel Proust write In Search of Lost Time?",
+        "target": "Alla ricerca del tempo perduto \u00e8 stato scritto da Marcel Proust?",
+        "entities": {
+            "Q464928": {
+                "it": "Alla ricerca del tempo perduto",
+                "en": "In Search of Lost Time"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "f8bd7ead",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was the first president of Mexico?",
+        "target": "Chi \u00e8 stato il primo presidente del Messico?",
+        "entities": {
+            "Q96": {
+                "it": "Messico",
+                "en": "Mexico"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "fe02d7f4",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Is there an emperor of Japan?",
+        "target": "Esiste un Imperatore del Giappone?",
+        "entities": {
+            "Q17": {
+                "it": "Giappone",
+                "en": "Japan"
+            },
+            "Q39018": {
+                "it": "imperatore",
+                "en": "emperor"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "68896e4d",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "When did World War Two start?",
+        "target": "Quando \u00e8 iniziata la seconda guerra mondiale?",
+        "entities": {
+            "Q362": {
+                "it": "seconda guerra mondiale",
+                "en": "World War II"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "5b4c75ff",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who ruled Rome for the longest period of time?",
+        "target": "Chi govern\u00f2 Roma per il pi\u00f9 lungo periodo di tempo?",
+        "entities": {
+            "Q220": {
+                "it": "Roma",
+                "en": "Rome"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "a322bb20",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was the first African American man to become president of the US?",
+        "target": "Chi \u00e8 stato il primo afroamericano che \u00e8 diventato presidente degli Stati Uniti?",
+        "entities": {
+            "Q49085": {
+                "it": "afroamericano",
+                "en": "African Americans"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "16c4703e",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Is the Eiffel Tower in Spain?",
+        "target": "La Torre Eiffel si trova in Spagna?",
+        "entities": {
+            "Q29": {
+                "it": "Spagna",
+                "en": "Spain"
+            },
+            "Q243": {
+                "it": "torre Eiffel",
+                "en": "Eiffel Tower"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "6c58becc",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "How many years has Angela Merkel been a chancellor of Germany?",
+        "target": "Per quanti anni Angela Merkel \u00e8 stata cancelliera della Germania?",
+        "entities": {
+            "Q183": {
+                "it": "Germania",
+                "en": "Germany"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "d121b432",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which actress starred in The Wizard of Oz and is the daughter of Liza Minnelli?",
+        "target": "Quale attrice ha recitato nel Mago di Oz la cui figlia \u00e8 Liza Minnelli?",
+        "entities": {
+            "Q193695": {
+                "it": "Il mago di Oz",
+                "en": "The Wizard of Oz"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "f2107aca",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who lived longer, Alexander the Great or Julius Ceasar?",
+        "target": "Chi ha vissuto pi\u00f9 a lungo, Alessandro Magno o Giulio Cesare?",
+        "entities": {
+            "Q8409": {
+                "it": "Alessandro Magno",
+                "en": "Alexander the Great"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "79ea6d48",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which series has more books, Chronicles of Narnia or the Hardy Boys?",
+        "target": "Quale serie ha pi\u00f9 libri: \"Le cronache di Narnia\" o \"Hardy Boys\"?",
+        "entities": {
+            "Q483412": {
+                "it": "Le cronache di Narnia",
+                "en": "The Chronicles of Narnia"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "457e360f",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What is the longest underwater tunnel in Denmark?",
+        "target": "Qual \u00e8 il tunnel sottomarino pi\u00f9 lungo della Danimarca?",
+        "entities": {
+            "Q35": {
+                "it": "Danimarca",
+                "en": "Denmark"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "e3a4d2cd",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Is the Eiffel Tower located in Italy?",
+        "target": "La Torre Eiffel si trova in Italia?",
+        "entities": {
+            "Q38": {
+                "it": "Italia",
+                "en": "Italy"
+            },
+            "Q243": {
+                "it": "torre Eiffel",
+                "en": "Eiffel Tower"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "1c6c85f3",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was the 3rd president of Brazil?",
+        "target": "Chi \u00e8 stato il terzo presidente del Brasile?",
+        "entities": {
+            "Q155": {
+                "it": "Brasile",
+                "en": "Brazil"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "a7ef499a",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Did Jay-Z ever make a song with Tupac?",
+        "target": "jay z ha mai fatto una canzone con tupac?",
+        "entities": {
+            "Q62766": {
+                "it": "Jay-Z",
+                "en": "Jay-Z"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "5284cebc",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Is the Lord of the Rings series or the Divergent series older?",
+        "target": "\u00c8 uscita prima la saga de Il Signore degli Anelli o Divergent?",
+        "entities": {
+            "Q15228": {
+                "it": "Il Signore degli Anelli",
+                "en": "The Lord of the Rings"
             }
         },
         "from": "mintaka"
     },
     {
         "id": "c5d77ffe",
-        "source_locale": "it",
-        "target_locale": "en",
+        "source_locale": "en",
+        "target_locale": "it",
         "source": "Is Texas a bigger state than North Carolina?",
         "target": "Il Texas \u00e8 pi\u00f9 grande della Carolina del Nord?",
         "entities": {
@@ -2670,118 +2734,30 @@
         "from": "mintaka"
     },
     {
-        "id": "ed13e74f",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "How many mountains in Mexico are more than 15,000 feet in elevation?",
-        "target": "Quante montagne messicane sono pi\u00f9 alte di 15.000 piedi?",
+        "id": "a192dac7",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who is the prime minister of the United Kingdom?",
+        "target": "Chi \u00e8 il Primo Ministro del Regno Unito?",
         "entities": {
-            "Q96": {
-                "it": "Messico",
-                "en": "Mexico"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "be95e04a",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who directed the Lord of the Rings trilogy?",
-        "target": "Chi ha diretto la trilogia \"Il signore degli anelli\"?",
-        "entities": {
-            "Q190214": {
-                "it": "Il Signore degli Anelli",
-                "en": "The Lord of the Rings trilogy"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "93c8a2e4",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which country is bigger: France or Albania?",
-        "target": "Quale Paese \u00e8 pi\u00f9 grande: Francia o Albania?",
-        "entities": {
-            "Q142": {
-                "it": "Francia",
-                "en": "France"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "ec4104a2",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who is the oldest person to win the Grammy Award for Song of the Year?",
-        "target": "Chi \u00e8 stato il pi\u00f9 grande a vincere un Grammy Award alla canzone dell'anno?",
-        "entities": {
-            "Q1027904": {
-                "it": "Grammy Award alla canzone dell'anno",
-                "en": "Grammy Award for Song of the Year"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "a60a4310",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who did Keanu Reeves play in the movie The Matrix?",
-        "target": "Chi ha interpretato Keanu Reeves nel film Matrix?",
-        "entities": {
-            "Q83495": {
-                "it": "Matrix",
-                "en": "The Matrix"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "b4f33ad0",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What country was part of the Axis and invaded France?",
-        "target": "Quale paese fece parte dell'Asse e invase la Francia?",
-        "entities": {
-            "Q142": {
-                "it": "Francia",
-                "en": "France"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "3f0bc8bf",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Who discovered America first, Amerigo Vespucci or Christopher Columbus?",
-        "target": "Chi \u00e8 stato a scoprire per primo l'America, Amerigo Vespucci o Cristoforo Colombo?",
-        "entities": {
-            "Q7322": {
-                "it": "Cristoforo Colombo",
-                "en": "Christopher Columbus"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "79395e64",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Which Axis Power had atomic bombs dropped on it, Italy or Japan?",
-        "target": "Quale potenza dell'asse ha ricevuto un attacco nucleare, Italia o Giappone?",
-        "entities": {
-            "Q43056": {
-                "it": "Potenze dell'Asse",
-                "en": "Axis"
+            "Q14212": {
+                "it": "primo ministro",
+                "en": "prime minister"
             },
-            "Q38": {
-                "it": "Italia",
-                "en": "Italy"
-            },
+            "Q145": {
+                "it": "Regno Unito",
+                "en": "United Kingdom"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "b49155f1",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who was the 1st emperor of Japan?",
+        "target": "Chi \u00e8 stato il primo Imperatore del Giappone?",
+        "entities": {
             "Q17": {
                 "it": "Giappone",
                 "en": "Japan"
@@ -2790,11 +2766,39 @@
         "from": "mintaka"
     },
     {
-        "id": "47bcf114",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Did Canada participate in World War II?",
-        "target": "Il Canada ha preso parte alla Seconda Guerra Mondiale?",
+        "id": "2600566f",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What is Jay-Z's real name?",
+        "target": "Qual \u00e8 il vero nome di Jay Z?",
+        "entities": {
+            "Q62766": {
+                "it": "Jay-Z",
+                "en": "Jay-Z"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "7398f77c",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "What book did J. K. Rowling write at the age of six?",
+        "target": "Che libro fu scritto da J.K. Rowling all'et\u00e0 di sei anni?",
+        "entities": {
+            "Q34660": {
+                "it": "J. K. Rowling",
+                "en": "J. K. Rowling"
+            }
+        },
+        "from": "mintaka"
+    },
+    {
+        "id": "a35e080e",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Did more Americans die in World War II or the American Civil War?",
+        "target": "Sono morti pi\u00f9 americani nella Seconda Guerra Mondiale o nella Guerra civile americana?",
         "entities": {
             "Q362": {
                 "it": "seconda guerra mondiale",
@@ -2804,75 +2808,61 @@
         "from": "mintaka"
     },
     {
-        "id": "461879a6",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What was the last Wheel of Time book written?",
-        "target": "Qual \u00e8 l'ultimo libro de La Ruota del Tempo?",
+        "id": "039fab2a",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "How many different series of Goosebumps books did R.L. Stine release between 1992 and 2000?",
+        "target": "Quante serie di \"Piccoli brividi\" ha pubblicato R.L. Stine tra il 1992 e il 2000?",
         "entities": {
-            "Q4470": {
-                "it": "La Ruota del Tempo",
-                "en": "The Wheel of Time"
+            "Q3260367": {
+                "it": "Piccoli brividi",
+                "en": "Goosebumps"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "42f8a972",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What was the first largest earthquake ever recorded?",
-        "target": "Qual \u00e8 stato il maggior terremoto mai registrato?",
+        "id": "87f36c14",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Is Paris the capital of France?",
+        "target": "Parigi \u00e8 la capitale della Francia?",
         "entities": {
-            "Q7944": {
-                "it": "terremoto",
-                "en": "earthquake"
-            }
-        },
-        "from": "mintaka"
-    },
-    {
-        "id": "e56810fe",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Is Mount Rushmore located in the state of South Dakota?",
-        "target": "Il monte Rushmore si trova nello stato del Dakota del Sud?",
-        "entities": {
-            "Q83497": {
-                "it": "Monte Rushmore",
-                "en": "Mount Rushmore"
+            "Q90": {
+                "it": "Parigi",
+                "en": "Paris"
             },
-            "Q1211": {
-                "it": "Dakota del Sud",
-                "en": "South Dakota"
+            "Q142": {
+                "it": "Francia",
+                "en": "France"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "c9f42ee8",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "What date was the actress born who played Scarlett in \"Gone with the Wind\"?",
-        "target": "Qual \u00e8 la data di nascita dell'attrice che imperson\u00f2 Rossella in \"Via col vento\"?",
+        "id": "960ed5d6",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Which Lord of the Rings character is a relative to Frodo and originally finds the ring?",
+        "target": "Quale personaggio de \"Il signore degli anelli\" \u00e8 parente di Frodo e trova per primo l'anello?",
         "entities": {
-            "Q2875": {
-                "it": "Via col vento",
-                "en": "Gone with the Wind"
+            "Q15228": {
+                "it": "Il Signore degli Anelli",
+                "en": "The Lord of the Rings"
             }
         },
         "from": "mintaka"
     },
     {
-        "id": "7a26e9bb",
-        "source_locale": "it",
-        "target_locale": "en",
-        "source": "Did Elizabeth I of England have children?",
-        "target": "Elisabetta I d'Inghilterra ha avuto figli?",
+        "id": "6fc1dd16",
+        "source_locale": "en",
+        "target_locale": "it",
+        "source": "Who ruled Egypt after Cleopatra, but did not live to 40?",
+        "target": "Chi govern\u00f2 l'Egitto dopo Cleopatra ma non \u00e8 vissuto fino ai 40 anni?",
         "entities": {
-            "Q7207": {
-                "it": "Elisabetta I d'Inghilterra",
-                "en": "Elizabeth I of England"
+            "Q79": {
+                "it": "Egitto",
+                "en": "Egypt"
             }
         },
         "from": "mintaka"

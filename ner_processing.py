@@ -1,6 +1,8 @@
 from span_marker import SpanMarkerModel
 import numpy as np
 from tqdm import tqdm
+import os
+import json
 import time
 
 def sanity_check(inputs):
@@ -38,7 +40,7 @@ def sanity_check(inputs):
     
 
 
-def identify_named_entities(inputs, language):
+def identify_named_entities(inputs, language, split):
     """
     Identifies named entities in the given text using pretrained hugging face model
     Args:
@@ -52,17 +54,25 @@ def identify_named_entities(inputs, language):
     lstents = [obs['entities'] for obs in inputs]
     keys = [ent for key in lstents for ent in key]
 
-    source_entities_labeled = np.array([key[enkey]['en'] for enkey in keys for key in lstents], dtype = object)
-    target_entities_labeled = np.array([key[enkey][language] for enkey in keys for key in lstents], dtype = object)
+    source_entities_labeled = np.array([item[key]['en'] for item in lstents for key in item], dtype = object)
+    target_entities_labeled = np.array([item[key][language] for item in lstents for key in item], dtype = object)
 
     model = SpanMarkerModel.from_pretrained("tomaarsen/span-marker-mbert-base-multinerd", clean_up_tokenization_spaces = True)
 
-    # TODO FINISH PREDICTIONS CORRECTLY
     source_pred = np.array([model.predict(sentence) for sentence in source], dtype = object)
-    source_entities_predicted = np.array(source_pred["span"], dtype = object)
+    source_entities_predicted = np.array([[d['span'] for d in row] for row in source_pred], dtype = object)
     target_pred = np.array([model.predict(sentence) for sentence in target], dtype = object)   
-    target_entities_predicted = np.array(target_pred["span"], dtype = object)
+    target_entities_predicted = np.array([[d['span'] for d in row] for row in target_pred], dtype = object)
 
-    return {"source": source, "source_entities_labeled": source_entities_labeled, "source_entities_predicted": source_entities_predicted,
+    results = {"source": source, "source_entities_labeled": source_entities_labeled, "source_entities_predicted": source_entities_predicted,
             "source_pred": source_pred, "target": target, "target_entities_labeled": target_entities_labeled, "target_entities_predicted":  target_entities_predicted,
             "target_pred": target_pred}
+
+    # Directory to save model output to reduce repeated computation
+    output_dir = 'data'
+    os.makedirs(output_dir, exist_ok=True)
+
+    with open(os.path.join(output_dir, 'NERpredictions_{}.json'.format(split)), 'w') as resultfile:
+        json.dump(results, resultfile, indent=4)
+
+    return results
