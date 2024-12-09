@@ -1,23 +1,19 @@
 # Import necessary functions
 import os
-import random
 import json
+import random
+from entity_masking import load_entities_mapping, mask_entities_with_spanmarker, ensure_pad_token
+from mt_translation import translate_with_placeholders_m2m
+from entity_reintegration import reintegrate_entities
 from ner_processing import sanity_check, identify_named_entities
-#from entity_masking import mask_entities, save_mapping
-#from mt_training import prepare_data_for_training, fine_tune_mt_model
-#from entity_reintegration import reintegrate_entities
-#from evaluation import compute_bleu_score, compute_entity_precision_recall
+
 
 def main():
-    #filepaths to preprocessed data --> see data_processing.py for more info
-    es_datapath = os.path.abspath('data/spanish_w_labels.json')
-    it_datapath = os.path.abspath('data/italian_w_labels.json')
+    es_train = os.path.abspath('data/spanish_train.json')
+    it_train = os.path.abspath('data/italian_train.json')
 
     print("Loading data... \n")
-    #split data into train and test sets
-    es_train, es_test, es_dev = split(es_datapath, "spanish")
-    it_train, it_test, it_dev = split(it_datapath, "italian")
-
+  
     nerRes = {"es": None,"it": None}
 
     # Step 2: Perform Named Entity Recognition (NER)

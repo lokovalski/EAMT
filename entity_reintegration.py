@@ -1,22 +1,55 @@
-def translate_entity(entity, context):
+from transformers import M2M100ForConditionalGeneration, M2M100Tokenizer
+
+# Example: Translate an entity (if needed) based on the context
+def translate_entity(entity, src_lang, tgt_lang):
     """
-    Determines how to handle the given entity during reintegration.
+    Translates an entity if needed, otherwise returns the original entity.
+
     Args:
         entity (str): The entity to process.
-        context (str): The context of the sentence.
+        src_lang (str): Source language code.
+        tgt_lang (str): Target language code.
+
     Returns:
-        translated_entity (str): The translated or processed entity.
+        str: The translated or original entity.
     """
-    pass
+    # For simplicity, assume proper nouns do not need translation
+    if entity.istitle():  # Example heuristic: proper nouns
+        return entity
+
+    # Otherwise, translate the entity
+    tokenizer = M2M100Tokenizer.from_pretrained("facebook/m2m100_418M")
+    model = M2M100ForConditionalGeneration.from_pretrained("facebook/m2m100_418M")
+    tokenizer.src_lang = src_lang
+    encoded_entity = tokenizer(entity, return_tensors="pt")
+    generated_tokens = model.generate(
+        **encoded_entity, forced_bos_token_id=tokenizer.get_lang_id(tgt_lang)
+    )
+    translated_entity = tokenizer.batch_decode(generated_tokens, skip_special_tokens=True)[0]
+    return translated_entity
 
 
-def reintegrate_entities(translation, mapping):
+def reintegrate_entities(translation, mapping, src_lang, tgt_lang):
     """
-    Replaces placeholders in the translated text with original entities.
+    Replaces placeholders in the translated text with original or translated entities.
+
     Args:
         translation (str): Translated text with placeholders.
         mapping (dict): Mapping of placeholders to original entities.
+        src_lang (str): Source language code.
+        tgt_lang (str): Target language code.
+
     Returns:
-        final_translation (str): Translation with entities reintegrated.
+        str: Translation with entities reintegrated.
     """
-    pass
+    for placeholder, entity_info in mapping.items():
+        # Get the original entity
+        original_entity = entity_info["original_text"]
+
+        # Translate the entity if needed
+        translated_entity = translate_entity(original_entity, src_lang, tgt_lang)
+
+        # Replace placeholder with the translated entity
+        translation = translation.replace(placeholder, translated_entity)
+
+    return translation

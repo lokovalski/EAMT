@@ -90,7 +90,11 @@ def mask_entities_with_spanmarker(text, model):
     #if text input is a single string
     return results[0] if is_single_string else results
 
-
+def ensure_pad_token(model):
+    if not hasattr(model.tokenizer, "pad_token") or model.tokenizer.pad_token is None:
+        print("Setting pad_token manually...")
+        model.tokenizer.pad_token = "[PAD]"
+        model.tokenizer.pad_token_id = model.tokenizer.convert_tokens_to_ids("[PAD]")
 
 
 def save_mapping(mapping, filename):

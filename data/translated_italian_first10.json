@@ -1,0 +1,203 @@
+[
+    {
+        "id": "8c6e2fc7",
+        "source": "Who is older, Paul McCartney or Keith Richards?",
+        "target": "Chi \u00e8 pi\u00f9 grande, Paul Mc Cartney o Keith Richards?",
+        "masked_source": "Who is older, [ENTITY_PERSON-ARTIST/AUTHOR_1] or [ENTITY_PERSON-ARTIST/AUTHOR_2]?",
+        "translation": "Chi \u00e8 pi\u00f9 di Paul McCartney vecchio, o",
+        "mapping": {
+            "[ENTITY_PERSON-ARTIST/AUTHOR_1]": {
+                "original_text": "Paul McCartney",
+                "type": "PERSON-ARTIST/AUTHOR",
+                "confidence": 0.6339015364646912,
+                "start": 14,
+                "end": 28
+            },
+            "[ENTITY_PERSON-ARTIST/AUTHOR_2]": {
+                "original_text": "Keith Richards",
+                "type": "PERSON-ARTIST/AUTHOR",
+                "confidence": 0.5666552782058716,
+                "start": 49,
+                "end": 63
+            }
+        }
+    },
+    {
+        "id": "4aaa6f8f",
+        "source": "How many Grammy Awards did Jay-Z win in 2021?",
+        "target": "Quanti Grammy Awards ha vinto Jay Z nel 2021?",
+        "masked_source": "How many [ENTITY_OTHER-AWARD_1] did [ENTITY_PERSON-ARTIST/AUTHOR_1] win in 2021?",
+        "translation": "Quanti hanno Grammy Awards vinto Jay-Z nel 2021? ",
+        "mapping": {
+            "[ENTITY_OTHER-AWARD_1]": {
+                "original_text": "Grammy Awards",
+                "type": "OTHER-AWARD",
+                "confidence": 0.954468846321106,
+                "start": 9,
+                "end": 22
+            },
+            "[ENTITY_PERSON-ARTIST/AUTHOR_1]": {
+                "original_text": "Jay-Z",
+                "type": "PERSON-ARTIST/AUTHOR",
+                "confidence": 0.9497587084770203,
+                "start": 36,
+                "end": 41
+            }
+        }
+    },
+    {
+        "id": "1ab80cb2",
+        "source": "What is the third installment of the Super Smash Bros. series?",
+        "target": "Qual \u00e8 il terzo capitolo della serie di Super Smash Bros?",
+        "masked_source": "What is the third installment of the Super Smash Bros. series?",
+        "translation": "Qual \u00e8 la terza installazione della serie Super Smash Bros? ",
+        "mapping": {}
+    },
+    {
+        "id": "be0c4040",
+        "source": "Did the Axis win World War 1?",
+        "target": "L'Asse ha vinto la Prima Guerra Mondiale?",
+        "masked_source": "Did the [ENTITY_ORGANIZATION-OTHER_1] win [ENTITY_EVENT-ATTACK/BATTLE/WAR/MILITARYCONFLICT_1]?",
+        "translation": "La vittoria Axis \u00e8 World War 1?",
+        "mapping": {
+            "[ENTITY_ORGANIZATION-OTHER_1]": {
+                "original_text": "Axis",
+                "type": "ORGANIZATION-OTHER",
+                "confidence": 0.7240070104598999,
+                "start": 8,
+                "end": 12
+            },
+            "[ENTITY_EVENT-ATTACK/BATTLE/WAR/MILITARYCONFLICT_1]": {
+                "original_text": "World War 1",
+                "type": "EVENT-ATTACK/BATTLE/WAR/MILITARYCONFLICT",
+                "confidence": 0.9642256498336792,
+                "start": 42,
+                "end": 53
+            }
+        }
+    },
+    {
+        "id": "890418d9",
+        "source": "Is Lake Baikal located in Russia?",
+        "target": "Il lago Baikal \u00e8 situato in Russia?",
+        "masked_source": "Is [ENTITY_LOCATION-BODIESOFWATER_1] located in [ENTITY_LOCATION-GPE_1]?",
+        "translation": "Si Lake Baikal trova in Russia?",
+        "mapping": {
+            "[ENTITY_LOCATION-BODIESOFWATER_1]": {
+                "original_text": "Lake Baikal",
+                "type": "LOCATION-BODIESOFWATER",
+                "confidence": 0.9812581539154053,
+                "start": 3,
+                "end": 14
+            },
+            "[ENTITY_LOCATION-GPE_1]": {
+                "original_text": "Russia",
+                "type": "LOCATION-GPE",
+                "confidence": 0.9902572631835938,
+                "start": 48,
+                "end": 54
+            }
+        }
+    },
+    {
+        "id": "103e914e",
+        "source": "Which country has a larger area, Canada or Mexico?",
+        "target": "Quale Paese \u00e8 pi\u00f9 esteso, il Canada o il Messico?",
+        "masked_source": "Which country has a larger area, [ENTITY_LOCATION-GPE_1] or [ENTITY_LOCATION-GPE_2]?",
+        "translation": "Quale paese ha un'area pi\u00f9 grande, Canada o Mexico?",
+        "mapping": {
+            "[ENTITY_LOCATION-GPE_1]": {
+                "original_text": "Canada",
+                "type": "LOCATION-GPE",
+                "confidence": 0.9946486353874207,
+                "start": 33,
+                "end": 39
+            },
+            "[ENTITY_LOCATION-GPE_2]": {
+                "original_text": "Mexico",
+                "type": "LOCATION-GPE",
+                "confidence": 0.9948543906211853,
+                "start": 60,
+                "end": 66
+            }
+        }
+    },
+    {
+        "id": "07b466c2",
+        "source": "Did Lord of the Rings come out before 1930?",
+        "target": "Il Signore degli Anelli \u00e8 uscito prima del 1930?",
+        "masked_source": "Did [ENTITY_ART-FILM_1] come out before 1930?",
+        "translation": "E\u2019 Il Signore degli Anelli uscito prima del 1930?",
+        "mapping": {
+            "[ENTITY_ART-FILM_1]": {
+                "original_text": "Lord of the Rings",
+                "type": "ART-FILM",
+                "confidence": 0.784456193447113,
+                "start": 4,
+                "end": 21
+            }
+        }
+    },
+    {
+        "id": "98f4f6de",
+        "source": "What was the shortest battle in the United States Civil War?",
+        "target": "Qual \u00e8 stata la battaglia pi\u00f9 breve della Guerra di secessione americana?",
+        "masked_source": "What was the shortest battle in the [ENTITY_EVENT-ATTACK/BATTLE/WAR/MILITARYCONFLICT_1]?",
+        "translation": "Qual \u00e8 stata la battaglia pi\u00f9 breve nella",
+        "mapping": {
+            "[ENTITY_EVENT-ATTACK/BATTLE/WAR/MILITARYCONFLICT_1]": {
+                "original_text": "United States Civil War",
+                "type": "EVENT-ATTACK/BATTLE/WAR/MILITARYCONFLICT",
+                "confidence": 0.9690064191818237,
+                "start": 36,
+                "end": 59
+            }
+        }
+    },
+    {
+        "id": "46130d26",
+        "source": "Has Lana Del Rey ever made a song with Ariana Grande?",
+        "target": "Lana del Ray ha mai inciso una canzone con Ariana Grande?",
+        "masked_source": "Has [ENTITY_PERSON-ARTIST/AUTHOR_1] ever made a song with [ENTITY_PERSON-ARTIST/AUTHOR_2]?",
+        "translation": "Hai Lana Del Rey mai fatto una canzone con Ariana Grande?",
+        "mapping": {
+            "[ENTITY_PERSON-ARTIST/AUTHOR_1]": {
+                "original_text": "Lana Del Rey",
+                "type": "PERSON-ARTIST/AUTHOR",
+                "confidence": 0.9623531103134155,
+                "start": 4,
+                "end": 16
+            },
+            "[ENTITY_PERSON-ARTIST/AUTHOR_2]": {
+                "original_text": "Ariana Grande",
+                "type": "PERSON-ARTIST/AUTHOR",
+                "confidence": 0.9500783085823059,
+                "start": 58,
+                "end": 71
+            }
+        }
+    },
+    {
+        "id": "8067a1a6",
+        "source": "Who ruled over France from 1804 to 1814 and won more battles than Alexander the Great during his reign?",
+        "target": "Chi ha governato in Francia dal 1804 al 1814 e ha vinto pi\u00f9 battaglie di Alessandro il Grande durante il suo regno?",
+        "masked_source": "Who ruled over [ENTITY_LOCATION-GPE_1] from 1804 to 1814 and won more battles than [ENTITY_PERSON-POLITICIAN_1] during his reign?",
+        "translation": "Chi ha governato France dal 1804 al 1814 e ha vinto pi\u00f9 battaglie Alexander il Grande che durante il",
+        "mapping": {
+            "[ENTITY_LOCATION-GPE_1]": {
+                "original_text": "France",
+                "type": "LOCATION-GPE",
+                "confidence": 0.9878518581390381,
+                "start": 15,
+                "end": 21
+            },
+            "[ENTITY_PERSON-POLITICIAN_1]": {
+                "original_text": "Alexander the Great",
+                "type": "PERSON-POLITICIAN",
+                "confidence": 0.5936011672019958,
+                "start": 83,
+                "end": 102
+            }
+        }
+    }
+]
