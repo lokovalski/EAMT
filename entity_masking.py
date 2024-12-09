@@ -1,77 +1,106 @@
 import json
+from span_marker import SpanMarkerModel
 
 def load_entities_mapping(file_path):
     """
-    Loads entities and their translations from the given JSON file.
+    Loads entities and their translations from the given JSON file, skipping invalid lines.
     Args:
         file_path (str): Path to the JSON file containing entity mappings.
     Returns:
-        dict: A dictionary mapping entity IDs to their translations.
+        list: A list of dictionaries representing the JSON data.
     """
-    with open(file_path, 'r') as f:
-        return json.load(f)
+    with open(file_path, 'r') as jf:
+        try:
+            return json.load(jf)  # Load the entire JSON array
+        except json.JSONDecodeError as e:
+            print(f"Error loading JSON file: {e}")
+            return []
 
 
-def mask_entities(text, entities, entity_mapping):
+def mask_entities_with_spanmarker(text, model):
     """
-    Replaces named entities in the text with unique placeholders based on their category/type.
+    Masks named entities in text using predictions from SpanMarkerModel.
+
     Args:
-        text (str): The original text.
-        entities (dict): Entities with translations and IDs.
-        entity_mapping (dict): Mapping of Q-IDs to their details.
+        text (Union[str, List[str]]): Input text(s). Can be a single string or a list of strings.
+        model (SpanMarkerModel): Pretrained SpanMarker model for entity prediction.
+
     Returns:
-        masked_text (str): Text with entities replaced by placeholders.
-        mapping (dict): Mapping of placeholders to original entities.
+        Union[Tuple[str, dict], List[Tuple[str, dict]]]:
+            - For a single string:
+                - masked_text (str): Text with entities replaced by placeholders.
+                - mapping (dict): Mapping of placeholders to original entities.
+            - For a list of strings:
+                - List of (masked_text, mapping) tuples.
     """
-    masked_text = text
-    mapping = {}
-    type_counters = {}  # To track counts for each entity type
-    offset = 0  # Track character shift due to replacements
+    # Check if input is a single string or a list of strings
+    is_single_string = isinstance(text, str)
+    if is_single_string:
+        text = [text]  # Convert single string to list for uniform processing
 
-    for entity_id, entity_data in entities.items():
-        entity_text = entity_data['en']  # Assume English entity text is provided
-        entity_details = entity_mapping.get(entity_id, {})
-        entity_type = entity_details.get('category', 'UNKNOWN').upper()  # Default type to 'UNKNOWN'
+    # Perform predictions using the model
+    predictions = model.predict(text)  # Handles batch processing
 
-        # Initialize the counter for this type if not already done
-        if entity_type not in type_counters:
-            type_counters[entity_type] = 1
-        else:
-            type_counters[entity_type] += 1
+    results = []
+    for i, sentence in enumerate(text):
+        masked_text = sentence
+        mapping = {}
+        type_counters = {}
+        offset = 0
 
-        # Generate placeholder
-        placeholder = f"[ENTITY_{entity_type}_{type_counters[entity_type]}]"
+        # If no predictions for this sentence
+        if not predictions[i]:  # Empty list
+            print(f"No entities found for text: {sentence}")
+            results.append((masked_text, mapping))
+            continue
 
-        # Find the entity text in the original text
-        start = text.find(entity_text)
-        if start == -1:
-            print(f"Entity '{entity_text}' not found in text.")
-            continue  # Skip if the entity text isn't found
+        # Process each entity in the prediction
+        for entity in predictions[i]:
+            entity_text = entity['span']
+            entity_type = entity['label'].upper()
+            start = entity['char_start_index']
+            end = entity['char_end_index']
 
-        end = start + len(entity_text)
+            # Counter for entity type
+            if entity_type not in type_counters:
+                type_counters[entity_type] = 1
+            else:
+                type_counters[entity_type] += 1
 
-        # Replace entity with placeholder
-        start += offset
-        end += offset
-        masked_text = masked_text[:start] + placeholder + masked_text[end:]
+            # Generate a placeholder
+            placeholder = f"[ENTITY_{entity_type}_{type_counters[entity_type]}]"
 
-        # Update offset and store mapping
-        offset += len(placeholder) - len(entity_text)
-        mapping[placeholder] = {
-            "original_text": entity_text,
-            "label": entity_details.get('label', {}).get('en', 'UNKNOWN'),
-            "id": entity_id,
-            "type": entity_type
-        }
+            # Replace entity with placeholder in the text
+            start += offset
+            end += offset
+            masked_text = masked_text[:start] + placeholder + masked_text[end:]
+            offset += len(placeholder) - len(entity_text)
 
-    return masked_text, mapping
+            # Add to mapping
+            mapping[placeholder] = {
+                "original_text": entity_text,
+                "type": entity_type,
+                "confidence": entity['score'],
+                "start": start,
+                "end": end
+            }
+
+        results.append((masked_text, mapping))
+
+    #if text input is a single string
+    return results[0] if is_single_string else results
+
+
+
 
 def save_mapping(mapping, filename):
     """
     Saves the entity-to-placeholder mapping to a file.
+    
     Args:
         mapping (dict): The entity-to-placeholder mapping.
         filename (str): File path to save the mapping.
     """
     with open(filename, 'w') as f:
         json.dump(mapping, f, indent=4)
+
