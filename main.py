@@ -9,106 +9,72 @@ from ner_processing import sanity_check, identify_named_entities
 
 
 def main():
+    # Define file paths
     es_train = os.path.abspath('data/spanish_train.json')
     it_train = os.path.abspath('data/italian_train.json')
 
-    print("Loading data... \n")
-  
-    nerRes = {"es": None,"it": None}
+    # Load SpanMarker model for NER
+    print("Loading SpanMarker model for NER...")
+    from span_marker import SpanMarkerModel
+    ner_model = SpanMarkerModel.from_pretrained("tomaarsen/span-marker-mbert-base-multinerd")
+    ensure_pad_token(ner_model)
 
-    # Step 2: Perform Named Entity Recognition (NER)
-    for language in ['es', 'it']:
-        print("Identifying named entities {}... \n".format(language))
-        file = es_train if language == 'es' else it_train
+    # Load M2M100 model and tokenizer for translation
+    print("Loading M2M100 model for translation...")
+    from transformers import M2M100ForConditionalGeneration, M2M100Tokenizer
+    translation_model = M2M100ForConditionalGeneration.from_pretrained("facebook/m2m100_418M")
+    translation_tokenizer = M2M100Tokenizer.from_pretrained("facebook/m2m100_418M")
 
-        nerRes[language] = identify_named_entities(file, language, "train")
-        input = {"entities_labeled": nerRes['target_entities_labeled'], "entities_predicted": nerRes['target_entities_predicted']}
+    for language, train_file in [('es', es_train), ('it', it_train)]:
+        print(f"\nProcessing language: {language.upper()}...")
 
-        precision, recall, F1 = sanity_check(input)
-        print("Accuracy of SpanMarker for Multilingual Named Entity Recognition {}\n".format(language))
-        print("Precision: {}".format(precision))
-        print("Recall: {}".format(recall))
-        print("F1: {}".format(F1))
-'''
-    # Step 3: Mask Named Entities
-    print("Masking entities...")
-    masked_texts = []
-    mappings = []
-    for text, entity in zip(source_texts, entities):
-        masked_text, mapping = mask_entities(text, entity)
-        masked_texts.append(masked_text)
-        mappings.append(mapping)
+        # Step 1: Load and preprocess data
+        print(f"Loading data from {train_file}...")
+        data = load_entities_mapping(train_file)
 
-    # Save the mapping for reintegration later
-    save_mapping(mappings, "entity_mapping.json")
+        # Step 2: Process each entry
+        translated_entries = []
+        for idx, entry in enumerate(data): 
 
-    # Step 4: Fine-Tune the Machine Translation Model
-    print("Fine-tuning MT model...")
-    prepare_data_for_training()
-    fine_tune_mt_model(masked_texts)
+            # Extract source text
+            source_text = entry['source']
+            print(f"Original Text: {source_text}")
 
-    # Step 5: Translate text and reintegrate entities
-    print("Translating and reintegrating entities...")
-    translated_texts = []  # Dummy: Replace with actual translations from the model
-    final_translations = []
-    for translation, mapping in zip(translated_texts, mappings):
-        final_translation = reintegrate_entities(translation, mapping)
-        final_translations.append(final_translation)
+            # Mask entities
+            masked_text, entity_mapping = mask_entities_with_spanmarker(source_text, ner_model)
+            print(f"Masked Text: {masked_text}")
+            print(f"Entity Mapping: {json.dumps(entity_mapping, indent=4)}")
 
-    # Step 6: Evaluate results
-    print("Evaluating results...")
-    references = ["La Tour Eiffel est à Paris."]  # Example references
-    bleu = compute_bleu_score(final_translations, references)
-    print(f"BLEU Score: {bleu}")
+            # Translate masked text
+            translated_text = translate_with_placeholders_m2m(
+                masked_text, entity_mapping, 
+                src_lang="en", tgt_lang="es_Latn" if language == 'es' else "it_Latn",
+                model=translation_model, tokenizer=translation_tokenizer
+            )
+            print(f"Translated Text with Placeholders: {translated_text}")
 
-    entity_precision, entity_recall = compute_entity_precision_recall(final_translations, references)
-    print(f"Entity Precision: {entity_precision}, Entity Recall: {entity_recall}")
-'''
+            # Reintegration of entities
+            final_translation = reintegrate_entities(
+                translated_text, entity_mapping,
+                src_lang="en", tgt_lang="es" if language == 'es' else "it"
+            )
+            print(f"Final Translation: {final_translation}")
 
-def split(filepath, language):
-    '''
-    Given a filepath, randomly splits into train, test, and dev sets. Saves in separate JSON files in the `data` folder.
+            # Store the processed entry
+            translated_entries.append({
+                "id": entry["id"],
+                "original_text": source_text,
+                "masked_text": masked_text,
+                "translated_text": translated_text,
+                "final_translation": final_translation,
+                "entity_mapping": entity_mapping
+            })
 
-    Args:
-        filepath (str): Path to preprocessed JSON file.
-        language (str): Corresponding to language, for file labeling purposes.
-
-    Returns:
-        [train, test, dev] [list[dict], list[dict], list[dict]]: Lists of dictionaries for train, test, and dev sets.
-    '''
-    train, test, dev = 0.8, 0.1, 0.1
-
-
-    with open(filepath, 'r') as jf:
-        data = [json.loads(line) for line in jf]
-      
-    random.shuffle(data)
-    
-    # Split into train (80%), test (10%), and dev (10%)
-    n = len(data)
-    train_end = int(train * n)
-    test_end = train_end + int(test * n)
-
-    train, test, dev = data[:train_end], data[train_end:test_end], data[test_end:]
-
-    # Ensure the "data" directory exists
-    os.makedirs('data', exist_ok=True)
-
-    # Save to separate JSON files
-    train_path = os.path.join('data', f'{language}_train.json')
-    test_path = os.path.join('data', f'{language}_test.json')
-    dev_path = os.path.join('data', f'{language}_dev.json')
-    
-    with open(train_path, 'w') as train_file:
-        json.dump(train, train_file, indent=4)
-
-    with open(test_path, 'w') as test_file:
-        json.dump(test, test_file, indent=4)
-
-    with open(dev_path, 'w') as dev_file:
-        json.dump(dev, dev_file, indent=4)
-
-    return train, test, dev
+        # Save the results
+        output_path = f"data/translated_{language}_first10.json"
+        with open(output_path, 'w') as outfile:
+            json.dump(translated_entries, outfile, indent=4)
+        print(f"Translation results saved to {output_path}")
 
 if __name__ == "__main__":
     main()
