@@ -4,7 +4,7 @@
         "source": "Who is older, Paul McCartney or Keith Richards?",
         "target": "Chi \u00e8 pi\u00f9 grande, Paul Mc Cartney o Keith Richards?",
         "masked_source": "Who is older, [ENTITY_PER_1] or [ENTITY_PER_2]?",
-        "translation": "Chi \u00e8 pi\u00f9 di Paul McCartney vecchio, o",
+        "translation": "Chi \u00e8 pi\u00f9 vecchio, di Paul McCartney o di Keith Richards?",
         "mapping": {
             "[ENTITY_PER_1]": {
                 "original_text": "Paul McCartney",
@@ -27,7 +27,7 @@
         "source": "How many Grammy Awards did Jay-Z win in 2021?",
         "target": "Quanti Grammy Awards ha vinto Jay Z nel 2021?",
         "masked_source": "How many Grammy Awards did [ENTITY_PER_1] win in 2021?",
-        "translation": "Quanti Grammy Awards hanno vinto Jay-Z nel 2021? ",
+        "translation": "Quanti Grammy Awards hanno vinto di Jay-Z nel 2021?",
         "mapping": {
             "[ENTITY_PER_1]": {
                 "original_text": "Jay-Z",
@@ -43,7 +43,7 @@
         "source": "What is the third installment of the Super Smash Bros. series?",
         "target": "Qual \u00e8 il terzo capitolo della serie di Super Smash Bros?",
         "masked_source": "What is the third installment of the [ENTITY_MEDIA_1] series?",
-        "translation": "Qual \u00e8 la terza installazione della serie? Super Smash Bros. ",
+        "translation": "Qual \u00e8 la terza installazione della serie di Super Smash Bros.?",
         "mapping": {
             "[ENTITY_MEDIA_1]": {
                 "original_text": "Super Smash Bros.",
@@ -59,7 +59,7 @@
         "source": "Did the Axis win World War 1?",
         "target": "L'Asse ha vinto la Prima Guerra Mondiale?",
         "masked_source": "Did the [ENTITY_ORG_1] win [ENTITY_EVE_1]?",
-        "translation": "La vittoria Axis \u00e8 stata",
+        "translation": "Il vincitore Assi ha vinto Guerra Mondiale 1?",
         "mapping": {
             "[ENTITY_ORG_1]": {
                 "original_text": "Axis",
@@ -82,7 +82,7 @@
         "source": "Is Lake Baikal located in Russia?",
         "target": "Il lago Baikal \u00e8 situato in Russia?",
         "masked_source": "Is [ENTITY_LOC_1] located in [ENTITY_LOC_2]?",
-        "translation": "Si Lake Baikal trova in Russia?",
+        "translation": "\u00c8 Il lago Baikal situato in La Russia?",
         "mapping": {
             "[ENTITY_LOC_1]": {
                 "original_text": "Lake Baikal",
@@ -105,7 +105,7 @@
         "source": "Which country has a larger area, Canada or Mexico?",
         "target": "Quale Paese \u00e8 pi\u00f9 esteso, il Canada o il Messico?",
         "masked_source": "Which country has a larger area, [ENTITY_LOC_1] or [ENTITY_LOC_2]?",
-        "translation": "Quale paese ha un'area pi\u00f9 grande, Canada o Mexico?",
+        "translation": "Quale paese ha un'area pi\u00f9 grande, Il Canada o Il Messico?",
         "mapping": {
             "[ENTITY_LOC_1]": {
                 "original_text": "Canada",
@@ -128,7 +128,7 @@
         "source": "Did Lord of the Rings come out before 1930?",
         "target": "Il Signore degli Anelli \u00e8 uscito prima del 1930?",
         "masked_source": "Did [ENTITY_MEDIA_1] come out before 1930?",
-        "translation": "E\u2019 Il Signore degli Anelli uscito prima del 1930?",
+        "translation": "Il Signore degli Anelli \u00e8 uscito prima del 1930?",
         "mapping": {
             "[ENTITY_MEDIA_1]": {
                 "original_text": "Lord of the Rings",
@@ -144,7 +144,7 @@
         "source": "What was the shortest battle in the United States Civil War?",
         "target": "Qual \u00e8 stata la battaglia pi\u00f9 breve della Guerra di secessione americana?",
         "masked_source": "What was the shortest battle in the [ENTITY_EVE_1]?",
-        "translation": "Qual \u00e8 stata la battaglia pi\u00f9 breve nella",
+        "translation": "Qual \u00e8 stata la battaglia pi\u00f9 breve nella guerra civile degli Stati Uniti?",
         "mapping": {
             "[ENTITY_EVE_1]": {
                 "original_text": "United States Civil War",
@@ -160,7 +160,7 @@
         "source": "Has Lana Del Rey ever made a song with Ariana Grande?",
         "target": "Lana del Ray ha mai inciso una canzone con Ariana Grande?",
         "masked_source": "Has [ENTITY_PER_1] ever made a song with [ENTITY_PER_2]?",
-        "translation": "Hai Lana Del Rey mai fatto una canzone con Ariana Grande?",
+        "translation": "di Lana del Rey Ha mai fatto una canzone con di Ariana Grande?",
         "mapping": {
             "[ENTITY_PER_1]": {
                 "original_text": "Lana Del Rey",
@@ -183,7 +183,7 @@
         "source": "Who ruled over France from 1804 to 1814 and won more battles than Alexander the Great during his reign?",
         "target": "Chi ha governato in Francia dal 1804 al 1814 e ha vinto pi\u00f9 battaglie di Alessandro il Grande durante il suo regno?",
         "masked_source": "Who ruled over [ENTITY_LOC_1] from 1804 to 1814 and won more battles than [ENTITY_PER_1] during his reign?",
-        "translation": "Chi ha governato France dal 1804 al 1814 e ha vinto pi\u00f9 battaglie Alexander il Grande che durante il",
+        "translation": "Chi ha governato Francia dal 1804 al 1814 e ha vinto pi\u00f9 battaglie che Alexander il Grande durante il suo regno?",
         "mapping": {
             "[ENTITY_LOC_1]": {
                 "original_text": "France",
