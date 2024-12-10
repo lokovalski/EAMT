@@ -18,33 +18,19 @@ def translate_with_placeholders_m2m(masked_text, mapping, src_lang, tgt_lang):
     Returns:
         str: Translated text with placeholders intact.
     """
-    # Split the text into parts
-    parts = masked_text.split(" ")
-    non_entity_parts = []
-    placeholders = []
-
-    # Separate placeholders and non-entity text
-    for word in parts:
-        if word.startswith("[ENTITY_") and word.endswith("]"):
-            placeholders.append(word)
-        else:
-            non_entity_parts.append(word)
-
-    # Translate non-entity parts
-    non_entity_text = " ".join(non_entity_parts)
     tokenizer.src_lang = src_lang
-    encoded_text = tokenizer(non_entity_text, return_tensors="pt")
-    generated_tokens = model.generate(**encoded_text, forced_bos_token_id=tokenizer.get_lang_id(tgt_lang))
-    translated_non_entity_text = tokenizer.batch_decode(generated_tokens, skip_special_tokens=True)[0]
 
-    # Reconstruct the sentence
-    reconstructed_text = []
-    non_entity_words = iter(translated_non_entity_text.split(" "))
-    for word in parts:
-        if word in mapping:  # Keep placeholders as is
-            reconstructed_text.append(word)
-        else:  # Replace non-entity words with the translated ones
-            reconstructed_text.append(next(non_entity_words, ""))
+    # Encode and translate the entire sentence
+    encoded_text = tokenizer(masked_text, return_tensors="pt")
+    generated_tokens = model.generate(
+        **encoded_text,
+        forced_bos_token_id=tokenizer.get_lang_id(tgt_lang),
+        max_length=128,  # Ensure sufficient length for translation
+        early_stopping=True
+    )
 
-    return " ".join(reconstructed_text)
+    # Decode the translated sentence
+    translated_text = tokenizer.batch_decode(generated_tokens, skip_special_tokens=True)[0]
+    return translated_text
+
 

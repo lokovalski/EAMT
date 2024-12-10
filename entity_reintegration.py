@@ -1,6 +1,5 @@
 from transformers import M2M100ForConditionalGeneration, M2M100Tokenizer
 
-# Example: Translate an entity (if needed) based on the context
 def translate_entity(entity, src_lang, tgt_lang):
     """
     Translates an entity if needed, otherwise returns the original entity.
@@ -14,17 +13,14 @@ def translate_entity(entity, src_lang, tgt_lang):
         str: The translated or original entity.
     """
     # For simplicity, assume proper nouns do not need translation
-    if entity.istitle():  # Example heuristic: proper nouns
+    if entity.istitle(): 
         return entity
 
-    # Otherwise, translate the entity
     tokenizer = M2M100Tokenizer.from_pretrained("facebook/m2m100_418M")
     model = M2M100ForConditionalGeneration.from_pretrained("facebook/m2m100_418M")
     tokenizer.src_lang = src_lang
     encoded_entity = tokenizer(entity, return_tensors="pt")
-    generated_tokens = model.generate(
-        **encoded_entity, forced_bos_token_id=tokenizer.get_lang_id(tgt_lang)
-    )
+    generated_tokens = model.generate(**encoded_entity, forced_bos_token_id=tokenizer.get_lang_id(tgt_lang))
     translated_entity = tokenizer.batch_decode(generated_tokens, skip_special_tokens=True)[0]
     return translated_entity
 
