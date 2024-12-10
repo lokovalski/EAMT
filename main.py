@@ -9,9 +9,27 @@ from ner_processing import sanity_check, identify_named_entities
 
 
 def main():
-    # Define file paths
+        
     es_train = os.path.abspath('data/spanish_train.json')
     it_train = os.path.abspath('data/italian_train.json')
+
+    print("Loading data... \n")
+  
+    nerRes = {"es": None,"it": None}
+
+    # Step 2: Perform Named Entity Recognition (NER)
+    for language in ['es', 'it']:
+        print("Identifying named entities {}... \n".format(language))
+        file = es_train if language == 'es' else it_train
+
+        nerRes[language] = identify_named_entities(file, language, "train")
+        input = {"entities_labeled": nerRes['target_entities_labeled'], "entities_predicted": nerRes['target_entities_predicted']}
+
+        precision, recall, F1 = sanity_check(input)
+        print("Accuracy of SpanMarker for Multilingual Named Entity Recognition {}\n".format(language))
+        print("Precision: {}".format(precision))
+        print("Recall: {}".format(recall))
+        print("F1: {}".format(F1))
 
     # Load SpanMarker model for NER
     print("Loading SpanMarker model for NER...")
