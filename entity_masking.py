@@ -3,12 +3,13 @@ from span_marker import SpanMarkerModel
 
 def load_entities_mapping(file_path):
     """
-    Loads entities and their translations from the given JSON file, skipping invalid lines.
+    Loads entities and their translations from the given JSON file, 
     Args:
         file_path (str): Path to the JSON file containing entity mappings.
     Returns:
         list: A list of dictionaries representing the JSON data.
     """
+
     with open(file_path, 'r') as jf:
         try:
             return json.load(jf)  # Load the entire JSON array
@@ -33,13 +34,15 @@ def mask_entities_with_spanmarker(text, model):
             - For a list of strings:
                 - List of (masked_text, mapping) tuples.
     """
+
     # Check if input is a single string or a list of strings
     is_single_string = isinstance(text, str)
     if is_single_string:
-        text = [text]  # Convert single string to list for uniform processing
+        text = [text]  # Convert single string to list 
 
-    # Perform predictions using the model
-    predictions = model.predict(text)  # Handles batch processing
+
+    # Perform predictions
+    predictions = model.predict(text)  
 
     results = []
     for i, sentence in enumerate(text):
@@ -54,7 +57,7 @@ def mask_entities_with_spanmarker(text, model):
             results.append((masked_text, mapping))
             continue
 
-        # Process each entity in the prediction
+        # Process each entity
         for entity in predictions[i]:
             entity_text = entity['span']
             entity_type = entity['label'].upper()

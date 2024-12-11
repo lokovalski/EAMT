@@ -16,6 +16,7 @@ def get_subjects_by_Q_json(input_file, output_file):
         return sum(1 for value in label.values() if value is not None)
 
     data = None
+
     # Load input JSON
     with open(input_file, 'r') as infile:
         data = json.load(infile)
@@ -24,15 +25,13 @@ def get_subjects_by_Q_json(input_file, output_file):
     transformed_data = {}
     for entry in data:
         answer = entry['answer']
-        # print("this is the answer")
-        # print(answer)
+      
         if answer["answerType"] == 'entity' and answer["answer"] != None:
             local_answer = answer["answer"]
             #print(local_answer)
             key = local_answer[0]["name"]  # Use the "name" field in "answer" dictionary as key
             label = local_answer[0]["label"]
             
-            # If the key is not in transformed_data or the current entry has more non-None fields, update the entry
             if key not in transformed_data or count_non_none_values(label) > count_non_none_values(transformed_data[key]["label"]):
                 transformed_data[key] = {
                     "label": label,
@@ -42,11 +41,9 @@ def get_subjects_by_Q_json(input_file, output_file):
                 }
         if answer["answerType"] == 'date':
             pass
-            # maybe fill this in later if we think of something useful
 
 
 
-    # Write transformed data to output file
     with open(output_file, 'w') as outfile:
         json.dump(transformed_data, outfile, indent=4)
 
@@ -59,7 +56,7 @@ def process_jsonl_and_json(jsonl_file, json_file, output_file, include_missing =
         json_file (str): Path to the input JSON file with entity details.
         output_file (str): Path to the output JSON file with modified entries.
     """
-    # Load the second JSON file with entity details
+    
     with open(json_file, 'r') as jf:
         entity_data = json.load(jf)
     

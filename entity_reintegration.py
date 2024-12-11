@@ -44,13 +44,14 @@ def reintegrate_entities(translation, mapping, src_lang, tgt_lang):
         str: Translation with entities reintegrated.
     """
     for placeholder, entity_info in mapping.items():
-        # Get the original entity
+
+        # get the original entity
         original_entity = entity_info["original_text"]
 
-        # Translate the entity if needed
+        # translate the entity 
         translated_entity = translate_entity(original_entity, src_lang, tgt_lang)
 
-        # Replace placeholder with the translated entity
+        # replace placeholder with the translated entity
         translation = translation.replace(placeholder, translated_entity)
 
     return translation
