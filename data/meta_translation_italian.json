@@ -1,0 +1,1190 @@
+[
+    {
+        "id": "123fe725",
+        "source": "Which Beyonc\u00e9 album had more songs, Lemonade or Everything is Love?",
+        "target": "Quale album di Beyonce contiene pi\u00f9 canzoni: \"Lemonade\" o \"Everything is Love\"?",
+        "translated": "Quale album di Beyonc\u00e9 ha pi\u00f9 canzoni, Lemonade o Everything is Love?"
+    },
+    {
+        "id": "f59c6a0b",
+        "source": "Which king of England was never officially crowned?",
+        "target": "Quale re d'Inghilterra non \u00e8 mai stato ufficialmente incoronato?",
+        "translated": "Quale re d'Inghilterra non \u00e8 mai stato coronato ufficialmente?"
+    },
+    {
+        "id": "8e1db257",
+        "source": "What is the most amount of money an actor has received for one movie?",
+        "target": "A quanto corrisponde la pi\u00f9 grande quantit\u00e0 di denaro guadagnata da un attore per un film?",
+        "translated": "Quale \u00e8 la quantit\u00e0 di denaro che un attore ha ricevuto per un film?"
+    },
+    {
+        "id": "331a0d66",
+        "source": "What city in the Philippines is geographically located within Benguet and is called the \"City of Pines\"?",
+        "target": "Quale citt\u00e0 delle Filippine \u00e8 collocata nella provincia di Benguet e viene chiamata la \"Citt\u00e0 dei pini\"?",
+        "translated": "Quale citt\u00e0 nelle Filippine \u00e8 geograficamente situato all'interno di Benguet e \u00e8 chiamato \"Citt\u00e0 delle Pine\"?"
+    },
+    {
+        "id": "638e3c24",
+        "source": "Which famous retired basketball player wore number 23 with the Chicago Bulls and went to college at North Carolina?",
+        "target": "Quale famoso ex giocatore di basket indossava la maglia numero 23 con i Chicago Bulls e ha frequentato il college nella Carolina del Nord?",
+        "translated": "Quale famoso giocatore di basket in pensione ha indossato il numero 23 con i Chicago Bulls e \u00e8 andato al college nella Carolina del Nord?"
+    },
+    {
+        "id": "6735ddd5",
+        "source": "Is Mount Kilimanjaro located in Africa?",
+        "target": "Il Monte Kilimangiaro si trova in Africa?",
+        "translated": "Il Monte Kilimanjaro si trova in Africa?"
+    },
+    {
+        "id": "842d1302",
+        "source": "Has the book Lords of the Rings sold up to 500 million copies?",
+        "target": "Il libro Il signore degli anelli ha venduto pi\u00f9 di 500 milioni di copie?",
+        "translated": "Il libro Lord of the Rings ha venduto fino a 500 milioni di copie?"
+    },
+    {
+        "id": "19e2d8c3",
+        "source": "What war did the US participate in for a longer period of time, the War in Afghanistan or the Vietnam War?",
+        "target": "A quale guerra hanno preso parte gli Stati Uniti per un periodo pi\u00f9 lungo, la guerra in Afghanistan o la guerra del Vietnam?",
+        "translated": "Quale guerra ha coinvolto gli Stati Uniti per un periodo di tempo pi\u00f9 lungo, la guerra in Afghanistan o la guerra del Vietnam?"
+    },
+    {
+        "id": "bf004dc8",
+        "source": "Who is the president of Brazil?",
+        "target": "Chi \u00e8 il presidente del Brasile?",
+        "translated": "Chi \u00e8 il presidente del Brasile?"
+    },
+    {
+        "id": "26e30717",
+        "source": "Who won the Battle of Gettysburg?",
+        "target": "Chi ha vinto la battaglia di Gettysburg?",
+        "translated": "Chi ha vinto la battaglia di Gettysburg?"
+    },
+    {
+        "id": "1cf93ec9",
+        "source": "Was Stephen King's The Stand published before 1980?",
+        "target": "Il libro L'ombra dello scorpione di Stephen King \u00e8 uscito prima del 1980?",
+        "translated": "Stephen King's The Stand \u00e8 stato pubblicato prima del 1980?"
+    },
+    {
+        "id": "70eb3528",
+        "source": "Was Nelson Mandela president of South Africa for five years?",
+        "target": "Nelson Mandela \u00e8 stato presidente del Sudafrica per cinque anni?",
+        "translated": "Nelson Mandela \u00e8 stato presidente del Sud Africa per cinque anni."
+    },
+    {
+        "id": "b18eaaad",
+        "source": "What city is the least populated in Mexico?",
+        "target": "Quale citt\u00e0 \u00e8 la meno popolata nel Messico?",
+        "translated": "Quale citt\u00e0 \u00e8 meno popolata in Messico?"
+    },
+    {
+        "id": "1ef88aa0",
+        "source": "What is the first book in The Chronicles of Narnia?",
+        "target": "Qual \u00e8 il primo libro de Le Cronache di Narnia?",
+        "translated": "Qual \u00e8 il primo libro di The Chronicles of Narnia?"
+    },
+    {
+        "id": "e540e66d",
+        "source": "Was Otto von Bismarck the first Chancellor of Germany?",
+        "target": "Otto von Bismarck \u00e8 stato il Primo cancelliere della Germania?",
+        "translated": "Otto von Bismarck \u00e8 il primo cancelliere tedesco."
+    },
+    {
+        "id": "eefb734c",
+        "source": "When was the author of the Lord of the Rings trilogy born?",
+        "target": "Quando \u00e8 nato l'autore della trilogia de Il signore degli anelli?",
+        "translated": "Quando \u00e8 nato l\u2019autore della trilogia del Signore degli Anelli?"
+    },
+    {
+        "id": "f63bdba5",
+        "source": "What is the second book in the Lord of the Rings trilogy by J.R.R. Tolkien?",
+        "target": "Qual \u00e8 il secondo libro nella trilogia Il Signore degli Anelli di J.R.R. Tolkien?",
+        "translated": "Qual \u00e8 il secondo libro della trilogia del Signore degli Anelli di J.R.R. Tolkien?"
+    },
+    {
+        "id": "1d4654ab",
+        "source": "What was the second movie in the Peter Jackson Lord of the Rings trilogy?",
+        "target": "Qual \u00e8 stato il secondo film della trilogia de Il signore degli anelli di Peter Jackson?",
+        "translated": "Qual \u00e8 stato il secondo film della trilogia di Peter Jackson Lord of the Rings?"
+    },
+    {
+        "id": "8d6658a8",
+        "source": "Was The Lion, the Witch, and the Wardrobe published before 1945?",
+        "target": "Il leone, la strega e l'armadio \u00e8 stato pubblicato prima del 1945?",
+        "translated": "Il leone, la magia e il vestito sono stati pubblicati prima del 1945?"
+    },
+    {
+        "id": "bb20ba8c",
+        "source": "What is the prequel to The Lord of the Rings books?",
+        "target": "Qual \u00e8 il prequel dei libri de Il signore degli anelli?",
+        "translated": "Qual \u00e8 il prequel per il Signore degli Anelli libri?"
+    },
+    {
+        "id": "66601aed",
+        "source": "Did the War in Korea come before WW II?",
+        "target": "La guerra in Korea \u00e8 avvenuta prima della Seconda Guerra Mondiale?",
+        "translated": "La guerra in Corea \u00e8 arrivata prima della seconda guerra mondiale?"
+    },
+    {
+        "id": "484d8403",
+        "source": "Who was named after Gaius Julius Caesar and the son of the popular Roman general Germanicus?",
+        "target": "Chi ha preso il nome da Gaio Giulio Cesare ed \u00e8 figlio del popolare generale Romano Germanico?",
+        "translated": "Chi fu chiamato dopo Gaius Giulio Cesare e figlio del popolare generale romano Germanico?"
+    },
+    {
+        "id": "42f8a972",
+        "source": "What was the first largest earthquake ever recorded?",
+        "target": "Qual \u00e8 stato il maggior terremoto mai registrato?",
+        "translated": "Qual \u00e8 stato il primo terremoto mai registrato?"
+    },
+    {
+        "id": "d51d6ee4",
+        "source": "Which country received independence from the United Kingdom on December 16, 1971?",
+        "target": "Quale Paese ha ricevuto l'indipendenza dal Regno Unito il 16 dicembre del 1971?",
+        "translated": "Quale paese ha ottenuto l'indipendenza dal Regno Unito il 16 dicembre 1971?"
+    },
+    {
+        "id": "96377948",
+        "source": "Who was the second president of the United States?",
+        "target": "Chi fu il secondo presidente degli Stati Uniti d'America?",
+        "translated": "Chi \u00e8 il secondo presidente degli Stati Uniti?"
+    },
+    {
+        "id": "da3c17e4",
+        "source": "In what 2015 movie, was Meryl Streep nominated for Best Actress but did not win?",
+        "target": "Per quale film del 2015 Maryl Streep \u00e8 stata nominata miglior attrice ma non ha vinto?",
+        "translated": "In quale film del 2015, Meryl Streep \u00e8 stata nominata per Miglior attrice ma non ha vinto?"
+    },
+    {
+        "id": "e84476f3",
+        "source": "Was Abraham Lincoln the 16th president of the U.S.?",
+        "target": "Abramo Lincoln \u00e8 stato il 16\u00b0 presidente degli Stati Uniti d'America?",
+        "translated": "Abraham Lincoln \u00e8 il 16\u00b0 presidente degli Stati Uniti."
+    },
+    {
+        "id": "be5ec9d0",
+        "source": "Who wrote Journey to the Center of the Earth?",
+        "target": "Chi ha scritto Viaggio al centro della terra?",
+        "translated": "Chi ha scritto il viaggio verso il centro della Terra?"
+    },
+    {
+        "id": "a82173d6",
+        "source": "How many World Cup Football Championships has France won?",
+        "target": "Quante Mondiali di calcio ha vinto la Francia?",
+        "translated": "Quanti campionati hanno vinto la Coppa del Mondo?"
+    },
+    {
+        "id": "0f8e2686",
+        "source": "How many Supreme Leaders has North Korea had?",
+        "target": "Quanti leader supremi ha avuto la Corea del Nord?",
+        "translated": "Quanti leader hanno avuto la Corea del Nord?"
+    },
+    {
+        "id": "96a7a393",
+        "source": "How old was the first ruler of Greece when he died?",
+        "target": "Quanti anni aveva il primo sovrano della Grecia quando mor\u00ec?",
+        "translated": "Quanto era vecchio il primo governatore della Grecia quando mor\u00ec?"
+    },
+    {
+        "id": "6c58becc",
+        "source": "How many years has Angela Merkel been a chancellor of Germany?",
+        "target": "Per quanti anni Angela Merkel \u00e8 stata cancelliera della Germania?",
+        "translated": "Quanti anni fa Angela Merkel \u00e8 stata cancelliera della Germania?"
+    },
+    {
+        "id": "24695034",
+        "source": "How many American presidents were born in North Carolina?",
+        "target": "Quanti presidenti americani sono nati nella Carolina del Nord?",
+        "translated": "Quanti presidenti americani sono nati in Carolina del Nord?"
+    },
+    {
+        "id": "044973bb",
+        "source": "What river is the longest in the world and flows into the Mediterranean Sea?",
+        "target": "Quale fiume \u00e8 il pi\u00f9 lungo del mondo e sfocia nel mar Mediterraneo?",
+        "translated": "Quale fiume \u00e8 il pi\u00f9 lungo del mondo e scorre nel Mar Mediterraneo?"
+    },
+    {
+        "id": "1bb6bb1a",
+        "source": "Did Tom Riddle belong to Slytherin House?",
+        "target": "Tom Riddle appartiene alla casa di Serpeverde?",
+        "translated": "Tom Riddle appartiene alla Slytherin House?"
+    },
+    {
+        "id": "7f9e8f2c",
+        "source": "Who was the leader of military campaigns of the Mongol Empire at the turn of the thirteenth century?",
+        "target": "Chi era il capo della campagna militare dell'impero mongolo all'inizio del tredicesimo secolo?",
+        "translated": "Chi \u00e8 stato il leader delle campagne militari dell'Impero mongolo alla volta del XIII secolo?"
+    },
+    {
+        "id": "7b8bc91c",
+        "source": "Did George R.R. Martin finish ASOIAF as of 2021?",
+        "target": "George R.R. Martin ha terminato Le Cronache del ghiaccio e del fuoco nel 2021?",
+        "translated": "George R.R. Martin ha terminato ASOIAF fino al 2021?"
+    },
+    {
+        "id": "4b0915b1",
+        "source": "When did the first Lord of the Rings book come out?",
+        "target": "Quando \u00e8 uscito il primo libro de Il Signore degli Anelli?",
+        "translated": "Quando \u00e8 uscito il primo libro del Signore degli Anelli?"
+    },
+    {
+        "id": "48844651",
+        "source": "Which movie is longer, Harry Potter and the Sorcerer's Stone or Harry Potter and the Goblet of Fire?",
+        "target": "Quale film \u00e8 pi\u00f9 lungo, Harry Potter e la Pietra Filosofale o Harry Potter e il Calice di Fuoco?",
+        "translated": "Quale film \u00e8 pi\u00f9 lungo, Harry Potter e la pietra della magia o Harry Potter e il gabbia del fuoco?"
+    },
+    {
+        "id": "80b8730a",
+        "source": "Who is the current president of South Africa?",
+        "target": "Chi \u00e8 l'attuale presidente del Sud Africa?",
+        "translated": "Chi \u00e8 l\u2019attuale presidente del Paese?"
+    },
+    {
+        "id": "9649a69a",
+        "source": "Who was the first leader and founder of North Korea?",
+        "target": "Chi \u00e8 stato il primo leader e fondatore della Corea del Nord?",
+        "translated": "Chi \u00e8 stato il primo leader e fondatore della Corea del Nord?"
+    },
+    {
+        "id": "76c9e017",
+        "source": "What mountain in the Himalayas is the fifth tallest in the world?",
+        "target": "Quale montagna nell'Himalaya \u00e8 la quinta pi\u00f9 grande al mondo?",
+        "translated": "Quale montagna dell'Himalaya \u00e8 il quinto pi\u00f9 alto del mondo?"
+    },
+    {
+        "id": "41a51755",
+        "source": "Who is the highest paid actor of all time?",
+        "target": "Chi \u00e8 il pi\u00f9 pagato attore di tutti i tempi?",
+        "translated": "Chi \u00e8 l\u2019attore pi\u00f9 pagato di tutti i tempi?"
+    },
+    {
+        "id": "e753c53e",
+        "source": "When did Pokemon red and blue come out in the US?",
+        "target": "Quando \u00e8 uscito Pok\u00e9mon Rosso e Blu negli Stati Uniti?",
+        "translated": "Quando \u00e8 uscito Pokemon rosso e blu negli Stati Uniti?"
+    },
+    {
+        "id": "a32ef2f8",
+        "source": "What is the citadel of Moscow called?",
+        "target": "Come si chiama la cittadella di Mosca?",
+        "translated": "Come si chiama la citadella di Mosca?"
+    },
+    {
+        "id": "8cdd3f49",
+        "source": "Is Hermione Granger from Gryffindor House?",
+        "target": "Hermione Granger fa parte della casa di Grifondoro?",
+        "translated": "Hermione Granger di Gryffindor House?"
+    },
+    {
+        "id": "07527acb",
+        "source": "What is the capital of the country where the Colosseum is located?",
+        "target": "Qual \u00e8 la capita del paese dove si trova il Colosseo?",
+        "translated": "Qual \u00e8 la capitale del paese in cui si trova il Colosseum?"
+    },
+    {
+        "id": "47d34efe",
+        "source": "Who was the last emperor of the Qing dynasty and died on October 17, 1967?",
+        "target": "Chi \u00e8 stato l'ultimo imperatore della dinastia Qing ed \u00e8 morto il 17 ottobre 1967?",
+        "translated": "Chi fu l'ultimo imperatore della dinastia Qing e mor\u00ec il 17 ottobre 1967?"
+    },
+    {
+        "id": "9d7556e6",
+        "source": "Who was a Pharaoh of the 18th Dynasty and was also preceded in reign by Thutmose IV?",
+        "target": "Chi era il faraone che nella diciottesima dinastia e che \u00e8 preceduto nel regno da Thutmose IV?",
+        "translated": "Chi era il faraone della 18a dinastia e fu anche preceduto nel regno da Thutmose IV?"
+    },
+    {
+        "id": "369feec2",
+        "source": "How many books are in The Hunger Games series?",
+        "target": "Quanti sono i libri della serie \"Hunger Games\"?",
+        "translated": "Quanti libri ci sono nella serie Giochi della fame?"
+    },
+    {
+        "id": "17ef2ec9",
+        "source": "How many queens has Great Britain had?",
+        "target": "Quante regine ha avuto la Gran Bretagna?",
+        "translated": "Quante regine ha la Gran Bretagna?"
+    },
+    {
+        "id": "932c6f20",
+        "source": "Through how many states does the Mississippi River flow?",
+        "target": "Quanti stati sono attraversati dal fiume Mississippi?",
+        "translated": "Quanti stati attraversano il fiume Mississippi?"
+    },
+    {
+        "id": "ab23a7cd",
+        "source": "Was Brazil part of the Allied Force in World War II?",
+        "target": "Il Brasile era parte delle Forze Alleate nella Seconda Guerra Mondiale?",
+        "translated": "Il Brasile fa parte delle forze alleate durante la seconda guerra mondiale?"
+    },
+    {
+        "id": "9b9241e7",
+        "source": "Which rapper attempted suicide at the age of twelve?",
+        "target": "Quale rapper tent\u00f2 il suicidio all'et\u00e0 di dodici anni?",
+        "translated": "Quale rapper si \u00e8 suicidato all\u2019et\u00e0 di dodici anni?"
+    },
+    {
+        "id": "0a3bd290",
+        "source": "Who killed Yoko Ono's husband in front of the Dakota in New York City?",
+        "target": "Chi uccise il marito di Yoko Ono di fronte al Dakota di New York?",
+        "translated": "Chi ha ucciso il marito di Yoko Ono davanti alla Dakota di New York?"
+    },
+    {
+        "id": "d31fa2e2",
+        "source": "What year did World War I start?",
+        "target": "In quale anno inizi\u00f2 la Prima Guerra Mondiale?",
+        "translated": "In che anno \u00e8 iniziata la prima guerra mondiale?"
+    },
+    {
+        "id": "61c6300c",
+        "source": "Which Harry Potter character was the Headmaster of Hogwarts School of Witchcraft and Wizardry and was killed by Severus Snape?",
+        "target": "Quale personaggio di Harry Potter \u00e8 preside alla scuola di magia e stregoneria di Hogwarts e viene ucciso da Severus Piton?",
+        "translated": "Quale personaggio di Harry Potter era il capo di Hogwarts School of Witchcraft and Wizardry e fu ucciso da Severus Snape?"
+    },
+    {
+        "id": "c65e7d80",
+        "source": "Which mountain is near the Pacific Ocean coast in Yamanashi and Shizuoka ken prefectures of central Honshu and is 12,388 feet tall?",
+        "target": "Quale montagna sorge nei pressi della costa dell'Oceano Pacifico nelle prefetture ken di Yamanashi e Shizuoka nell'Honshu centrale ed \u00e8 alta 3776 metri di altezza?",
+        "translated": "Quale montagna si trova vicino alla costa dell'Oceano Pacifico in Yamanashi e Shizuoka ken prefettura del centro di Honshu e \u00e8 12,388 piedi di altezza?"
+    },
+    {
+        "id": "bbde93c5",
+        "source": "Who is the current wife of the current prime minister of the United Kingdom?",
+        "target": "Chi \u00e8 l'attuale moglie del primo ministro in carica del Regno Unito?",
+        "translated": "Chi \u00e8 l'attuale moglie dell'attuale primo ministro del Regno Unito?"
+    },
+    {
+        "id": "fba83ea0",
+        "source": "Which war lasted longer, World War II or the Vietnam War?",
+        "target": "Quale guerra \u00e8 durata pi\u00f9 a lungo, la Seconda Guerra Mondiale o la Guerra del Vietnam?",
+        "translated": "Quale guerra dur\u00f2 di pi\u00f9, la seconda guerra mondiale o la guerra del Vietnam?"
+    },
+    {
+        "id": "8e5d9a5e",
+        "source": "How many countries did Germany invade during WW II?",
+        "target": "Quante nazioni ha invaso la Germania durante la Seconda Guerra Mondiale?",
+        "translated": "Quanti paesi hanno invaso la Germania durante la seconda guerra mondiale?"
+    },
+    {
+        "id": "5f099bd3",
+        "source": "How many movies are there in the Lord of the Rings series?",
+        "target": "Quanti film ci sono della serie Il Signore degli Anelli?",
+        "translated": "Quanti film ci sono nella serie Il Signore degli Anelli?"
+    },
+    {
+        "id": "40211af7",
+        "source": "Who was the last Ptolemaic ruler of Egypt?",
+        "target": "Quale fu l'ultimo sovrano tolomaico dell'Egitto?",
+        "translated": "Chi \u00e8 stato l\u2019ultimo ptolemaico governatore dell\u2019Egitto?"
+    },
+    {
+        "id": "983c8363",
+        "source": "Where did ancient Egypt begin?",
+        "target": "Quando \u00e8 cominciato l'antico Egitto?",
+        "translated": "Dove \u00e8 iniziata l\u2019antica Egitto?"
+    },
+    {
+        "id": "9c91d85a",
+        "source": "Which Smash Bros game did Princess Peach not appear in?",
+        "target": "In quale gioco di Smash Bros non c'era la Principessa Peach?",
+        "translated": "In quale gioco Smash Bros non \u00e8 apparso Princess Peach?"
+    },
+    {
+        "id": "fafb60d7",
+        "source": "How many French soldiers died in World War I?",
+        "target": "Quanti soldati francesi sono morti nella prima guerra mondiale?",
+        "translated": "Quanti soldati francesi sono morti durante la prima guerra mondiale?"
+    },
+    {
+        "id": "ee66dbda",
+        "source": "Did the American Revolution start before 1750?",
+        "target": "La Rivoluzione americana \u00e8 cominciata prima del 1750?",
+        "translated": "La rivoluzione americana cominci\u00f2 prima del 1750?"
+    },
+    {
+        "id": "ade3c60b",
+        "source": "How many States were part of the USA when it was first formed?",
+        "target": "Quanti stati erano parte degli Stati Uniti d'America quando sono stati inizialmente formati?",
+        "translated": "Quanti stati erano parte degli Stati Uniti quando fu formato per la prima volta?"
+    },
+    {
+        "id": "6e9d000b",
+        "source": "In what continent was ancient Egypt located?",
+        "target": "In quale continente era situato l'Antico Egitto?",
+        "translated": "In quale continente si trovava l'antica Egitto?"
+    },
+    {
+        "id": "d765d5fd",
+        "source": "Is South Africa a parliamentary republic?",
+        "target": "Il Sudafrica \u00e8 una repubblica parlamentare?",
+        "translated": "L\u2019Africa del Sud \u00e8 una repubblica parlamentare?"
+    },
+    {
+        "id": "721ee9a3",
+        "source": "Who was the first emperor of China?",
+        "target": "Chi fu il primo imperatore di Cina?",
+        "translated": "Chi \u00e8 stato il primo imperatore della Cina?"
+    },
+    {
+        "id": "b44df782",
+        "source": "What is the second movie in the Hobbit series?",
+        "target": "Qual \u00e8 il secondo film della serie de Lo Hobbit?",
+        "translated": "Qual \u00e8 il secondo film della serie Hobbit?"
+    },
+    {
+        "id": "61e19638",
+        "source": "How many countries were part of the Entente Powers during World War I?",
+        "target": "Quanti paesi facevano parte degli Alleati durante la Prima Guerra Mondiale?",
+        "translated": "Quanti paesi erano parte dei poteri Entente durante la prima guerra mondiale?"
+    },
+    {
+        "id": "2aac49ec",
+        "source": "Who was prime minister of United Kingdom and defeated Napoleon at Waterloo?",
+        "target": "Chi era il Primo Ministro del Regno Unito che ha sconfitto Napoleone a Waterloo?",
+        "translated": "Chi fu il primo ministro del Regno Unito e sconfitto Napoleone a Waterloo?"
+    },
+    {
+        "id": "ebc7c3f7",
+        "source": "Is Oslo the capital of Norway?",
+        "target": "Oslo \u00e8 la capitale della Norvegia?",
+        "translated": "Oslo \u00e8 la capitale della Norvegia?"
+    },
+    {
+        "id": "30719db8",
+        "source": "Is Guadalajara the capital of Mexico?",
+        "target": "La capitale del Messico \u00e8 Guadalajara?",
+        "translated": "Guadalajara \u00e8 la capitale del Messico."
+    },
+    {
+        "id": "9e64a2e1",
+        "source": "Which members of Blackpink were not born in South Korea?",
+        "target": "Quali membri dei Blackpink non sono nati in Corea del Sud?",
+        "translated": "Quali membri di Blackpink non sono nati in Corea del Sud?"
+    },
+    {
+        "id": "74107bc2",
+        "source": "Has Mount St. Helens erupted after 1970?",
+        "target": "Il Monte Saint Helens ha eruttato dopo il 1970?",
+        "translated": "Il Monte St. Helens \u00e8 esploso dopo il 1970?"
+    },
+    {
+        "id": "ba928d66",
+        "source": "In what year did the author of The Lion, the Witch and the Wardrobe die?",
+        "target": "In che anno \u00e8 morto l'autore de Il leone, la strega e l'armadio?",
+        "translated": "In che anno \u00e8 morto l'autore di The Lion, the Witch and the Wardrobe?"
+    },
+    {
+        "id": "8c663edf",
+        "source": "Does the Philippines consist of more than 7,000 islands?",
+        "target": "Le Filippine sono composte da pi\u00f9 di 7000 isole?",
+        "translated": "Le Filippine contengono pi\u00f9 di 7.000 isole?"
+    },
+    {
+        "id": "380a6b5e",
+        "source": "Which A Song of Ice and Fire book was not released after 1997?",
+        "target": "Quale libro delle Cronache del ghiaccio e del fuoco non \u00e8 stato pubblicato dopo il 1997?",
+        "translated": "Quale libro A Song of Ice and Fire non \u00e8 stato rilasciato dopo il 1997?"
+    },
+    {
+        "id": "e5846c2c",
+        "source": "Which Chinese dynasty came first, Ming Dynasty or Song Dynasty?",
+        "target": "Quale dinastia cinese arriv\u00f2 prima, la dinastia Ming o quella dei Song?",
+        "translated": "Qual \u00e8 la prima dinastia cinese, la dinastia Ming o la dinastia Song?"
+    },
+    {
+        "id": "6687d043",
+        "source": "Highly respected and loved, what animal had considerable importance in ancient Egypt?",
+        "target": "Particolarmente rispettato e amato, quale animale era considerato importante nell'Antico Egitto?",
+        "translated": "Altamente rispettato e amato, quale animale ha avuto un'importanza considerevole nell'antica Egitto?"
+    },
+    {
+        "id": "506268f5",
+        "source": "What war lasted longer, the Korean War or the Gulf War?",
+        "target": "Quale guerra \u00e8 durata di pi\u00f9, la Guerra in Korea o la Guerra del Golfo?",
+        "translated": "Quale guerra dur\u00f2 pi\u00f9 a lungo, la guerra coreana o la guerra del Golfo?"
+    },
+    {
+        "id": "ea14ae3d",
+        "source": "How many states are in Mexico?",
+        "target": "Di quanti Stati \u00e8 composto il Messico?",
+        "translated": "Quanti stati ci sono in Messico?"
+    },
+    {
+        "id": "63103437",
+        "source": "What is the tenth tallest mountain in Europe?",
+        "target": "Qual \u00e8 la decima montagna pi\u00f9 alta d'Europa?",
+        "translated": "Qual \u00e8 la decima montagna pi\u00f9 alta d\u2019Europa?"
+    },
+    {
+        "id": "47a989d4",
+        "source": "Who was the prime minister of Italy as well as an ally of the Axis Powers during World War II?",
+        "target": "Chi era il Primo Ministro italiano e alleato delle potenze alleate durante la Seconda Guerra Mondiale?",
+        "translated": "Chi \u00e8 stato il primo ministro dell'Italia e un alleato dei poteri dell'Axi durante la seconda guerra mondiale?"
+    },
+    {
+        "id": "a97a7c48",
+        "source": "How many wars did the Romans and Carthage fight?",
+        "target": "Quante guerre combatterono i romani e i cartaginesi?",
+        "translated": "Quante guerre hanno combattuto i Romani e il Carthage?"
+    },
+    {
+        "id": "11e50432",
+        "source": "How much was the actor who played Harry Potter paid for acting in Harry Potter and the Half Blood Prince?",
+        "target": "Quanto \u00e8 stato pagato l'attore che ha interpretato Harry Potter per recitare in Harry Potter e il principe mezzosangue?",
+        "translated": "Quanto \u00e8 stato pagato l'attore che ha interpretato Harry Potter per aver interpretato Harry Potter e il mezzo principe del sangue?"
+    },
+    {
+        "id": "2961df92",
+        "source": "Who is the president of South Africa?",
+        "target": "Chi \u00e8 il presidente del Sudafrica?",
+        "translated": "Chi \u00e8 il presidente dell\u2019Africa meridionale?"
+    },
+    {
+        "id": "3a4a1ded",
+        "source": "In the Lion, the Witch, and the Wardrobe, which type of animal is depicted as the king of Narnia?",
+        "target": "Ne Il Leone, la Strega e l'Armadio, quale animale \u00e8 descritto come il re di Narnia?",
+        "translated": "Nel leone, la magia e il vestito, quale tipo di animale \u00e8 descritto come il re di Narnia?"
+    },
+    {
+        "id": "b3f09fd7",
+        "source": "How many US presidents were members of the Whig Party?",
+        "target": "Quanti Presidenti degli Stati Uniti sono stati membri del Partito Whig?",
+        "translated": "Quanti presidenti degli Stati Uniti erano membri del Partito Whig?"
+    },
+    {
+        "id": "ea1ca99e",
+        "source": "Which states border Mexico but not the Rio Grande?",
+        "target": "Quale stato confina con il Messico ma non tocca il Rio Grande?",
+        "translated": "Quali sono gli Stati che attraversano il Messico ma non il Rio Grande?"
+    },
+    {
+        "id": "cdce32d6",
+        "source": "Was Ronald Reagan president longer than George HW Bush?",
+        "target": "Ronald Reagan \u00e8 stato Presidente pi\u00f9 a lungo di George H.W. Bush?",
+        "translated": "Ronald Reagan \u00e8 stato presidente pi\u00f9 lungo di George HW Bush?"
+    },
+    {
+        "id": "dfa65264",
+        "source": "What is the largest borough in New York City?",
+        "target": "Qual \u00e8 il quartiere pi\u00f9 grande di New York?",
+        "translated": "Qual \u00e8 il quartiere pi\u00f9 grande di New York?"
+    },
+    {
+        "id": "76e02be0",
+        "source": "Who has been the youngest vice president to step foot in the White House?",
+        "target": "Chi \u00e8 stato il vicepresidente pi\u00f9 giovane ad entrare alla Casa Bianca?",
+        "translated": "Chi \u00e8 stato il vicepresidente pi\u00f9 giovane a prendere il piede nella Casa Bianca?"
+    },
+    {
+        "id": "512423c9",
+        "source": "Who had more wives, Alexander the Great or his father Philip II of Macedon?",
+        "target": "Chi ha avuto pi\u00f9 mogli, Alessandro il Grande o suo padre, Filippo II di Macedonia?",
+        "translated": "Chi aveva pi\u00f9 mogli, Alexander il Grande o suo padre Filippo II di Macedonia?"
+    },
+    {
+        "id": "b5a3eb32",
+        "source": "Who led the first Roman invasion of Britain?",
+        "target": "Chi condusse la prima invasione romana della Gran Bretagna?",
+        "translated": "Chi ha guidato la prima invasione romana della Gran Bretagna?"
+    },
+    {
+        "id": "d4fec8d7",
+        "source": "Which governors of West Virginia since 1990 have not been Democrat?",
+        "target": "Quale governatore della Virginia Occidentale non \u00e8 stato democratico dal 1990?",
+        "translated": "Quali governatori della Virginia occidentale dal 1990 non sono stati democratici?"
+    },
+    {
+        "id": "868af2f7",
+        "source": "Did John Steinbeck write Grapes of Wrath?",
+        "target": "John Steinbeck ha scritto Furore?",
+        "translated": "John Steinbeck ha scritto Grapes of Wrath?"
+    },
+    {
+        "id": "661a6cf0",
+        "source": "Who was the queen of France and also born an archduchess of Austria?",
+        "target": "Chi fu regina di Francia e anche arciduchessa d'Austria per nascita?",
+        "translated": "Chi \u00e8 stata la regina di Francia e nasce anche una duca d'Austria?"
+    },
+    {
+        "id": "cf30946f",
+        "source": "Which mountain range is the longest one on the continent of North America and is also home to the most visited glacier in North America?",
+        "target": "Quale catena montuosa \u00e8 la pi\u00f9 lunga del Nord America e comprende anche il ghiacciaio pi\u00f9 visitato in America del Nord?",
+        "translated": "Quale rango di montagna \u00e8 il pi\u00f9 lungo sul continente del Nord America e \u00e8 anche la casa del ghiacciaio pi\u00f9 visitato in Nord America?"
+    },
+    {
+        "id": "4fbb0731",
+        "source": "Did Wings win Best Picture?",
+        "target": "'Ali' ha vinto l'Oscar come miglior film?",
+        "translated": "Wings ha vinto la migliore immagine?"
+    },
+    {
+        "id": "a398bb9e",
+        "source": "What is the name of the mother of Canada's 23rd prime minister?",
+        "target": "Come si chiama la madre del 23mo Primo Ministro canadese?",
+        "translated": "Qual \u00e8 il nome della madre del 23\u00b0 Primo Ministro del Canada?"
+    },
+    {
+        "id": "926d6a87",
+        "source": "Who is the current ruler of the smallest state in Europe?",
+        "target": "Chi \u00e8 l'attuale capo del pi\u00f9 piccolo stato in Europa?",
+        "translated": "Chi \u00e8 l'attuale governatore dello Stato pi\u00f9 piccolo d'Europa?"
+    },
+    {
+        "id": "7897a1b6",
+        "source": "When was Beyonc\u00e9's last album released?",
+        "target": "Quando \u00e8 uscito l'ultimo album di Beyonce?",
+        "translated": "Quando \u00e8 stato pubblicato l\u2019ultimo album di Beyonc\u00e9?"
+    },
+    {
+        "id": "17ec7bf4",
+        "source": "Who was the 9th Aztec emperor of Mexico?",
+        "target": "Chi era il nono imperatore azteco del Messico?",
+        "translated": "Chi era il 9\u00b0 imperatore azteco del Messico?"
+    },
+    {
+        "id": "91d74ce8",
+        "source": "Did Germany or Japan surrender first in World War II?",
+        "target": "La Germania o il Giappone si arresero per primi durante la seconda guerra mondiale?",
+        "translated": "La Germania o il Giappone si rendono prima nella seconda guerra mondiale?"
+    },
+    {
+        "id": "2e3cf745",
+        "source": "Which river is longer than the Mississippi River?",
+        "target": "Quale fiume \u00e8 pi\u00f9 lungo del Mississippi?",
+        "translated": "Quale fiume \u00e8 pi\u00f9 lungo del Mississippi?"
+    },
+    {
+        "id": "b06c61b0",
+        "source": "Is Mount Rainier taller than Pike's Peak?",
+        "target": "Il Monte Rainier \u00e8 pi\u00f9 alto del Pikes Peak?",
+        "translated": "Il Monte Rainier \u00e8 pi\u00f9 alto del Pike's Peak?"
+    },
+    {
+        "id": "7bb24dd6",
+        "source": "Which country has a larger population, France or Germany?",
+        "target": "Quale Paese conta pi\u00f9 abitanti: Francia o Germania?",
+        "translated": "Quale paese ha una popolazione pi\u00f9 grande, la Francia o la Germania?"
+    },
+    {
+        "id": "c841d666",
+        "source": "Is North Korea a communist country?",
+        "target": "La Corea del Nord \u00e8 un paese comunista?",
+        "translated": "La Corea del Nord \u00e8 un paese comunista?"
+    },
+    {
+        "id": "4ed5001f",
+        "source": "Who directed all movies in Back to the Future series?",
+        "target": "Chi ha diretto tutti i film della serie \"Ritorno al futuro\"?",
+        "translated": "Chi ha diretto tutti i film della serie Back to the Future?"
+    },
+    {
+        "id": "529a08c0",
+        "source": "Is the Yellow River the longest river in Asia?",
+        "target": "Il Fiume Giallo \u00e8 il pi\u00f9 lungo dell'Asia?",
+        "translated": "Il fiume giallo \u00e8 il fiume pi\u00f9 lungo dell'Asia?"
+    },
+    {
+        "id": "47779544",
+        "source": "Was Alaska the most recent state to join the United States of America?",
+        "target": "L'Alaska fu l'ultimo stato a unirsi agli Stati Uniti d'America?",
+        "translated": "L'Alaska \u00e8 stato lo stato pi\u00f9 recente ad unirsi agli Stati Uniti d'America?"
+    },
+    {
+        "id": "36ccfa24",
+        "source": "Did the Battle of Bunker Hill take place at least partially on a different hill?",
+        "target": "La Battaglia di Bunker Hill ha avuto luogo, almeno parzialmente, su una collina diversa?",
+        "translated": "La battaglia di Bunker Hill si \u00e8 svolta almeno parzialmente su una collina diversa?"
+    },
+    {
+        "id": "6726f18f",
+        "source": "How many witches were there in the Wizard of Oz?",
+        "target": "Quante streghe ci sono nel romanzo il Mago di Oz?",
+        "translated": "Quante magie c\u2019erano nel mago di Oz?"
+    },
+    {
+        "id": "73c9d3d3",
+        "source": "Which lasted longer, the Vietnam War or World War II?",
+        "target": "\u00c8 durata pi\u00f9 a lungo la Guerra in Vietnam o la Seconda Guerra Mondiale?",
+        "translated": "Che cosa dur\u00f2 pi\u00f9 a lungo, la guerra del Vietnam o la seconda guerra mondiale?"
+    },
+    {
+        "id": "b89f4687",
+        "source": "Which country is bigger: Russia or Germany?",
+        "target": "Quale Paese \u00e8 pi\u00f9 grande: Russia o Germania?",
+        "translated": "Quale paese \u00e8 pi\u00f9 grande: la Russia o la Germania?"
+    },
+    {
+        "id": "77a20be8",
+        "source": "How many United States Representatives does New Mexico have?",
+        "target": "Quanti rappresentanti degli Stati Uniti ha il Nuovo Messico?",
+        "translated": "Quanti rappresentanti degli Stati Uniti ha il Nuovo Messico?"
+    },
+    {
+        "id": "f856e02d",
+        "source": "How many exclusively \"Independent\" rulers has South Korea had since 1945?",
+        "target": "Quanti governatori esclusivamente \"Indipendenti\" ha avuto la Corea del Sud dal 1945?",
+        "translated": "Quanti governanti esclusivamente \"indipendenti\" la Corea del Sud ha avuto dal 1945?"
+    },
+    {
+        "id": "fe28d942",
+        "source": "How many books are in The Chronicles of Narnia series?",
+        "target": "Quanti sono i libri della serie \"Le cronache di Narnia\"?",
+        "translated": "Quanti libri ci sono in The Chronicles of Narnia?"
+    },
+    {
+        "id": "d0c5ccfa",
+        "source": "Which movie took place at a hotel and starred Jack Nicholson?",
+        "target": "Quale film con Jack Nicholoson \u00e8 ambientato in un hotel?",
+        "translated": "Che film si \u00e8 svolto in un albergo e ha interpretato Jack Nicholson?"
+    },
+    {
+        "id": "aedf46bb",
+        "source": "When did the last book in The Wheel of Time series come out?",
+        "target": "Quando \u00e8 uscito l'ultimo libro della collana La Ruota del Tempo?",
+        "translated": "Quando \u00e8 uscito l\u2019ultimo libro della serie The Wheel of Time?"
+    },
+    {
+        "id": "24bb5807",
+        "source": "What was J.K. Rowling's very first book?",
+        "target": "Qual \u00e8 stato il primo libro in assoluto di J.K. Rowling?",
+        "translated": "Qual \u00e8 stato il primo libro di J.K. Rowling?"
+    },
+    {
+        "id": "af629e16",
+        "source": "Was Winston Churchill the prime minister of Great Britain when the Munich Agreement was signed?",
+        "target": "Winston Churchill era il Primo Ministro della Gran Bretagna quando venne siglato l'Accordo di Monaco?",
+        "translated": "Winston Churchill \u00e8 stato il primo ministro della Gran Bretagna quando l'accordo di Monaco \u00e8 stato firmato?"
+    },
+    {
+        "id": "6f41e0ad",
+        "source": "Is Cuba the largest island in the Caribbean?",
+        "target": "Cuba \u00e8 la maggior isola dei Caraibi?",
+        "translated": "Cuba \u00e8 la pi\u00f9 grande isola dei Caraibi?"
+    },
+    {
+        "id": "1b2b01f1",
+        "source": "What is the best-selling game on XBox of all time?",
+        "target": "Qual \u00e8 il gioco della X Box pi\u00f9 venduto di tutti i tempi?",
+        "translated": "Qual \u00e8 il gioco pi\u00f9 venduto su XBox di tutti i tempi?"
+    },
+    {
+        "id": "4de871bc",
+        "source": "How many books are in CS Lewis' Cosmic Trilogy?",
+        "target": "Quanti libri ci sono nella \"Trilogia Cosmica\" di C.S. Lewis?",
+        "translated": "Quanti libri ci sono nella trilogia cosmica di CS Lewis?"
+    },
+    {
+        "id": "30045ad3",
+        "source": "Which structure is older, The Colosseum or the Parthenon?",
+        "target": "Quale struttura \u00e8 la pi\u00f9 antica, il Colosseo o il Partenone?",
+        "translated": "Quale struttura \u00e8 pi\u00f9 vecchia, il Colosseo o il Partenone?"
+    },
+    {
+        "id": "22b9504f",
+        "source": "Which Wheel of Time novels were not completed before Robert Jordan's death?",
+        "target": "Quali romanzi de \"La Ruota del Tempo\" non sono stati completati prima della morte di Robert Jordan?",
+        "translated": "Quali racconti di Wheel of Time non sono stati completati prima della morte di Robert Jordan?"
+    },
+    {
+        "id": "265e0425",
+        "source": "Who was the first president of France?",
+        "target": "Chi \u00e8 stato il primo Presidente della Francia?",
+        "translated": "Chi \u00e8 stato il primo presidente della Francia?"
+    },
+    {
+        "id": "144ffb11",
+        "source": "Did Spain ever conquer the Philippines?",
+        "target": "La Spagna ha mai conquistato le Filippine?",
+        "translated": "L\u2019Italia ha mai conquistato le Filippine?"
+    },
+    {
+        "id": "e0f8c56d",
+        "source": "What river flows through Russia and is the longest river in Europe?",
+        "target": "Quale fiume che attraversa la Russia \u00e8 il pi\u00f9 lungo d'Europa?",
+        "translated": "Quale fiume attraversa la Russia ed \u00e8 il fiume pi\u00f9 lungo d\u2019Europa?"
+    },
+    {
+        "id": "78625b0e",
+        "source": "What is the largest city in the United Kingdom by population?",
+        "target": "Qual \u00e8 la citt\u00e0 pi\u00f9 grande del Regno Unito in termini di popolazione?",
+        "translated": "Qual \u00e8 la citt\u00e0 pi\u00f9 grande del Regno Unito per popolazione?"
+    },
+    {
+        "id": "ab6c0edc",
+        "source": "Who was the first Congressional delegate of the Northern Mariana Islands?",
+        "target": "Chi \u00e8 stato il primo delegato al Congresso delle Isole Marianne Settentrionali?",
+        "translated": "Chi \u00e8 stato il primo delegato del Congresso delle Isole Mariane del Nord?"
+    },
+    {
+        "id": "3453a382",
+        "source": "Which Chronicles of Narnia novels did not feature any of the Pevensie children as main characters?",
+        "target": "In quali romanzi della saga Le Croniche di Narnia nessuno dei bambini Penvensie \u00e8 un personaggio principale?",
+        "translated": "Quali Chronicles di Narnia romanzi non includono nessuno dei bambini Pevensie come personaggi principali?"
+    },
+    {
+        "id": "a35e080e",
+        "source": "Did more Americans die in World War II or the American Civil War?",
+        "target": "Sono morti pi\u00f9 americani nella Seconda Guerra Mondiale o nella Guerra civile americana?",
+        "translated": "Pi\u00f9 americani sono morti durante la seconda guerra mondiale o la guerra civile americana?"
+    },
+    {
+        "id": "f2df0229",
+        "source": "Is Bonn the capital of Germany?",
+        "target": "Bonn \u00e8 la capitale della Germania?",
+        "translated": "Bonn \u00e8 la capitale della Germania?"
+    },
+    {
+        "id": "9e7ac30f",
+        "source": "Was Caligula assassinated?",
+        "target": "Caligola \u00e8 stato assassinato?",
+        "translated": "Caligula \u00e8 stato ucciso?"
+    },
+    {
+        "id": "47e37ab8",
+        "source": "What is the estimated population of Europe's most northern capital city?",
+        "target": "Qual \u00e8 la popolazione stimata della capitale pi\u00f9 nord-occidentale d'Europa?",
+        "translated": "Qual \u00e8 la popolazione stimata della capitale pi\u00f9 settentrionale d'Europa?"
+    },
+    {
+        "id": "e0caff1a",
+        "source": "Who was a wife of King Alexander III Macedon and the cousin of Amyntas IV?",
+        "target": "Chi \u00e8 stata una moglie di Alessandro Magno e cugina di Aminta IV?",
+        "translated": "Chi era la moglie del re Alexandre III della Macedonia e il cugino di Amintas IV?"
+    },
+    {
+        "id": "037d40b0",
+        "source": "What is the second book of the Bible?",
+        "target": "Qual \u00e8 il secondo libro della Bibbia?",
+        "translated": "Qual \u00e8 il secondo libro della Bibbia?"
+    },
+    {
+        "id": "dbec20e0",
+        "source": "Who was the son of Queen Dowager Zhao and went on to become the first emperor of a unified China?",
+        "target": "Chi era il figlio della Regina Dowager Zhao e divenne in seguito il primo imperatore della Cina unita?",
+        "translated": "Chi era il figlio della regina Dowager Zhao e continu\u00f2 a diventare il primo imperatore di una Cina unita?"
+    },
+    {
+        "id": "7a26e9bb",
+        "source": "Did Elizabeth I of England have children?",
+        "target": "Elisabetta I d'Inghilterra ha avuto figli?",
+        "translated": "Elisabetta I d'Inghilterra ha avuto figli?"
+    },
+    {
+        "id": "68896e4d",
+        "source": "When did World War Two start?",
+        "target": "Quando \u00e8 iniziata la seconda guerra mondiale?",
+        "translated": "Quando \u00e8 iniziata la seconda guerra mondiale?"
+    },
+    {
+        "id": "375e7ca5",
+        "source": "What is a prehistoric monument located in the UK and is made up of rocks and stones?",
+        "target": "Quale monumento preistorico situato nel Regno Unito \u00e8 composto da rocce e pietre?",
+        "translated": "Che cosa \u00e8 un monumento preistorico situato nel Regno Unito e \u00e8 fatto di rocce e pietre?"
+    },
+    {
+        "id": "7a92f5fe",
+        "source": "Is there an active volcano in Germany?",
+        "target": "C'\u00e8 un vulcano attivo in Germania?",
+        "translated": "C\u2019\u00e8 un vulcano attivo in Germania?"
+    },
+    {
+        "id": "f4f2a37c",
+        "source": "How many books are in the Wheel of Time series?",
+        "target": "Quanti sono i libri della serie \"La Ruota del Tempo\"?",
+        "translated": "Quanti libri ci sono nella serie Wheel of Time?"
+    },
+    {
+        "id": "28d6ebbc",
+        "source": "Is Brazil larger than Argentina?",
+        "target": "Il Brasile \u00e8 pi\u00f9 grande dell'Argentina?",
+        "translated": "Il Brasile \u00e8 pi\u00f9 grande dell\u2019Argentina?"
+    },
+    {
+        "id": "79bee70f",
+        "source": "How many different years did Marty McFly travel to in all of the Back to the Future movies?",
+        "target": "A quanti anni diversi \u00e8 andato Marty MacFly, in tutti i film di Ritorno al Futuro?",
+        "translated": "Quanti anni ha viaggiato Marty McFly in tutti i film di Back to the Future?"
+    },
+    {
+        "id": "d6491ac6",
+        "source": "When did the author who wrote Pale Fire die?",
+        "target": "Quando \u00e8 morto l'autore di \"Fuoco pallido\"?",
+        "translated": "Quando \u00e8 morto l\u2019autore che ha scritto Pale Fire?"
+    },
+    {
+        "id": "bbe2c159",
+        "source": "Is A Time to Kill a novel by John Grisham?",
+        "target": "Il momento di uccidere \u00e8 un romanzo scritto da John Grisham?",
+        "translated": "\u00c8 tempo di uccidere un romanzo di John Grisham?"
+    },
+    {
+        "id": "05dd0471",
+        "source": "Who is president of Peru?",
+        "target": "Chi \u00e8 il Presidente del Per\u00f9?",
+        "translated": "Chi \u00e8 il presidente del Per\u00f9?"
+    },
+    {
+        "id": "00a5d728",
+        "source": "Which country colonized India first, the United Kingdom or France?",
+        "target": "Quale paese ha colonizzato per primo l'India, Il Regno Unito o la Francia?",
+        "translated": "Quale paese coloni\u00f2 prima l'India, il Regno Unito o la Francia?"
+    },
+    {
+        "id": "892e5212",
+        "source": "Who was the third son of Emperor Jimmu?",
+        "target": "Chi era il terzo figlio dell'imperatore Jinmu?",
+        "translated": "Chi era il terzo figlio dell'imperatore Jimmu?"
+    },
+    {
+        "id": "4d1fccdd",
+        "source": "Which series has more books, The Chronicles of Narnia or Twilight?",
+        "target": "Quale saga \u00e8 composta da pi\u00f9 libri, Le cronache di Narnia o Twilight?",
+        "translated": "Che serie ha pi\u00f9 libri, The Chronicles of Narnia o Twilight?"
+    },
+    {
+        "id": "668fb3b3",
+        "source": "Which country was founded first, Ethiopia or Nigeria?",
+        "target": "Quale paese \u00e8 stato fondato per primo, Etiopia o Nigeria?",
+        "translated": "Quale paese \u00e8 stato fondato per la prima volta, Etiopia o Nigeria?"
+    },
+    {
+        "id": "2276ab82",
+        "source": "Which American war lasted longer, the War in Afghanistan or Vietnam?",
+        "target": "Quale guerra americana \u00e8 durata pi\u00f9 a lungo, la guerra in Afghanistan o in Vietnam?",
+        "translated": "Quale guerra americana dur\u00f2 pi\u00f9 a lungo, la guerra in Afghanistan o il Vietnam?"
+    },
+    {
+        "id": "d8759aa9",
+        "source": "Who is the shortest actor?",
+        "target": "Chi \u00e8 l'attore pi\u00f9 piccolo?",
+        "translated": "Chi \u00e8 l\u2019attore pi\u00f9 breve?"
+    },
+    {
+        "id": "65d3db2e",
+        "source": "Who was the king of Jerusalem who could not move his limbs due to leprosy?",
+        "target": "Chi era il re di Gerusalemme che non poteva muovere le braccia per via della lebbra?",
+        "translated": "Chi era il re di Gerusalemme che non poteva spostare i suoi membri a causa della lepra?"
+    },
+    {
+        "id": "e6d310be",
+        "source": "Is Mount Everest taller than Mount Kangchenjunga?",
+        "target": "L'Everest \u00e8 pi\u00f9 alto del Kangchenjunga?",
+        "translated": "L\u2019Everest \u00e8 pi\u00f9 alto di Kangchenjunga?"
+    },
+    {
+        "id": "c3ee6a4a",
+        "source": "Is Denali taller than Mount Whitney?",
+        "target": "Il Monte Denali \u00e8 pi\u00f9 alto del Monte Whitney?",
+        "translated": "E\u2019 pi\u00f9 alto di Mount Whitney?"
+    },
+    {
+        "id": "c4c4f900",
+        "source": "Which Lord of the Rings books do not feature Tom Bombadil as a character?",
+        "target": "In quale libro de \"Il signore degli anelli\" non compare il personaggio di Tom Bombadil?",
+        "translated": "Quali libri del Signore degli Anelli non caratterizzano Tom Bombadil come un personaggio?"
+    },
+    {
+        "id": "32690332",
+        "source": "What is the second longest river in the United Kingdom?",
+        "target": "Qual \u00e8 il secondo fiume pi\u00f9 lungo nel Regno Unito?",
+        "translated": "Qual \u00e8 il secondo fiume pi\u00f9 lungo del Regno Unito?"
+    },
+    {
+        "id": "664a964b",
+        "source": "What year was Pac-Man released?",
+        "target": "In che anno \u00e8 uscito Pacman?",
+        "translated": "In che anno \u00e8 stato rilasciato Pac-Man?"
+    },
+    {
+        "id": "00ba1049",
+        "source": "Which World War II general was also a United States president?",
+        "target": "Quale generale della Seconda Guerra Mondiale \u00e8 stato anche presidente degli Stati Uniti?",
+        "translated": "Quale generale della seconda guerra mondiale \u00e8 stato anche presidente degli Stati Uniti?"
+    },
+    {
+        "id": "2fcbd091",
+        "source": "Who was the wife of the French king during the attack in the French Revolution?",
+        "target": "Chi fu la moglie del Re di Francia durante l'attacco della rivoluzione francese?",
+        "translated": "Chi era la moglie del re francese durante l'attacco della Rivoluzione francese?"
+    },
+    {
+        "id": "ce51a13d",
+        "source": "Was Barack Obama president before Ronald Reagan?",
+        "target": "Barak Obama \u00e8 stato presidente prima di Ronald Reagan?",
+        "translated": "Barack Obama \u00e8 stato presidente prima di Ronald Reagan?"
+    },
+    {
+        "id": "919e819b",
+        "source": "What is the tallest building in the country where Mount Rushmore is located?",
+        "target": "Qual \u00e8 l'edificio pi\u00f9 alto del Paese dove si trova il Monte Rushmore?",
+        "translated": "Qual \u00e8 l'edificio pi\u00f9 alto del paese in cui si trova il Monte Rushmore?"
+    },
+    {
+        "id": "97815f44",
+        "source": "Is Princess Peach a character in the Mario franchise?",
+        "target": "La Principessa Peach \u00e8 un personaggio del franchise di Mario?",
+        "translated": "La principessa Peach \u00e8 un personaggio nella franchigia di Mario?"
+    },
+    {
+        "id": "190aadb8",
+        "source": "Who was the last active ruler of the Ptolemaic Kingdom of Egypt, and the daughter of Ptolemy XII Auletes?",
+        "target": "Chi fu l'ultima governante attiva del Regno Tolemaico d'Egitto e la figlia di Tolomeo XII Aulete?",
+        "translated": "Chi fu l'ultimo governatore attivo del Regno Ptolemaico d'Egitto, e la figlia di Ptolema XII Auletes?"
+    },
+    {
+        "id": "c119423a",
+        "source": "Which of Columbus's ships did not make it back to Spain?",
+        "target": "Quale caravella di Colombo non ri\u00e8 uscito a tornare in Spagna?",
+        "translated": "Quale delle navi di Colombo non lo ha fatto tornare in Spagna?"
+    },
+    {
+        "id": "8ed50f04",
+        "source": "Was the boat in Jaws called Orca?",
+        "target": "Il nome della barca nel film Lo squalo era Orca?",
+        "translated": "La barca di Jaws si chiamava Orca?"
+    },
+    {
+        "id": "401ed50e",
+        "source": "What is the highest peak in Iceland?",
+        "target": "Qual \u00e8 la vetta pi\u00f9 alta in Islanda?",
+        "translated": "Qual \u00e8 il picco pi\u00f9 alto in Islanda?"
+    },
+    {
+        "id": "301f5f5e",
+        "source": "Which ship was Christopher Columbus on when he landed in America?",
+        "target": "Su che nave era Cristoforo Colombo quando sbarc\u00f2 in America?",
+        "translated": "Quale nave era Christopher Columbus quando \u00e8 atterrato in America?"
+    },
+    {
+        "id": "fed0cc2c",
+        "source": "Which Chronicles of Narnia does not contain mention of Peter Pevensie?",
+        "target": "Quale libro de \"Le cronache di Narnia\" non contiene un riferimento a Peter Pevensie?",
+        "translated": "Quali Cronici di Narnia non contengono menzione di Peter Pevensie?"
+    },
+    {
+        "id": "ae9f3be5",
+        "source": "Was Friday the 13th released the same year as Halloween?",
+        "target": "Venerd\u00ec 13 \u00e8 uscito lo stesso anno di Halloween?",
+        "translated": "Il venerd\u00ec 13 \u00e8 stato rilasciato lo stesso anno di Halloween?"
+    },
+    {
+        "id": "ea11ff6a",
+        "source": "Is Mount Saint Helens in Oregon?",
+        "target": "Il monte Saint Helens si trova in Oregon?",
+        "translated": "Il Monte Saint Helens in Oregon?"
+    },
+    {
+        "id": "bab099a8",
+        "source": "Has Mount St. Helens erupted after 2010?",
+        "target": "Il Monte Saint Helens ha eruttato dopo il 2010?",
+        "translated": "Il Monte St. Helens \u00e8 esploso dopo il 2010?"
+    },
+    {
+        "id": "ab042b52",
+        "source": "What actor played James Bond and was born in Ireland?",
+        "target": "Quale attore \u00e8 nato in Irlanda ed ha recitato come James Bond?",
+        "translated": "Quale attore ha interpretato James Bond e \u00e8 nato in Irlanda?"
+    },
+    {
+        "id": "7932e9b8",
+        "source": "What was the longest battle of World War I?",
+        "target": "Qual \u00e8 stata la battaglia pi\u00f9 lunga della Prima Guerra Mondiale?",
+        "translated": "Qual \u00e8 stata la battaglia pi\u00f9 lunga della prima guerra mondiale?"
+    },
+    {
+        "id": "9ff5ee42",
+        "source": "Who directed the movie that was based on the third book of Lord of the Rings?",
+        "target": "Chi \u00e8 il regista del film tratto dal terzo libro de Il Signore degli Anelli?",
+        "translated": "Chi ha diretto il film basato sul terzo libro del Signore degli Anelli?"
+    },
+    {
+        "id": "215b8b3e",
+        "source": "Who was the first female pilot to fly across the Atlantic ocean?",
+        "target": "Chi fu la prima donna pilota ad attraversare l'oceano Atlantico?",
+        "translated": "Chi \u00e8 stato il primo pilota femminile a volare attraverso l\u2019Oceano Atlantico?"
+    },
+    {
+        "id": "61a68cda",
+        "source": "Who is the most decorated Olympian of all time and was born in Baltimore, MD?",
+        "target": "Chi \u00e8 l' olimpico pi\u00f9 decorato di tutti i tempi e nacque a Baltimora, MD?",
+        "translated": "Chi \u00e8 il pi\u00f9 decorato olimpico di tutti i tempi e nasce a Baltimore, MD?"
+    },
+    {
+        "id": "d6256589",
+        "source": "Which was larger, the Abbasid Caliphate or the Mongol Empire?",
+        "target": "Qual era pi\u00f9 grande, il Califfato di Abbasid o l'Impero Mongolo?",
+        "translated": "Quale era pi\u00f9 grande, il Califato Abbasido o l'Impero Mongolo?"
+    },
+    {
+        "id": "c8a8b965",
+        "source": "What was the first Smash Bros game to include Princess Peach?",
+        "target": "Qual \u00e8 stato il primo gioco di Smash Bros ad avere la principessa Peach?",
+        "translated": "Qual \u00e8 stato il primo gioco Smash Bros a includere Princess Peach?"
+    },
+    {
+        "id": "053265c6",
+        "source": "Which country has a larger population, Germany or France?",
+        "target": "Quale nazione \u00e8 pi\u00f9 popolosa, la Germania o la Francia?",
+        "translated": "Quale paese ha una popolazione pi\u00f9 grande, Germania o Francia?"
+    },
+    {
+        "id": "455ed398",
+        "source": "What books from the Chronicles of Narnia series were not made into a movie?",
+        "target": "Quali libri della \"Le cronache di Narnia\" non sono diventati film?",
+        "translated": "Quali libri della serie Chronicles of Narnia non sono stati realizzati in un film?"
+    },
+    {
+        "id": "38ed6e9f",
+        "source": "Which Lord of the Rings trilogy book does not feature the living warrior Boromir?",
+        "target": "In quale libro del Signore degli anelli non compare Boromir il guerriero vivente?",
+        "translated": "Quale libro della trilogia del Signore degli Anelli non contiene il guerriero vivente Boromir?"
+    },
+    {
+        "id": "f1be9d65",
+        "source": "Who was president during World War One?",
+        "target": "Chi fu il presidente durante la prima guerra mondiale?",
+        "translated": "Chi \u00e8 stato presidente durante la prima guerra mondiale?"
+    },
+    {
+        "id": "490aa6c6",
+        "source": "How many countries are there in Europe?",
+        "target": "Quanti Paesi ci sono in Europa?",
+        "translated": "Quanti paesi ci sono in Europa?"
+    },
+    {
+        "id": "952413af",
+        "source": "What year did the second jaws movie come out?",
+        "target": "Quando \u00e8 uscito il secondo film de Lo Squalo?",
+        "translated": "In che anno \u00e8 uscito il secondo film?"
+    },
+    {
+        "id": "0844ce6c",
+        "source": "What is the tallest active volcano in Europe?",
+        "target": "Qual \u00e8 il pi\u00f9 alto vulcano attivo in Europa?",
+        "translated": "Qual \u00e8 il vulcano attivo pi\u00f9 alto in Europa?"
+    },
+    {
+        "id": "61243433",
+        "source": "Was John Quincy Adams the fifth president of the United States of America?",
+        "target": "John Quincy Adams \u00e8 stato il quinto Presidente degli Stati Uniti d'America?",
+        "translated": "John Quincy Adams \u00e8 il quinto presidente degli Stati Uniti."
+    },
+    {
+        "id": "517fba5a",
+        "source": "How many countries in the United Kingdom?",
+        "target": "Quanto paesi ci sono nel Regno Unito?",
+        "translated": "Quanti paesi nel Regno Unito?"
+    },
+    {
+        "id": "5ab834ef",
+        "source": "Is Wheel of Time going to be made into a TV series?",
+        "target": "Da La Ruota del Tempo verr\u00e0 tratta una serie TV?",
+        "translated": "La ruota del tempo sar\u00e0 realizzata in una serie televisiva?"
+    },
+    {
+        "id": "ad6cbae4",
+        "source": "Which country is a part of North America and was also involved in the Louisiana Purchase?",
+        "target": "Quale nazione \u00e8 parte del Nord America ed \u00e8 stata inoltre coinvolta nell'\"Acquisto della Luisiana\"?",
+        "translated": "Quale paese fa parte dell'America del Nord e \u00e8 stato anche coinvolto nell'acquisto della Louisiana?"
+    }
+]
