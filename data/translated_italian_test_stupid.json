@@ -1,0 +1,102 @@
+[
+    {
+        "id": "123fe725",
+        "source": "Which Beyonc\u00e9 album had more songs, Lemonade or Everything is Love?",
+        "target": "Quale album di Beyonce contiene pi\u00f9 canzoni: \"Lemonade\" o \"Everything is Love\"?",
+        "masked_source": "Which [ENTITY_PER_1] album had more songs, [ENTITY_MEDIA_1] or Everything is Love?",
+        "translation": "Quale album di Beyonc\u00e9 ha pi\u00f9 canzoni, Il limone o Tutto \u00e8 Amore?",
+        "filtered_mapping": {
+            "[ENTITY_PER_1]": {
+                "original_text": "Beyonc\u00e9",
+                "type": "PER",
+                "confidence": 0.9755765199661255,
+                "start": 6,
+                "end": 13
+            },
+            "[ENTITY_MEDIA_1]": {
+                "original_text": "Lemonade",
+                "type": "MEDIA",
+                "confidence": 0.8599872589111328,
+                "start": 43,
+                "end": 51
+            }
+        }
+    },
+    {
+        "id": "f59c6a0b",
+        "source": "Which king of England was never officially crowned?",
+        "target": "Quale re d'Inghilterra non \u00e8 mai stato ufficialmente incoronato?",
+        "masked_source": "Which king of [ENTITY_LOC_1] was never officially crowned?",
+        "translation": "Quale re di Inghilterra non \u00e8 mai stato coronato ufficialmente?",
+        "filtered_mapping": {
+            "[ENTITY_LOC_1]": {
+                "original_text": "England",
+                "type": "LOC",
+                "confidence": 0.9962968230247498,
+                "start": 14,
+                "end": 21
+            }
+        }
+    },
+    {
+        "id": "8e1db257",
+        "source": "What is the most amount of money an actor has received for one movie?",
+        "target": "A quanto corrisponde la pi\u00f9 grande quantit\u00e0 di denaro guadagnata da un attore per un film?",
+        "masked_source": "What is the most amount of money an actor has received for one movie?",
+        "translation": "Quale \u00e8 la quantit\u00e0 di denaro che un attore ha ricevuto per un film?",
+        "filtered_mapping": {}
+    },
+    {
+        "id": "331a0d66",
+        "source": "What city in the Philippines is geographically located within Benguet and is called the \"City of Pines\"?",
+        "target": "Quale citt\u00e0 delle Filippine \u00e8 collocata nella provincia di Benguet e viene chiamata la \"Citt\u00e0 dei pini\"?",
+        "masked_source": "What city in the [ENTITY_LOC_1] is geographically located within [ENTITY_LOC_2] and is called the \"[ENTITY_LOC_3]\"?",
+        "translation": "Quale citt\u00e0 nella Filippine \u00e8 geograficamente situata all'interno di Benguet e si chiama \"Citt\u00e0 di Pines\"?",
+        "filtered_mapping": {
+            "[ENTITY_LOC_1]": {
+                "original_text": "Philippines",
+                "type": "LOC",
+                "confidence": 0.9997709393501282,
+                "start": 17,
+                "end": 28
+            },
+            "[ENTITY_LOC_2]": {
+                "original_text": "Benguet",
+                "type": "LOC",
+                "confidence": 0.9913216233253479,
+                "start": 65,
+                "end": 72
+            },
+            "[ENTITY_LOC_3]": {
+                "original_text": "City of Pines",
+                "type": "LOC",
+                "confidence": 0.9522722363471985,
+                "start": 99,
+                "end": 112
+            }
+        }
+    },
+    {
+        "id": "638e3c24",
+        "source": "Which famous retired basketball player wore number 23 with the Chicago Bulls and went to college at North Carolina?",
+        "target": "Quale famoso ex giocatore di basket indossava la maglia numero 23 con i Chicago Bulls e ha frequentato il college nella Carolina del Nord?",
+        "masked_source": "Which famous retired basketball player wore number 23 with the [ENTITY_ORG_1] and went to college at [ENTITY_LOC_1]?",
+        "translation": "Quale famoso giocatore di basket in pensione indossava il numero 23 con il Il Chicago Bulls e and\u00f2 al college a La Carolina del Nord?",
+        "filtered_mapping": {
+            "[ENTITY_ORG_1]": {
+                "original_text": "Chicago Bulls",
+                "type": "ORG",
+                "confidence": 0.9999880790710449,
+                "start": 63,
+                "end": 76
+            },
+            "[ENTITY_LOC_1]": {
+                "original_text": "North Carolina",
+                "type": "LOC",
+                "confidence": 0.99985671043396,
+                "start": 101,
+                "end": 115
+            }
+        }
+    }
+]
