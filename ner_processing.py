@@ -19,8 +19,8 @@ def sanity_check(inputs):
         recall (int)
         f1 (int)
     '''
-    entities_labeled = inputs["source_entities_labeled"]
-    entites_predicted = inputs["target_entities_labeled"]
+    entities_labeled = inputs["entities_labeled"]
+    entites_predicted = inputs["entities_predicted"]
     TP, FP, FN = 0, 0, 0
 
     # Loop through each observation
@@ -65,7 +65,7 @@ def identify_named_entities(inputs, language, split):
     results = {"source": source, "source_entities_labeled": source_entities_labeled, "source_entities_predicted": source_entities_predicted,
                "source_pred": source_pred, "target": target, "target_entities_labeled": target_entities_labeled,
                "target_entities_predicted": target_entities_predicted, "target_pred": target_pred}
-
+ 
     # Directory to save model output to reduce repeated computation
     output_dir = 'data'
     os.makedirs(output_dir, exist_ok=True)
