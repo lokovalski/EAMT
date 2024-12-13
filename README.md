@@ -29,3 +29,5 @@
 - meta_translation_spanish.json
 
 Figures and metrics for the paper were created by running various scripts in lolatest.ipynb.
+
+Additionally, note there are some python versioning issues we need to resolve when cleaning this up. Some scripts only work on version 3.11.9 and others only work on version 3.11.10 of python  
